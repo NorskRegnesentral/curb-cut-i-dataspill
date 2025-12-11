@@ -1,0 +1,9 @@
+.project
+.pydevproject
+*.pyc
+*.prefs
+
+*.xlsx
+
+wech/
+DUMP.JSON
