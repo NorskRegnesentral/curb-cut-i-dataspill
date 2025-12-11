@@ -20,8 +20,9 @@ tasks_no = {
          "var":   ["land"],
          "sets":  ["all"],
          "title": "Hvor bor du?",
-         "kind":  "pie",
-         "cmap":  "Spectral"
+         "kind":  "barh",
+         "cmap":  bar_color,
+         "text_bckgrd": True
       },
    
    # 1. age as pie chart
@@ -116,8 +117,8 @@ tasks_no = {
          "var": ["opplevde-utfordringer"],
          "sets":  ["all"], 
          "title": "Hvor ofte opplever du at det er vanskelig å spille med dine behov?",
-         "kind":  "pie",
-         "cmap":  pie_color_dark,
+         "kind":  "bar",
+         "cmap":  bar_color,
          "text_bckgrd": True
       },
    
