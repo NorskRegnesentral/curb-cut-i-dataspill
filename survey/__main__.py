@@ -59,7 +59,8 @@ def process_data():
    1. Defining data sets.
    """
    # I think this is the cleanest way but I encourage you to prove me wrong.
-   df_all          = pd.read_csv(data_file,sep=";")
+   df_all = pd.read_csv(data_file,sep=";")
+   df_all.replace(r'\\n', '\n', regex=True, inplace=True)
    #df_norway_only  = df_all[df_all["land"] == "Ukjent"]
    #df_sweden_only  = df_all[df_all["land"] != "Ukjent"]
    
@@ -157,7 +158,11 @@ def process_data():
          fig_size  = ()
          if "fig_size" in values:
             fig_size = values["fig_size"]
+         
          is_percentage       = False
+         if "is-percentage" in values:
+            is_percentage = values["is-percentage"]
+            
          curr_res  = "" 
          
          if  not "subsets" in values or not values["subsets"]:   
@@ -169,7 +174,7 @@ def process_data():
             grouped_data, curr_res = prepare_data(curr_data_set,var,lookup,kind,sep)
             
             if  not kind == "text":
-               plot_data(grouped_data,kind,curr_title,save_file=save_file,fig_size=fig_size,cmap=cmap,text_bckgrd=text_bckgrd) # Here, the actually analysis is triggered
+               plot_data(grouped_data,kind,curr_title,save_file=save_file,is_percentage=is_percentage,fig_size=fig_size,cmap=cmap,text_bckgrd=text_bckgrd) # Here, the actually analysis is triggered
             
                rel_save_file = os.path.relpath(save_file,os.path.dirname(res_dict[set]["file"]))
                rel_save_file = PurePath(rel_save_file).as_posix()

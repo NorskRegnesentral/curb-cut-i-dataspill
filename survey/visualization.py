@@ -28,7 +28,6 @@ def plot_data(data,kind,title,save_file="",is_percentage=False,fig_size=(),cmap=
 
    else: 
               
-      
       if is_percentage:
          total = data.sum()
          pct = round((data/total) * 100,0)
