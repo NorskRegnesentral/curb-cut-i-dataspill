@@ -308,9 +308,6 @@
     - Lydssignaler som viser hvor fotspor, kister og slikt kommer fra (delt opp ID-41)
     - visuell lyd
 
-- Fargeblindhetstilpasninger
-    - (Ingen nye svar nevnte dette eksplisitt, men kategorien beholdes for konsistens)
-
 - Grensesnitt, skrift og grafikkinnstillinger
     - Skriftstørrelse (delt opp ID-18)
     - Basically… I miss larger font sizes the most (delt opp ID-19)
@@ -320,9 +317,6 @@
     - mulighet for større skrift i spillene, samt endre på hvor store ting er på skjermen
     - Like muligheter til å justere kvaliteten på grafikken når en spiller på konsoll, slik PC-spillere ofte har
     - grafiske innstillinger som motion blur (delt opp ID-18)
-
-- Automatisering og QoL-funksjoner
-    - (Ingen nye svar nevnte dette eksplisitt, men kategorien beholdes for konsistens)
 
 - Hukommelsesstøtte og spilloversikt
     - kart over hvor du har gått (delt opp ID-04)
@@ -359,7 +353,6 @@
     - Vet ikke
     - Forstår ikke
 
-    
 ### Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
 - **Visuell komfort og skjerminnstillinger**  
@@ -389,14 +382,8 @@
 - **Indikatorer og assistansefunksjoner**  
   Det er behov for flere visuelle og lydindikatorer, auto-aim, autolock og navigasjonshjelp for bedre orientering.
 
-- **Fargeblindhetstilpasninger**  
-  Selv om få nevnte dette eksplisitt, er behovet fortsatt relevant for mange spillere.
-
 - **Grensesnitt, skrift og grafikkinnstillinger**  
   Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll.
-
-- **Automatisering og QoL-funksjoner**  
-  Kategorien beholdes, men ingen nye funksjoner ble nevnt i denne runden.
 
 - **Hukommelsesstøtte og spilloversikt**  
   Spillere ønsker kart over hvor de har vært, automatisk logg og innebygd notatbok for bedre oversikt.
