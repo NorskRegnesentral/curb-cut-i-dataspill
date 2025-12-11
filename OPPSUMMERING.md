@@ -3,7 +3,7 @@
 1. Bakgrunn:
     - Vi skal oppsumere svar fra en spørreundersøkelse for en vitenskapelig rapport.
 2. Formål:
-    - Lag en strukturert liste med kategorier som overskrifter og underpunkter med svar.
+    - Lag en strukturert liste med kategorier som hovedpunkter og underpunkter med svar.
 3. Originalsvar:
     - Brukeren poster først alle originalsvarene i en liste.
     - Når listen er komplett, starter gruppering.
@@ -38,15 +38,15 @@
     - Prosessen kan gjentas i flere iterasjoner til brukeren er fornøyd.
 9. Sammendrag for rapport
     - Etter at kategoriene er godkjent, lag et kort sammendrag for hver kategori (én setning per kategori).  
-    - Sammendraget skal gjøre det tydelig at dette er funksjoner spillere faktisk bruker.  
+    - Sammendraget skal gjøre det tydelig at dette er svar som faktisk kommer fra reelle brukere.  
     - Språkstil avklares med brukeren: vitenskapelig, populærvitenskapelig eller nøytral rapportstil.  
     - Sammendraget kan inkludere enkle eksempler hvis nødvendig, men skal være kort og presist.  
 
-## bruk-av-tilgjengelighetsfunksjoner
+# bruk-av-tilgjengelighetsfunksjoner_with-impair
 
 9. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller? (Alle land)
 
-### Kategorisering
+## Kategorisering
 
 **Antall svar: 53**
 
@@ -191,7 +191,7 @@
     - Forstår ikke
     - Ingen (delt opp ID-06)
 
-### Sammendrag av tilgjengelighetsfunksjoner brukt av spillere
+## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere
 
 - **Visuell komfort og skjerminnstillinger**  
   Spillere bruker lys- og kontrastjustering, fargeinnstillinger og slår av blinkende effekter for å redusere ubehag og kvalme.
@@ -235,15 +235,13 @@
 - **Fysiske tilpasninger og maskinvarevalg**  
   Spillere tilpasser utstyr og omgivelser, som headset eller lys, for bedre komfort.
 
-- **Uklart eller ingen funksjoner**  
-  Flere oppgir at de ikke bruker tilgjengelighetsfunksjoner eller er usikre på hva som finnes.
 
 
-## savnete-tilgjengelighetsfunksjoner
+# savnete-tilgjengelighetsfunksjoner
 
 10. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
 
-### Kategorisering
+## Kategorisering
 
 - Visuell komfort og skjerminnstillinger
     - More light settings in games. They are normally just adjusted for epilepsy, not light sensitive.
@@ -353,7 +351,7 @@
     - Vet ikke
     - Forstår ikke
 
-### Sammendrag av tilgjengelighetsfunksjoner spillere savner
+## Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
 - **Visuell komfort og skjerminnstillinger**  
   Spillere savner flere lysinnstillinger, epilepsisikre alternativer, bedre kontrast og enklere måter å unngå first-person for å redusere ubehag.
@@ -399,6 +397,167 @@
 
 - **Programvare og eksterne verktøy**  
   Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
+  
+# personlig-opplevd-curb-cut_with-impair
 
-- **Uklart eller ingen funksjoner**  
-  Mange svar er uklare eller indikerer at spilleren ikke vet hvilke funksjoner som mangler.
+## Kategorisering
+
+
+11 Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
+
+- Teksting og undertekster
+    - Teksting
+    - Teksting
+    - 1. Undertekst (delt opp ID-15)
+
+- Kommunikasjon og chat
+    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp ID-15)
+
+- Tekststørrelse og grensesnitt
+    - Muligheter for å forstørre teksten (delt opp ID-02)
+    - Größere GUI (Guildwars)
+
+- Visuell komfort og epilepsitiltak
+    - Epilepsi: flicker-free options or effects filters (delt opp ID-15)
+    - deaktivere lysblinking (delt opp ID-13)
+
+- Kamera og bevegelseskontroll
+    - Reduce Screen Shaking
+
+- Indikatorer og orienteringshjelp
+    - visual indicators (delt opp ID-09)
+    - sound indicators (delt opp ID-09)
+    - retnings-/oppmerksomhetsindikator (hvilken retning lyder eller angrep kommer fra) (delt opp ID-13)
+    - Bruker en funksjon som viser lydene visuelt på skytespill
+    - Visuelle lydindikatorer
+    - lyd på skjerm
+
+- Fargeblindhetstilpasninger
+    - Fargeblindmodus hjelper ved puslespill selv om ikke er fargeblind
+    - fargeblind modus fordi ting ser bedre ut selv om jeg ikke er fargeblind (delt opp ID-16)
+
+- Kontroller og inputfunksjoner
+    - Motoriske som å endre button mashing til single tap eller hold
+
+- Spillflyt og tempo
+    - Passive Gegner (Valheim)
+    - Pause zum Spielzug machen (FTL, Mini Metro, Mini Motorways)
+
+- Uklart eller generelt
+    - Masse forskjellig, vanskelig å spesifisere
+    - Alle tidligere nevnt. Teknisk ikke sett laget for meg, men hjalp.
+    - See 11. I always try to be creative.
+
+
+## Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
+
+- **Teksting og undertekster**  
+  Spillere brukte undertekster for å følge dialog og handling, selv om funksjonen ikke var laget for dem.
+
+- **Kommunikasjon og chat**  
+  Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon.
+
+- **Tekststørrelse og grensesnitt**  
+  Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon.
+
+- **Visuell komfort og epilepsitiltak**  
+  Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt for å redusere ubehag.
+
+- **Kamera og bevegelseskontroll**  
+  Reduksjon av skjermristing hjalp spillere med bevegelsessyke.
+
+- **Indikatorer og orienteringshjelp**  
+  Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse.
+
+- **Fargeblindhetstilpasninger**  
+  Fargeblindmodus ble brukt av spillere som ikke er fargeblinde fordi det ga bedre kontrast og synlighet.
+
+- **Kontroller og inputfunksjoner**  
+  Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.
+
+- **Spillflyt og tempo**  
+  Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende.
+
+# generell-opplevd-curb-cut_with-impair
+
+13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til? 
+
+## Kategorisering
+
+
+## 12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Hvilke funksjoner har du lagt merke til? (Alle land)
+
+- Teksting og undertekster
+    - Tekst på skjermen nå helt vanlig men ble opprinnelig laget for hørselshemmede
+    - Teksting
+    - Er personlig glad i subtitles feks.
+
+- Tilpasning av vanskelighetsgrad
+    - tilpasset vanskelighetsgrad (delt opp ID-02)
+
+- Fargeblindhetstilpasninger
+    - Fargeblindmodus gir noen ganger fordeler i kompetitivt spill.
+    - For fargeblinde og for dårlig syn
+    - Feks løsninger for fargeblinde brukes for å gjøre spillet enklere/greiere å spille
+    - Fargeblinde farger og den fortnite lydsvarsler.
+
+- Visuell komfort og lys/kontrast
+    - Kontrast
+    - I know light settings would help lots of players
+
+- Tekststørrelse og grensesnitt
+    - Skriftstørrelse (delt opp ID-06)
+
+- Kontroller og motoriske tilpasninger
+    - motoriske innstillinger (delt opp ID-06)
+    - Button mapping
+    - toggles (delt opp ID-13)
+    - button remap (delt opp ID-13)
+
+- Indikatorer og orienteringshjelp
+    - visual indicators (delt opp ID-07)
+    - sound indicators (delt opp ID-07)
+    - lyd på skjerm
+    - Visuelle lydindikatorer
+    - visuell lyd i fortnite
+    - map options som viser en pil i rollespill (delt opp ID-15)
+
+- Assistansefunksjoner for presisjon
+    - aim assist (delt opp ID-13)
+
+- Mods og eksterne tilpasninger
+    - Mods
+
+- Generelt eller uklart
+    - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene.
+
+
+## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere
+
+- **Teksting og undertekster**  
+  Undertekster og skjermtekst, opprinnelig laget for hørselshemmede, brukes nå bredt av spillere for bedre forståelse.
+
+- **Tilpasning av vanskelighetsgrad**  
+  Justering av vanskelighetsnivå, laget for tilgjengelighet, brukes av mange for en mer tilpasset spillopplevelse.
+
+- **Fargeblindhetstilpasninger**  
+  Fargeblindmodus og tilhørende fargejusteringer brukes av spillere for bedre kontrast og til og med fordeler i konkurransespill.
+
+- **Visuell komfort og lys/kontrast**  
+  Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag.
+
+- **Tekststørrelse og grensesnitt**  
+  Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet.
+
+- **Kontroller og motoriske tilpasninger**  
+  Funksjoner som knappere-mapping og toggles, laget for motoriske utfordringer, brukes av andre for komfort og effektivitet.
+
+- **Indikatorer og orienteringshjelp**  
+  Visuelle og lydindikatorer, samt kartmarkører, hjelper spillere med navigasjon og situasjonsforståelse.
+
+- **Assistansefunksjoner for presisjon**  
+  Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting.
+
+- **Mods og eksterne tilpasninger**  
+  Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
+
