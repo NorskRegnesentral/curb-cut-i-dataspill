@@ -19,10 +19,10 @@ tasks_no = {
    0: { 
          "var":   ["land"],
          "sets":  ["all"],
-         "title": "Hvor bor du?",
+         "title": "Hvor bor du? (%)",
          "kind":  "barh",
          "cmap":  bar_color,
-         "text_bckgrd": True
+         "is-percentage": True
       },
    
    # 1. age as pie chart
@@ -76,16 +76,42 @@ tasks_no = {
          "text_bckgrd": True
       },
    
+   
+   400: {
+         "var":     ["spillevaner"],
+         "sets":    ["all"],
+         "subsets": {
+            1: {
+               "var":            "funksjonsnedsettelse",
+               "operators":     [("equal to","Nei","without-impair"),("equal to","Ja","with-impair")],
+               "file-app":       "with-v-withou-impair-pct",
+               "title-app":      "Med vs. Uten funksjonsnedsettelse (%)",
+               "is-percentage":  True
+               },
+            2: {
+               "var":           "funksjonsnedsettelse",
+               "operators":     [],
+               "file-app":      "all-abilities",
+               "title-app":     "Uansett funksjonsevne (%)",
+               "is-percentage": True
+               },
+         },
+         "title":    "Hvor ofte spiller du dataspill?",
+         "kind":     "bar",
+         "fig_size": (10,6),
+         "cmap":  bar_color
+      },
+   
    # 5. plattform preferances as pie chart separated by impairment (with, without, combined)
    5: {
          "var": ["plattformpreferanser-kort"],
          "data-sep": ";",
          "sets":  ["all"], 
-         "title": "Hvilke spillplattformer bruker du mest?",
+         "title": "Hvilke spillplattformer bruker du mest? (Total #)",
          "kind":  "barh",
          "cmap":  bar_color,
          "text_bckgrd": True,
-         "is-percentage":  True
+         #"is-percentage":  True
       },
    
    # 6. genrepreferances as pie chart separated by impairment (with, without, combined)
@@ -93,11 +119,11 @@ tasks_no = {
          "var": ["sjangerpreferanser-kort"],
          "sets":  ["all"],
          "data-sep": ";",
-         "title": "Hvilke spillsjangere foretrekker du?",
+         "title": "Hvilke spillsjangere foretrekker du? (Total #)",
          "kind":  "barh",
          "cmap":  pie_color_dark,
          "text_bckgrd": True,
-         "is-percentage":  True
+         #"is-percentage":  True
       },
    
     # 7. genre wishesas pie chart separated by impairment (with, without, combined)
@@ -105,21 +131,22 @@ tasks_no = {
          "var": ["sjangeronsker-kort"],
          "sets":  ["all"],
          "data-sep": ";",
-         "title": "Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg?",
+         "title": "Hvilke spillsjangere skulle du ønske du kunne spille mer,\nhvis de var bedre tilgjengelige for deg? (Total #)",
          "kind":  "barh",
          "cmap":  pie_color_dark,
          "text_bckgrd": True,
-         "is-percentage":  True
+         #"is-percentage":  True
       },
    
    # 8. gaming habits as pie chart separated by impairment (with, without, combined)
    8: {
          "var": ["opplevde-utfordringer"],
          "sets":  ["all"], 
-         "title": "Hvor ofte opplever du at det er vanskelig å spille med dine behov?",
+         "title": "Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)",
          "kind":  "bar",
          "cmap":  bar_color,
-         "text_bckgrd": True
+         "text_bckgrd": True,
+         "is-percentage": True,
       },
    
    9: { 
@@ -139,7 +166,7 @@ tasks_no = {
    11: {
          "var": ["personlig-opplevd-curb-cut_with-impair"],
          "sets":  ["all"], 
-         "title": "Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?",
+         "title": "Har du brukt tilgjengelighetsfunksjoner\nsom ikke var laget for dine behov,\nmen som likevel hjalp deg?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
@@ -155,7 +182,7 @@ tasks_no = {
    13: {
          "var": ["generell-opplevd-curb-cut_with-impair"],
          "sets":  ["all"], 
-         "title": "Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?",
+         "title": "Har du lagt merke til at funksjoner\nlaget for én gruppe\nbrukes av andre spillere?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
@@ -180,7 +207,7 @@ tasks_no = {
    16: {
          "var": ["kjennskap-til-tilgjengelighetsfunksjoner"],
          "sets":  ["all"], 
-         "title": "Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?",
+         "title": "Har du lagt merke til tilgjengelighetsinnstillinger\neller -funskjoner i spill du har spilt?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
@@ -196,7 +223,7 @@ tasks_no = {
    18: {
          "var": ["interesse-for-tilgjengelighetsfunksjoner"],
          "sets":  ["all"], 
-         "title": "Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?",
+         "title": "Er du nysgjerrig på tilgjengelighetsfunksjoner\nnår du ser dem i spill eller på plattformen du bruker?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
@@ -205,7 +232,7 @@ tasks_no = {
    19: {
          "var": ["bruk-av-tilgjengelighetsfunksjoner_without-impair"],
          "sets":  ["all"], 
-         "title": "Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?",
+         "title": "Har du noen gang brukt slike funksjoner selv –\nfor eksempel teksting, fargejustering, zoom,\nkontrolltilpasning eller assistansemoduser?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
@@ -228,7 +255,7 @@ tasks_no = {
    22: {
          "var": ["personlig-opplevd-curb-cut_without-impair"],
          "sets":  ["all"], 
-         "title": "Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?",
+         "title": "Har du opplevd at funksjoner laget for tilgjengelighet\nhar forbedret din egen spillopplevelse?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True

@@ -1,17 +1,10 @@
 # Results from the survey
 
-## 0. Hvor bor du? (Alle land)
+## 0. Hvor bor du? (%) (Alle land)
 
-![Hvor bor du? Alle land](results/no/00-land-all-countries.png)
+![Hvor bor du? (%) Alle land](results/no/00-land-all-countries.png)
 
-```
-                                        land
-land                                        
-Danmark, Sverige, Finland eller Island     1
-Det øvrige Europa                         16
-Norge                                     82
-Resten av verden                           6
-```
+
 
 ## 1. Hvor gammel er du? (Alle land)
 
@@ -70,18 +63,30 @@ ubestemt                                                     4
 ![Hvor ofte spiller du dataspill? Alle land](results/no/04-spillevaner-all-countries.png)
 
 ```
-                                                    spillevaner
-spillevaner                                                    
-Daglig                                                       56
-Et par ganger i måneden                                      12
-Et par ganger i uken                                         27
-Jeg har prøvd å spille, men spiller ikke regelm...            4
-Sjeldnere                                                     6
+                            spillevaner
+spillevaner                            
+Daglig                               56
+Et par ganger\ni måneden             11
+Et par ganger\ni uken                27
+Et par ganger \n i måneden            1
+Sjeldnere                             6
+Spiller ikke\nregelmessig             4
 ```
 
-## 5. Hvilke spillplattformer bruker du mest? (Alle land)
+## 400. Hvor ofte spiller du dataspill? (Alle land)
 
-![Hvilke spillplattformer bruker du mest? Alle land](results/no/05-plattformpreferanser-kort-all-countries.png)
+### Subset Med vs. Uten funksjonsnedsettelse (%)
+
+![Hvor ofte spiller du dataspill?Alle land, Med vs. Uten funksjonsnedsettelse (%)](results/no/400-01-spillevaner-all-countries-with-v-withou-impair-pct.png)
+
+### Subset Uansett funksjonsevne (%)
+
+![Hvor ofte spiller du dataspill?Alle land, Uansett funksjonsevne (%)](results/no/400-02-spillevaner-all-countries-all-abilities.png)
+
+
+## 5. Hvilke spillplattformer bruker du mest? (Total #) (Alle land)
+
+![Hvilke spillplattformer bruker du mest? (Total #) Alle land](results/no/05-plattformpreferanser-kort-all-countries.png)
 
 ```
                            plattformpreferanser-kort
@@ -97,9 +102,9 @@ Steam Deck                                         2
 Xbox                                               8
 ```
 
-## 6. Hvilke spillsjangere foretrekker du? (Alle land)
+## 6. Hvilke spillsjangere foretrekker du? (Total #) (Alle land)
 
-![Hvilke spillsjangere foretrekker du? Alle land](results/no/06-sjangerpreferanser-kort-all-countries.png)
+![Hvilke spillsjangere foretrekker du? (Total #) Alle land](results/no/06-sjangerpreferanser-kort-all-countries.png)
 
 ```
                               sjangerpreferanser-kort
@@ -120,55 +125,35 @@ Strategispill                                      47
 Survival                                            4
 ```
 
-## 7. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Alle land)
+## 7. Hvilke spillsjangere skulle du ønske du kunne spille mer,
+hvis de var bedre tilgjengelige for deg? (Total #) (Alle land)
 
-![Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? Alle land](results/no/07-sjangeronsker-kort-all-countries.png)
-
-```
-                                                    sjangeronsker-kort
-sjangeronsker-kort                                                    
-.                                                                    1
-Action-eventyrspill                                                 23
-Annet                                                                1
-Call of duty                                                         1
-Dårlig spørsmål                                                      1
-Gatcha                                                               1
-Hjernetrimspill (Puslespill)                                        13
-I wish I could play more mainstream games overa...                   1
-Ikke aktuellt                                                        1
-Ingen, jeg kan spille det jeg vil                                    1
-Multiplayer                                                          1
-Multiplayer-spill hvor det skjer mye på én skje...                   1
-None                                                                 1
-Overlevelse og sandkassespill                                        1
-Overlevelsesspill, og kreative/sandkassespill                        1
-Plattformspill                                                       8
-Racerspill                                                          10
-Rollespill (RPG)                                                    16
-Skrekkspill                                                          8
-Skytespill                                                          16
-Slåssespill                                                          9
-Sportsspill                                                          9
-Strategispill                                                       21
-VR                                                                   1
-Vet ikke                                                             1
-home decor and cooking                                               1
-none                                                                 1
-```
-
-## 8. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (Alle land)
-
-![Hvor ofte opplever du at det er vanskelig å spille med dine behov? Alle land](results/no/08-opplevde-utfordringer-all-countries.png)
+![Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #) Alle land](results/no/07-sjangeronsker-kort-all-countries.png)
 
 ```
-                       opplevde-utfordringer
-opplevde-utfordringer                       
-Aldri                                      2
-Alltid                                    11
-Av og til                                 23
-Ofte                                      13
-Sjelden                                    4
+                              sjangeronsker-kort
+sjangeronsker-kort                              
+Action-eventyrspill                           24
+Annet                                         10
+Hjernetrimspill (Puslespill)                  13
+Ingen/Ikke aktuelt/Vet ikke                    5
+Multiplayer                                    2
+Plattformspill                                 8
+Racerspill                                    10
+Rollespill (RPG)                              17
+Skrekkspill                                    8
+Skytespill                                    16
+Slåssespill                                    9
+Sportsspill                                    9
+Strategispill                                 22
+Survival                                       2
 ```
+
+## 8. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%) (Alle land)
+
+![Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%) Alle land](results/no/08-opplevde-utfordringer-all-countries.png)
+
+
 
 ## 9. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller? (Alle land)
 
@@ -286,7 +271,9 @@ Antall svar: 53
 * Schwierigkeitsgrad, Click-to-move, weniger Gegner, Quicktime-Events aus, Mausbeschleunigung aus,
 * At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger eller unngå åspille
 
-## 11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? (Alle land)
+## 11. Har du brukt tilgjengelighetsfunksjoner
+som ikke var laget for dine behov,
+men som likevel hjalp deg? (Alle land)
 
 ![Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Alle land](results/no/11-personlig-opplevd-curb-cut_with-impair-all-countries.png)
 
@@ -319,7 +306,9 @@ Antall svar: 17
 * fargeblind modus fordi ting ser bedre ut i de tilfellene selv om jeg ikke er fargeblind😂
 * Größere GUI (Guildwars), Passive Gegner (Valheim), Pause zum Spielzug machen (FTL, Mini Metro, Mini Motorways)
 
-## 13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? (Alle land)
+## 13. Har du lagt merke til at funksjoner
+laget for én gruppe
+brukes av andre spillere? (Alle land)
 
 ![Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Alle land](results/no/13-generell-opplevd-curb-cut_with-impair-all-countries.png)
 
@@ -365,7 +354,8 @@ Ja                                                      19
 Nei                                                     33
 ```
 
-## 16. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt? (Alle land)
+## 16. Har du lagt merke til tilgjengelighetsinnstillinger
+eller -funskjoner i spill du har spilt? (Alle land)
 
 ![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt? Alle land](results/no/16-kjennskap-til-tilgjengelighetsfunksjoner-all-countries.png)
 
@@ -408,7 +398,8 @@ Antall svar: 27
 * Fargesettinger, større font, automasjonsfunksjoner
 * Opplyser angående epilepsi
 
-## 18. Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker? (Alle land)
+## 18. Er du nysgjerrig på tilgjengelighetsfunksjoner
+når du ser dem i spill eller på plattformen du bruker? (Alle land)
 
 ![Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker? Alle land](results/no/18-interesse-for-tilgjengelighetsfunksjoner-all-countries.png)
 
@@ -420,7 +411,9 @@ Ja, veldig                                                                      
 Nei                                                                             19
 ```
 
-## 19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? (Alle land)
+## 19. Har du noen gang brukt slike funksjoner selv –
+for eksempel teksting, fargejustering, zoom,
+kontrolltilpasning eller assistansemoduser? (Alle land)
 
 ![Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Alle land](results/no/19-bruk-av-tilgjengelighetsfunksjoner_without-impair-all-countries.png)
 
@@ -495,7 +488,8 @@ Antall svar: 27
 * Grad av nøyaktighet
 * Gjøre skriving lettere
 
-## 22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? (Alle land)
+## 22. Har du opplevd at funksjoner laget for tilgjengelighet
+har forbedret din egen spillopplevelse? (Alle land)
 
 ![Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Alle land](results/no/22-personlig-opplevd-curb-cut_without-impair-all-countries.png)
 
