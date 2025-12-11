@@ -53,7 +53,7 @@ def plot_data(data,kind,title,save_file="",is_percentage=False,fig_size=(),cmap=
    
    folder = os.path.dirname(save_file)
    if not os.path.exists(folder):
-      print("Creating folder\"{}\".".format(folder))
+      print("Creating folder \"{}\".".format(folder))
       os.makedirs(folder)
       
    if save_file:
