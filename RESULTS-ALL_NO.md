@@ -63,13 +63,13 @@ ubestemt                                                     4
 ![Hvor ofte spiller du dataspill?](results/no/04-spillevaner.png)
 
 ```
-                           spillevaner
-spillevaner                           
-Daglig                              56
-Et par ganger\ni måneden            12
-Et par ganger\ni uken               27
-Sjeldnere                            6
-Spiller ikke\nregelmessig            4
+                               spillevaner
+spillevaner                               
+1 - Daglig                              56
+2 - Et par ganger\ni uken               27
+3 - Et par ganger\ni måneden            12
+4 - Sjeldnere                            6
+5 - Spiller ikke\nregelmessig            4
 ```
 
 ## 400. Hvor ofte spiller du dataspill?
