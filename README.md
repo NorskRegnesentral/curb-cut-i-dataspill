@@ -2,10 +2,16 @@
 
 ## Oversikt
 
-* [NO](#NO)
-   * [Generelt](#generelt)
-* [EN](#EN)
-  * [General](#general)
+* admin/
+* data/
+* results/
+    * no/
+* [GLOSSARY.md](GLOSSARY.md)
+* [OPPSUMMERING.md](OPPSUMMERING.md)
+* [README.md](README.md)
+* [RESULTS-ALL_NO.md](RESULTS-ALL_NO.md)
+
+[This overview has been generated automatically.]
 
 ## NO
 
