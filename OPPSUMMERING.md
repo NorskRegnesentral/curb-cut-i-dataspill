@@ -542,7 +542,7 @@
 - Generelt eller uklart
     - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene.
 
-## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere
+## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)
 
 - **Teksting og undertekster**  
   Undertekster og skjermtekst, opprinnelig laget for hørselshemmede, brukes nå bredt av spillere for bedre forståelse.
@@ -769,9 +769,166 @@ Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunk
 21. Hva fikk deg til å bruke disse funksjonene?
 
 ## Kategorisering
-  
+
+- Visuell komfort og skjerminnstillinger
+  - avoid eye strain, avoid having to buy complex game setup to be able to play the game
+  - Hard to see, tiring
+  - It felt more natural and easier to play
+  - Få bort gjennomsiktighet som gjør at jeg sliter med å lese
+  - Lys ømfintlig (delt opp ID-50)
+  - For å se bedre med litt mørk lys (delt opp ID-93)
+  - ser penere ut (delt opp ID-95)
+  - visuals) (delt opp ID-17)
+
+- Fargeblindhet og fargetilpasning
+  - Subtítulos por el idioma, los de daltonismo por curiosidad
+
+- Tekst og undertekster
+  - To help understanding languages that are not my mother tongue
+  - To have dialogues in original version and subtitles in my language
+  - My reading comprehension is better than my reading comprehension
+  - Dysleksi og apd
+  - ser litt dårlig (liten tekst) (delt opp ID-50)
+  - Teksting (delt opp ID-51)
+  - quicker to read subtitles than to wait for a character to finish speaking
+  - Liten tekst
+  - Bruker den for å få med dialoger og viktig informasjon i spill der karakterene ofte har stemmer. Til tross for at jeg er hørende kan man ikke alltid få med seg det som blir sagt
+  - litt større tekst (delt opp ID-93)
+
+- Skalerbarhet og lesbarhet (tekst og UI)
+  - ser litt dårlig (liten tekst) (delt opp ID-50)
+  - Liten tekst
+  - litt større tekst (delt opp ID-93)
+
+- Lyd og tale
+  - ease of play (sound (delt opp ID-17)
+  - ofte utilstrekkelig lydmiks til å skille ut dialog (delt opp ID-51)
+  - Sometimes the text is too small to read or the music swamps the dialogue
+  - Tilpasset mitt hørselstap
+  - Gjøre skriving lettere
+
+- Kontroller og knappetilpasning
+  - No estoy acostumbrada a jugar, y prefiero que vaya más lento para poder controlarlo mejor (delt opp ID-10)
+  - Buscas más cómodidad al jugar
+  - Curiosity (control customisation) (delt opp ID-17)
+  - Knappejustering pga preferanser og (delt opp ID-51)
+  - eller forbigående smerte i enkelte ledd (delt opp ID-51)
+
+- Tempo og tidsstyring
+  - prefiero que vaya más lento para poder controlarlo mejor (delt opp ID-10)
+
+- Assistansefunksjoner
+  - Hjelp for å lokalisere fiender. Da jeg ikke klarer å høre hvor de er
+  - Det er enklere å få med seg hva som blir sagt
+  - Lettere for meg å henge på
+  - Fordi det er et verktøy som gjør spillet morsommerer når det er vanskelig spill, ellers bruker jeg de ikke. Det skal være utofrdrenede, men å få tips til hvor man skal gå eller slippe gjøre kombinasjoner som er ekstremt vanskelig om man ikke spiller mer enn 1–2 timer om dagen gjør det til et nyttig hjelpemiddel
+  - Gjør livet enklere (delt opp ID-95)
+
+## Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
+
+- **Visuell komfort og skjerminnstillinger**  
+Flere brukere justerte lysstyrke, kontrast og andre skjerminnstillinger (inkludert «high contrast», dempet lys og fjerning av gjennomsiktighet) for å redusere øyebelastning og gjøre spillet mer behagelig.
+
+- **Fargeblindhet og fargetilpasning**  
+Noen brukte fargeblindinnstillinger og fargejustering for bedre synlighet og kontrast.
+
+- **Tekst og undertekster**  
+Undertekster og teksting ble hyppig brukt for å forstå dialoger, særlig når lyd var utydelig eller på et fremmed språk.
+
+- **Skalerbarhet og lesbarhet (tekst og UI)**  
+Justering av tekststørrelse, UI-størrelse og zoom ble brukt for å øke lesbarheten.
+
+- **Lyd og tale**  
+Brukere rapporterte å justere musikkvolum og benytte funksjoner som stemmeskriving eller lydindikatorer for å kompensere for hørselstap.
+
+- **Kontroller og knappetilpasning**  
+Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper for komfort eller redusert belastning.
+
+- **Tempo og tidsstyring**  
+Noen anvendte muligheten til å pause eller senke tempoet i spillet for bedre kontroll.
+
+- **Assistansefunksjoner**  
+Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for retning eller hendelser ble tatt i bruk for å lette spillingen.
+
+- **Generell bruk**  
+Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
+
 # personlig-opplevd-curb-cut-tekst_without-impair
 
 22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
 
 ## Kategorisering
+
+
+- Visuell komfort og skjerminnstillinger
+    - Adjusting brightness or colour palettes to make things easier to see, more enjoyable experience
+    - Alpha - some enemies were more visible, the animation was "sharper"
+
+- Fargeblindhet og fargetilpasning
+    - farge code tekst (delt opp ID-10)
+
+- Tekst og undertekster
+    - Subtitles
+    - Subtitles
+    - Jeg får med meg mer i spillet av at det er tekstet
+    - Mulighet til å ha teksting på dialoger da dette bidrar til å få med alle detaljene som dårlig lyd kunne ødelagt
+    - quicker to read subtitles than to wait for a character to finish speaking
+    - Better comprehension of dialogs
+    - Tekst (delt opp ID-10)
+
+- Skalerbarhet og lesbarhet (tekst og UI)
+    - change font size and color
+    - Skru opp og ned størrelse på tekst (delt opp ID-13)
+    - When text is too small or when the soundtrack is too muffled (delt opp ID-15)
+    - Samme som nevnt over. Få bort gjennomsiktighet
+
+- Lyd og tale
+    - When text is too small or when the soundtrack is too muffled (delt opp ID-15)
+
+- Kontroller og knappetilpasning
+    - Poder cambiar los controles
+    - Bytte knapper så abyx og trekant sirkel osv er på riktig plass i forhold til hva jeg er vant med (delt opp ID-13)
+
+- Tempo og tidsstyring
+    - evnen til å pause eller sakke tiden (delt opp ID-10)
+
+- Assistansefunksjoner
+    - Automatisk "item-pickup" var veldig hjelpsomt slik at man slipper å trykke A fire hundre ganger i minuttet mens man spiller
+    - Tegn på skjermen hvis folk går eller løper. Og skytetrening fra hvilken retning
+    - Et slags sirkel som viser hvor i retning det skyter eller hvor nær fiender er nær deg osv som på Fortnite
+    - Audio visuell for eksempel sirkel som viser symboler lyden kommer fra
+
+- Vanskelighetsgrad og tilpasning
+    - Fordi det er et verktøy som gjør spillet morsommerer når det er vanskelig spill, ellers bruker jeg de ikke. Det skal være utofrdrenede, men å få tips til hvor man skal gå eller slippe gjøre kombinasjoner som er ekstremt vanskelig om man ikke spiller mer enn 1-2 timer om dagen gjør det til et nyttig hjelpemiddel
+
+
+## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere uten funksjonsnedsettelse)
+
+- **Visuell komfort og skjerminnstillinger**  
+Flere brukere justerte lysstyrke og fargepaletter, og enkelte nevnte effekter som «alpha» for å gjøre elementer mer synlige og spillopplevelsen mer behagelig.
+
+- **Fargeblindhet og fargetilpasning**  
+Noen brukte fargekoding av tekst for å lettere skille mellom elementer.
+
+- **Tekst og undertekster**  
+Undertekster ble hyppig brukt for å forstå dialoger og handling, særlig når lydkvaliteten var dårlig eller når det var raskere å lese enn å lytte.
+
+- **Skalerbarhet og lesbarhet (tekst og UI)**  
+Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig.
+
+- **Lyd og tale**  
+Brukere nevnte utfordringer med lav lyd eller utydelig tale, og verdsatte funksjoner som kompenserer for dette, for eksempel tekstalternativer.
+
+- **Kontroller og knappetilpasning**  
+Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere kontroller etter egne preferanser.
+
+- **Tempo og tidsstyring**  
+Muligheten til å pause eller sakke ned tempoet i spillet ble nevnt som nyttig i krevende situasjoner.
+
+- **Assistansefunksjoner**  
+Automatisk gjenstandsoppsamling og visuelle/audiovisuelle indikatorer for retning og hendelser ble tatt i bruk for å lette spillingen.
+
+- **Vanskelighetsgrad og tilpasning**  
+Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips eller redusere behovet for komplekse kombinasjoner.
+
+
