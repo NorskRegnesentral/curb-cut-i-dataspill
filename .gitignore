@@ -1,7 +1,9 @@
+
 .project
 .pydevproject
 *.pyc
 *.prefs
+pycache
 
 *.xlsx
 
