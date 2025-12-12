@@ -1,1 +1,9 @@
-{}
+{
+   "FILES": "file names",
+   "TITLES": "image titles",
+   "GLOSSARY": "glossary",
+   "README": "README",
+   "OPPSUMMERING": "Oppsummering av resultater",
+   "RESULTS-ALL_NO": "Results all_no",
+   "CONFIG": "Config"
+}
