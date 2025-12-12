@@ -137,8 +137,9 @@ def process_data():
             res_dict[set] = {}
             res_dict[set]["str"]  = res_str # From here on we are just going to use the res_str from the dictionary 
             res_dict[set]["file"] = os.path.join("RESULTS-{}_{}".format(set,lan).upper()+".md")
-          
-         res_dict[set]["str"] = res_dict[set]["str"] + "\n\n## {}. {}".format(key,title)
+         
+         curr_title = title.replace("\n"," ")
+         res_dict[set]["str"] = res_dict[set]["str"] + "\n\n## {}. {}".format(key,curr_title)
          
          if not set in lookup["file-app"] and not lookup["file-app"][set]:
             appendix = set

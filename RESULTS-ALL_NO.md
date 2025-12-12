@@ -125,8 +125,7 @@ Strategispill                                      47
 Survival                                            4
 ```
 
-## 7. Hvilke spillsjangere skulle du ønske du kunne spille mer,
-hvis de var bedre tilgjengelige for deg? (Total #) (Alle land)
+## 7. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #) (Alle land)
 
 ![Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #) Alle land](results/no/07-sjangeronsker-kort-all-countries.png)
 
@@ -271,9 +270,7 @@ Antall svar: 53
 * Schwierigkeitsgrad, Click-to-move, weniger Gegner, Quicktime-Events aus, Mausbeschleunigung aus,
 * At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger eller unngå åspille
 
-## 11. Har du brukt tilgjengelighetsfunksjoner
-som ikke var laget for dine behov,
-men som likevel hjalp deg? (Alle land)
+## 11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? (Alle land)
 
 ![Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Alle land](results/no/11-personlig-opplevd-curb-cut_with-impair-all-countries.png)
 
@@ -306,9 +303,7 @@ Antall svar: 17
 * fargeblind modus fordi ting ser bedre ut i de tilfellene selv om jeg ikke er fargeblind😂
 * Größere GUI (Guildwars), Passive Gegner (Valheim), Pause zum Spielzug machen (FTL, Mini Metro, Mini Motorways)
 
-## 13. Har du lagt merke til at funksjoner
-laget for én gruppe
-brukes av andre spillere? (Alle land)
+## 13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? (Alle land)
 
 ![Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Alle land](results/no/13-generell-opplevd-curb-cut_with-impair-all-countries.png)
 
@@ -354,8 +349,7 @@ Ja                                                      19
 Nei                                                     33
 ```
 
-## 16. Har du lagt merke til tilgjengelighetsinnstillinger
-eller -funskjoner i spill du har spilt? (Alle land)
+## 16. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt? (Alle land)
 
 ![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt? Alle land](results/no/16-kjennskap-til-tilgjengelighetsfunksjoner-all-countries.png)
 
@@ -398,8 +392,7 @@ Antall svar: 27
 * Fargesettinger, større font, automasjonsfunksjoner
 * Opplyser angående epilepsi
 
-## 18. Er du nysgjerrig på tilgjengelighetsfunksjoner
-når du ser dem i spill eller på plattformen du bruker? (Alle land)
+## 18. Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker? (Alle land)
 
 ![Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker? Alle land](results/no/18-interesse-for-tilgjengelighetsfunksjoner-all-countries.png)
 
@@ -411,9 +404,7 @@ Ja, veldig                                                                      
 Nei                                                                             19
 ```
 
-## 19. Har du noen gang brukt slike funksjoner selv –
-for eksempel teksting, fargejustering, zoom,
-kontrolltilpasning eller assistansemoduser? (Alle land)
+## 19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? (Alle land)
 
 ![Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Alle land](results/no/19-bruk-av-tilgjengelighetsfunksjoner_without-impair-all-countries.png)
 
@@ -488,8 +479,7 @@ Antall svar: 27
 * Grad av nøyaktighet
 * Gjøre skriving lettere
 
-## 22. Har du opplevd at funksjoner laget for tilgjengelighet
-har forbedret din egen spillopplevelse? (Alle land)
+## 22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? (Alle land)
 
 ![Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Alle land](results/no/22-personlig-opplevd-curb-cut_without-impair-all-countries.png)
 
