@@ -2,6 +2,7 @@
 
 ## Oversikt
 
+* [Instrukser for gruppering og strukturering av svar](#instrukser-for-gruppering-og-strukturering-av-svar)
 * [Kategorisering](#kategorisering)
 * [Sammendrag av tilgjengelighetsfunksjoner brukt av spillere](#sammendrag-av-tilgjengelighetsfunksjoner-brukt-av-spillere)
 * [Kategorisering (1)](#kategorisering-1)
@@ -9,12 +10,13 @@
 * [Kategorisering (2)](#kategorisering-2)
 * [Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)](#sammendrag-av-tilgjengelighetsfunksjoner-som-hjalp-spillere-med-funksjonsnedsettelser-uten-å-være-laget-for-deres-behov)
 * [Kategorisering (3)](#kategorisering-3)
-* [12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Hvilke funksjoner har du lagt merke til? (Alle land)](#12-har-du-lagt-merke-til-at-funksjoner-laget-for-én-gruppe-brukes-av-andre-spillere-hvilke-funksjoner-har-du-lagt-merke-til-alle-land)
 * [Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere](#sammendrag-av-funksjoner-laget-for-én-gruppe-men-brukt-av-andre-spillere)
+* [Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til](#sammendrag-av-tilgjengelighetsfunksjoner-som-spillere-har-lagt-merke-til)
+* [Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse](#sammendrag-av-tilgjengelighetsfunksjoner-brukt-av-spillere-uten-funksjonsnedsettelse)
 
 [This overview has been generated automatically.]
 
-# Instrukser for gruppering og strukturering av svar
+## Instrukser for gruppering og strukturering av svar
 
 1. Bakgrunn:
     - Vi skal oppsumere svar fra en spørreundersøkelse for en vitenskapelig rapport.
@@ -56,7 +58,7 @@
     - Etter at kategoriene er godkjent, lag et kort sammendrag for hver kategori (én setning per kategori).  
     - Sammendraget skal gjøre det tydelig at dette er svar som faktisk kommer fra reelle brukere.  
     - Språkstil avklares med brukeren: vitenskapelig, populærvitenskapelig eller nøytral rapportstil.  
-    - Sammendraget kan inkludere enkle eksempler hvis nødvendig, men skal være kort og presist.  
+    - Sammendraget kan inkludere enkle eksempler hvis nødvendig, men skal være kort og presist.
 
 # bruk-av-tilgjengelighetsfunksjoner_with-impair
 
@@ -492,11 +494,9 @@
 
 # generell-opplevd-curb-cut_with-impair
 
-13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
+12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
 
 ## Kategorisering (3)
-
-## 12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Hvilke funksjoner har du lagt merke til? (Alle land)
 
 - Teksting og undertekster
     - Tekst på skjermen nå helt vanlig men ble opprinnelig laget for hørselshemmede
@@ -570,3 +570,208 @@
 
 - **Mods og eksterne tilpasninger**  
   Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
+  
+# kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
+ 
+## Kategorisering
+  
+- Visuell komfort og skjerminnstillinger
+    - contrast, transparency (delt opp ID-02)
+    - Brightness (delt opp ID-05)
+    - Kontrast/lys (delt opp ID-14)
+    - Higher contrast
+
+- Fargeblindhet og fargetilpasning
+    - En los de daltonismo, por curiosidad
+    - Colors adapted to colorblindness (delt opp ID-07)
+    - Colorblind settings (delt opp ID-08)
+    - hjelp til fargeblinde (delt opp ID-10)
+    - Colorblind modes (delt opp ID-13)
+    - fargeblind (delt opp ID-14)
+    - Fargeblind moduser (delt opp ID-20)
+    - fargeblindhet (delt opp ID-23)
+    - innstillinger for de som er fargeblinde, slik at man kan endre fargenyansene (delt opp ID-24)
+    - Farge/kontrast-korrigering (delt opp ID-18)
+    - fargejustering (delt opp ID-22)
+    - Fargesettinger (delt opp ID-25)
+
+- Tekst og undertekster
+    - Tekst (delt opp ID-09)
+    - Teksting
+    - subtitles (delt opp ID-07)
+    - subtitles (delt opp ID-08)
+    - general subtitles (delt opp ID-13)
+    - Teksting (delt opp ID-18)
+    - Teksting og fargejustering (delt opp ID-22)
+
+- Skalerbarhet og lesbarhet (tekst og UI)
+    - bokstavstørrelse (delt opp ID-14)
+    - større tekst (delt opp ID-10)
+    - større font (delt opp ID-25)
+    - Interface size adjustable (delt opp ID-16)
+    - endring av UI størrelse (delt opp ID-20)
+    - Justering av UI (delt opp ID-21)
+
+- Lyd og tale
+    - text-to-speech features (delt opp ID-04)
+    - Tale for tekst (delt opp ID-11)
+    - Opplesning (delt opp ID-23)
+    - Tekst eller lydstøtte spill (delt opp ID-15)
+
+- Kontroller og knappetilpasning
+    - En la rapidez de respuesta o la sensibilidad del joystick
+    - bytte knappfunksjoner (delt opp ID-17)
+    - knappekonfigurering (delt opp ID-18)
+
+- Tempo og tidsstyring
+    - evnen til å pause eller sakke tiden (delt opp ID-09)
+    - tilpasning av enkeltmekanismer (f.eks. Slow-mo i Celeste) (delt opp ID-18)
+
+- Assistansefunksjoner
+    - aim assist som hjelp for de med dårlige reflekser eller håndfunksjoner (delt opp ID-24)
+    - automasjonsfunksjoner (delt opp ID-25)
+
+- Vanskelighetsgrad og spillbalanse
+    - vanskelighetsgrad (delt opp ID-18)
+    - Justering av individuelle innstillinger som påvirker spillbarhet, fiende aggresjon, helse, skade man gjør o.l. (delt opp ID-21)
+
+- Epilepsi og blinkende lys
+    - skru av blinkende lys (delt opp ID-23)
+    - Opplyser angående epilepsi
+
+## Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til
+
+- **Visuell komfort og skjerminnstillinger**  
+Flere respondenter nevnte muligheten til å justere kontrast, lysstyrke og skjerminnstillinger for bedre visuell komfort.
+
+- **Fargeblindhet og fargetilpasning**  
+Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farger og kontrast for å gjøre spill mer tilgjengelige.
+
+- **Tekst og undertekster**  
+Mange la merke til teksting og undertekster som en sentral tilgjengelighetsfunksjon i spill.
+
+- **Skalerbarhet og lesbarhet (tekst og UI)**  
+Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet.
+
+- **Lyd og tale**  
+Flere nevnte funksjoner som tekst-til-tale, opplesning og lydstøtte som viktige for tilgjengelighet.
+
+- **Kontroller og knappetilpasning**  
+Tilpasning av knapper og kontrollinnstillinger ble trukket frem som en nyttig funksjon for ulike behov.
+
+- **Tempo og tidsstyring**  
+Noen respondenter la merke til muligheten til å pause, sakke ned eller bruke slow motion for å tilpasse spilltempo.
+
+- **Assistansefunksjoner**  
+Funksjoner som aim assist og automatisering ble nevnt som hjelpemidler for spillere med redusert reaksjonsevne.
+
+- **Vanskelighetsgrad og spillbalanse**  
+Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade ble fremhevet som tilgjengelighetsfunksjoner.
+
+- **Epilepsi og blinkende lys**  
+Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og varsler om epilepsirisiko.
+ 
+# bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
+
+19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
+
+## Kategorisering
+
+- Visuell komfort og skjerminnstillinger
+    - brightness/color adjustments (delt opp ID-06)
+    - Color adjustment (delt opp ID-08)
+    - Kontrast
+    - high contrast (delt opp ID-04)
+    - contrast (delt opp ID-07)
+    - fargejustering i League of Legends (delt opp ID-25)
+    - dempe lys om det går an (delt opp ID-15)
+    - litt mørkere lys (delt opp ID-23)
+    - alpha (delt opp ID-08)
+
+- Fargeblindhet og fargetilpasning
+    - ajuste de daltonismo (delt opp ID-03)
+    - farge code tekst (delt opp ID-11)
+
+- Tekst og undertekster
+    - Subtítulos (delt opp ID-03)
+    - subtitles (delt opp ID-04)
+    - Subtitles
+    - Subtitles
+    - subtitles (delt opp ID-18)
+    - Tekst (delt opp ID-11)
+    - Teksting
+    - Teksting (for vokale dialoger i spill, hvis dette telles) (delt opp ID-22)
+    - Tekst (delt opp ID-23)
+    - subtitles color (delt opp ID-07)
+
+- Skalerbarhet og lesbarhet (tekst og UI)
+    - subtitles size (delt opp ID-07)
+    - skru litt opp skriftstørrelse (delt opp ID-15)
+    - Justering av UI for å gjøre det mer lesbart (delt opp ID-19)
+    - Zoom (delt opp ID-18)
+
+- Lyd og tale
+    - volumen de la música (delt opp ID-01)
+    - Stemme skriving
+
+- Kontroller og knappetilpasning
+    - Reducir la sensibilidad del control (delt opp ID-01)
+    - controles (delt opp ID-01)
+    - Personalización de controles
+    - control (delt opp ID-04)
+    - Control customisation (delt opp ID-06)
+    - knappejusteringer (delt opp ID-17)
+
+- Tempo og tidsstyring
+    - evnen til å pause eller sakke tiden (delt opp ID-11)
+
+- Assistansefunksjoner
+    - Automatisk "item-pickup" i Last of Us 2 (delt opp ID-25)
+    - Bruker for hørsel så jeg får opp tegn på skjermen hvor skyting og gåing skjer
+    - signalfunksjon (Fortine) (delt opp ID-15)
+    - elementer som viser at noen er nær osv som i Fortnite (delt opp ID-22)
+
+- Generell bruk
+    - Alle
+    - Alt nødvendig
+
+## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
+
+- **Visuell komfort og skjerminnstillinger**  
+Flere brukere justerte lysstyrke, kontrast og lignende skjerminnstillinger (inkludert «high contrast» og dempet lys) for en mer behagelig spillopplevelse.
+
+- **Fargeblindhet og fargetilpasning**  
+Noen brukte fargeblindinnstillinger og fargekoding av tekst for å lettere skille mellom elementer.
+
+- **Tekst og undertekster**  
+Undertekster/teksting ble hyppig brukt, særlig når lyd ikke var tilgjengelig eller ønsket.
+
+- **Skalerbarhet og lesbarhet (tekst og UI)**  
+Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten.
+
+- **Lyd og tale**  
+Brukere rapporterte å justere musikkvolum og benytte stemmeskriving der dette var støttet.
+
+- **Kontroller og knappetilpasning**  
+Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe/konfigurere knapper.
+
+- **Tempo og tidsstyring**  
+Noen anvendte muligheten til å pause eller senke tempoet i spillet.
+
+- **Assistansefunksjoner**  
+Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for hendelser eller retning ble tatt i bruk for å lette spillingen.
+
+- **Generell bruk**  
+Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
+
+# motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
+
+21. Hva fikk deg til å bruke disse funksjonene?
+
+## Kategorisering
+  
+# personlig-opplevd-curb-cut-tekst_without-impair
+
+22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
+
+## Kategorisering

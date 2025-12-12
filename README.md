@@ -6,6 +6,7 @@
 * data/
 * results/
     * no/
+* survey/
 * [GLOSSARY.md](GLOSSARY.md)
 * [OPPSUMMERING.md](OPPSUMMERING.md)
 * [README.md](README.md)
