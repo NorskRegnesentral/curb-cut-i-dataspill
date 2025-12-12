@@ -1,3 +1,19 @@
+# Oppsumering av resultater
+
+## Oversikt
+
+* [Kategorisering](#kategorisering)
+* [Sammendrag av tilgjengelighetsfunksjoner brukt av spillere](#sammendrag-av-tilgjengelighetsfunksjoner-brukt-av-spillere)
+* [Kategorisering (1)](#kategorisering-1)
+* [Sammendrag av tilgjengelighetsfunksjoner spillere savner](#sammendrag-av-tilgjengelighetsfunksjoner-spillere-savner)
+* [Kategorisering (2)](#kategorisering-2)
+* [Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)](#sammendrag-av-tilgjengelighetsfunksjoner-som-hjalp-spillere-med-funksjonsnedsettelser-uten-å-være-laget-for-deres-behov)
+* [Kategorisering (3)](#kategorisering-3)
+* [12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Hvilke funksjoner har du lagt merke til? (Alle land)](#12-har-du-lagt-merke-til-at-funksjoner-laget-for-én-gruppe-brukes-av-andre-spillere-hvilke-funksjoner-har-du-lagt-merke-til-alle-land)
+* [Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere](#sammendrag-av-funksjoner-laget-for-én-gruppe-men-brukt-av-andre-spillere)
+
+[This overview has been generated automatically.]
+
 # Instrukser for gruppering og strukturering av svar
 
 1. Bakgrunn:
@@ -235,13 +251,11 @@
 - **Fysiske tilpasninger og maskinvarevalg**  
   Spillere tilpasser utstyr og omgivelser, som headset eller lys, for bedre komfort.
 
-
-
 # savnete-tilgjengelighetsfunksjoner
 
 10. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
 
-## Kategorisering
+## Kategorisering (1)
 
 - Visuell komfort og skjerminnstillinger
     - More light settings in games. They are normally just adjusted for epilepsy, not light sensitive.
@@ -397,11 +411,10 @@
 
 - **Programvare og eksterne verktøy**  
   Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
-  
+
 # personlig-opplevd-curb-cut_with-impair
 
-## Kategorisering
-
+## Kategorisering (2)
 
 11 Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
 
@@ -448,7 +461,6 @@
     - Alle tidligere nevnt. Teknisk ikke sett laget for meg, men hjalp.
     - See 11. I always try to be creative.
 
-
 ## Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
 
 - **Teksting og undertekster**  
@@ -480,10 +492,9 @@
 
 # generell-opplevd-curb-cut_with-impair
 
-13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til? 
+13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
 
-## Kategorisering
-
+## Kategorisering (3)
 
 ## 12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere? Hvilke funksjoner har du lagt merke til? (Alle land)
 
@@ -531,7 +542,6 @@
 - Generelt eller uklart
     - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene.
 
-
 ## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere
 
 - **Teksting og undertekster**  
@@ -560,4 +570,3 @@
 
 - **Mods og eksterne tilpasninger**  
   Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
-

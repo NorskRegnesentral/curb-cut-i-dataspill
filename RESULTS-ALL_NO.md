@@ -63,14 +63,13 @@ ubestemt                                                     4
 ![Hvor ofte spiller du dataspill? Alle land](results/no/04-spillevaner-all-countries.png)
 
 ```
-                            spillevaner
-spillevaner                            
-Daglig                               56
-Et par ganger\ni måneden             11
-Et par ganger\ni uken                27
-Et par ganger \n i måneden            1
-Sjeldnere                             6
-Spiller ikke\nregelmessig             4
+                           spillevaner
+spillevaner                           
+Daglig                              56
+Et par ganger\ni måneden            12
+Et par ganger\ni uken               27
+Sjeldnere                            6
+Spiller ikke\nregelmessig            4
 ```
 
 ## 400. Hvor ofte spiller du dataspill? (Alle land)
