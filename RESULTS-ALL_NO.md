@@ -1,8 +1,8 @@
 # Results from the survey
 
-## 0. Hvor bor du? (%)
+## 3. Hvor bor du? (%)
 
-![Hvor bor du? (%)](results/no/00-land.png)
+![Hvor bor du? (%)](results/no/03-land.png)
 
 
 
@@ -31,9 +31,9 @@ Mann                    57
 Ønsker ikke å oppgi      2
 ```
 
-## 3. Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?
+## 7. Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?
 
-![Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?](results/no/03-funksjonsnedsettelse.png)
+![Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?](results/no/07-funksjonsnedsettelse.png)
 
 ```
                       funksjonsnedsettelse
@@ -42,9 +42,9 @@ Ja                                      53
 Nei                                     52
 ```
 
-## 300. Beskriv funskjonsnedsettelsen din:
+## 8. Beskriv funskjonsnedsettelsen din:
 
-![Beskriv funskjonsnedsettelsen din:](results/no/300-funksjonsnedsettelse-type-kode.png)
+![Beskriv funskjonsnedsettelsen din:](results/no/08-funksjonsnedsettelse-type-kode.png)
 
 ```
                                 funksjonsnedsettelse-type-kode
@@ -124,9 +124,9 @@ Strategispill                                      47
 Survival                                            4
 ```
 
-## 7. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)
+## 10. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)
 
-![Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)](results/no/07-sjangeronsker-kort.png)
+![Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)](results/no/10-sjangeronsker-kort.png)
 
 ```
                               sjangeronsker-kort
@@ -147,13 +147,13 @@ Strategispill                                 22
 Survival                                       2
 ```
 
-## 8. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)
+## 9. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)
 
-![Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)](results/no/08-opplevde-utfordringer.png)
+![Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)](results/no/09-opplevde-utfordringer.png)
 
 
 
-## 9. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
+## 11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
 
 Antall svar: 53
 
@@ -211,7 +211,7 @@ Antall svar: 53
 * große GUI,
 * Justerer FOV, motion blur, justerer så jeg heller bruker steam på tv eller spiller konsoll (avstand hjelper) evt mod som endrer first person til third person men dette er ikke alltid optimalt
 
-## 10. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller?
+## 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller?
 
 Antall svar: 53
 
@@ -269,9 +269,9 @@ Antall svar: 53
 * Schwierigkeitsgrad, Click-to-move, weniger Gegner, Quicktime-Events aus, Mausbeschleunigung aus,
 * At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger eller unngå åspille
 
-## 11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?
+## 13. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?
 
-![Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?](results/no/11-personlig-opplevd-curb-cut_with-impair.png)
+![Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?](results/no/13-personlig-opplevd-curb-cut_with-impair.png)
 
 ```
                                         personlig-opplevd-curb-cut_with-impair
@@ -280,7 +280,7 @@ Ja                                                                          17
 Nei                                                                         36
 ```
 
-## 12. Hvilke funksjoner gjaldt det?
+## 14. Hvilke funksjoner gjaldt det?
 
 Antall svar: 17
 
@@ -302,9 +302,9 @@ Antall svar: 17
 * fargeblind modus fordi ting ser bedre ut i de tilfellene selv om jeg ikke er fargeblind😂
 * Größere GUI (Guildwars), Passive Gegner (Valheim), Pause zum Spielzug machen (FTL, Mini Metro, Mini Motorways)
 
-## 13. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?
+## 15. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?
 
-![Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?](results/no/13-generell-opplevd-curb-cut_with-impair.png)
+![Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?](results/no/15-generell-opplevd-curb-cut_with-impair.png)
 
 ```
                                        generell-opplevd-curb-cut_with-impair
@@ -313,7 +313,7 @@ Ja                                                                        19
 Nei                                                                       34
 ```
 
-## 14. Hvilke funksjoner har du lagt merke til?
+## 16. Hvilke funksjoner har du lagt merke til?
 
 Antall svar: 19
 
@@ -337,9 +337,9 @@ Antall svar: 19
 * visuell lyd i fortnite
 * Er personlig glad i subtitles feks.
 
-## 15. Tenker du på tilgjengelighet som noe som angår deg?
+## 17. Tenker du på tilgjengelighet som noe som angår deg?
 
-![Tenker du på tilgjengelighet som noe som angår deg?](results/no/15-holdning-til-tilgjengelighet.png)
+![Tenker du på tilgjengelighet som noe som angår deg?](results/no/17-holdning-til-tilgjengelighet.png)
 
 ```
                               holdning-til-tilgjengelighet
@@ -348,9 +348,9 @@ Ja                                                      19
 Nei                                                     33
 ```
 
-## 16. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
+## 18. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
 
-![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?](results/no/16-kjennskap-til-tilgjengelighetsfunksjoner.png)
+![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?](results/no/18-kjennskap-til-tilgjengelighetsfunksjoner.png)
 
 ```
                                           kjennskap-til-tilgjengelighetsfunksjoner
@@ -359,7 +359,7 @@ Ja                                                                              
 Nei                                                                             23
 ```
 
-## 17. Hvilke funksjoner har du lagt merke til?
+## 19. Hvilke funksjoner har du lagt merke til?
 
 Antall svar: 27
 
@@ -391,9 +391,9 @@ Antall svar: 27
 * Fargesettinger, større font, automasjonsfunksjoner
 * Opplyser angående epilepsi
 
-## 18. Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?
+## 20. Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?
 
-![Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?](results/no/18-interesse-for-tilgjengelighetsfunksjoner.png)
+![Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?](results/no/20-interesse-for-tilgjengelighetsfunksjoner.png)
 
 ```
                                           interesse-for-tilgjengelighetsfunksjoner
@@ -403,9 +403,9 @@ Ja, veldig                                                                      
 Nei                                                                             19
 ```
 
-## 19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?
+## 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?
 
-![Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?](results/no/19-bruk-av-tilgjengelighetsfunksjoner_without-impair.png)
+![Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?](results/no/21-bruk-av-tilgjengelighetsfunksjoner_without-impair.png)
 
 ```
                                                    bruk-av-tilgjengelighetsfunksjoner_without-impair
@@ -414,7 +414,7 @@ Ja                                                                              
 Nei                                                                                               25
 ```
 
-## 20. Hvilke tilgjengelighetsfunksjoner har du brukt?
+## 22. Hvilke tilgjengelighetsfunksjoner har du brukt?
 
 Antall svar: 27
 
@@ -446,7 +446,7 @@ Antall svar: 27
 * Alt nødvendig
 * Stemme skriving
 
-## 21. Hva fikk deg til å bruke disse funksjonene?
+## 23. Hva fikk deg til å bruke disse funksjonene?
 
 Antall svar: 27
 
@@ -478,9 +478,9 @@ Antall svar: 27
 * Grad av nøyaktighet
 * Gjøre skriving lettere
 
-## 22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?
+## 24. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?
 
-![Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?](results/no/22-personlig-opplevd-curb-cut_without-impair.png)
+![Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?](results/no/24-personlig-opplevd-curb-cut_without-impair.png)
 
 ```
                                            personlig-opplevd-curb-cut_without-impair
@@ -489,7 +489,7 @@ Ja                                                                              
 Nei                                                                                5
 ```
 
-## 23. Har du eksempler på funksjoner der dette har vært tydelig?
+## 25. Har du eksempler på funksjoner der dette har vært tydelig?
 
 Antall svar: 22
 
