@@ -141,19 +141,19 @@ def process_data():
          curr_title = title.replace("\n"," ")
          res_dict[set]["str"] = res_dict[set]["str"] + "\n\n## {}. {}".format(key,curr_title)
          
-         if not set in lookup["file-app"] and not lookup["file-app"][set]:
+         if not set in lookup["file-app"] or not lookup["file-app"][set]:
             appendix = set
          else:
             appendix = lookup["file-app"][set]
+         appendix = ""
          
          curr_title    = title
          tmp_title     = ""
          if set in lookup["title-app"]:
             tmp_title  = lookup["title-app"][set]
          else:
-            tmp_title   = set    
-         curr_title    += "\n{}".format(tmp_title)
-         res_dict[set]["str"]  = res_dict[set]["str"] + " ({})\n".format(tmp_title) # This needs to be changed maybe
+            tmp_title   = set
+         res_dict[set]["str"]  = res_dict[set]["str"] + "\n"
          
          ext       = "png"
          fig_size  = ()
@@ -170,7 +170,11 @@ def process_data():
             target_folder = ""
             if "target-folder" in values:
                target_folder = values["target-folder"]
-            save_file = os.path.join("results",lan,target_folder,"{:02d}-{}-{}.{}".format(key,var,appendix,ext))
+            
+            if not appendix:
+               save_file = os.path.join("results",lan,target_folder,"{:02d}-{}.{}".format(key,var,ext))
+            else:
+               save_file = os.path.join("results",lan,target_folder,"{:02d}-{}-{}.{}".format(key,var,appendix,ext))
 
             grouped_data, curr_res = prepare_data(curr_data_set,var,lookup,kind,sep)
             
@@ -195,11 +199,13 @@ def process_data():
                   continue
                var_subset = subset_values["var"]
                
-               subset_appendix = appendix
+               subset_appendix = ""
+               if appendix:
+                  subset_appendix = appendix+"-"
                if not "file-app" in subset_values or subset_values["file-app"]:
-                  subset_appendix += "-{}".format(subset_values["file-app"])
+                  subset_appendix += "{}".format(subset_values["file-app"])
                else:
-                  subset_appendix += "-subset-{}".format(subset_key)
+                  subset_appendix += "subset-{}".format(subset_key)
                
                curr_subset_title = curr_title
                tmp_subset_title  = ""
@@ -247,6 +253,7 @@ def process_data():
                sub_target_folder = ""
                if "target-folder" in subset_values:
                   sub_target_folder = subset_values["target-folder"]
+                  
                save_file = os.path.join("results",lan,target_folder,sub_target_folder,"{:02d}-{:02d}-{}-{}.{}".format(key,subset_key,var,subset_appendix,ext))
                
                grouped_data_subset = grouped_data_subset#.dropna()
