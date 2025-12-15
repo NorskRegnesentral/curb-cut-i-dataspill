@@ -408,81 +408,80 @@ Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
 
 # personlig-opplevd-curb-cut_with-impair
 
-## Kategorisering (2)
-
 11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
 
-- Teksting og undertekster
+## Kategorisering (2)
+
+- Tekst og undertekster
     - Teksting
     - Teksting
-    - 1. Undertekst (delt opp ID-15)
+    - Undertekst (delt opp Seksjon11-15)
 
 - Kommunikasjon og chat
-    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp ID-15)
+    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon11-15)
 
-- Tekststørrelse og grensesnitt
-    - Muligheter for å forstørre teksten (delt opp ID-02)
+- Grensesnitt, tekst og lesbarhet
+    - Muligheter for å forstørre teksten (delt opp Seksjon11-02)
     - Größere GUI (Guildwars)
 
-- Visuell komfort og epilepsitiltak
-    - Epilepsi: flicker-free options or effects filters (delt opp ID-15)
-    - deaktivere lysblinking (delt opp ID-13)
+- Visuell komfort og skjerminnstillinger
+    - Epilepsi: flicker-free options or effects filters (delt opp Seksjon11-15)
+    - deaktivere lysblinking (delt opp Seksjon11-13)
 
-- Kamera og bevegelseskontroll
+- Kamera, synsfelt og bevegelse
     - Reduce Screen Shaking
 
-- Indikatorer og orienteringshjelp
-    - visual indicators (delt opp ID-09)
-    - sound indicators (delt opp ID-09)
-    - retnings-/oppmerksomhetsindikator (hvilken retning lyder eller angrep kommer fra) (delt opp ID-13)
+- Indikatorer og navigasjon
+    - visual indicators (delt opp Seksjon11-09)
+    - sound indicators (delt opp Seksjon11-09)
+    - retnings-/oppmerksomhetsindikator (hvilken retning lyder eller angrep kommer fra) (delt opp Seksjon11-13)
     - Bruker en funksjon som viser lydene visuelt på skytespill
     - Visuelle lydindikatorer
     - lyd på skjerm
 
-- Fargeblindhetstilpasninger
+- Fargeblindhet og fargetilpasning
     - Fargeblindmodus hjelper ved puslespill selv om ikke er fargeblind
-    - fargeblind modus fordi ting ser bedre ut selv om jeg ikke er fargeblind (delt opp ID-16)
+    - fargeblind modus fordi ting ser bedre ut selv om jeg ikke er fargeblind (delt opp Seksjon11-16)
 
-- Kontroller og inputfunksjoner
+- Kontroller og input
     - Motoriske som å endre button mashing til single tap eller hold
 
-- Spillflyt og tempo
+- Tid, tempo og spillflyt
     - Passive Gegner (Valheim)
     - Pause zum Spielzug machen (FTL, Mini Metro, Mini Motorways)
 
-- Uklart eller generelt
+- Uklart/ikke angitt
     - Masse forskjellig, vanskelig å spesifisere
     - Alle tidligere nevnt. Teknisk ikke sett laget for meg, men hjalp.
-    - See 11. I always try to be creative.
 
 ## Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
 
-- **Teksting og undertekster**  
-  Spillere brukte undertekster for å følge dialog og handling, selv om funksjonen ikke var laget for dem.
+- **Tekst og undertekster**  
+Undertekster brukes for å følge dialog og handling, selv om funksjonen ikke var laget for dem, for eksempel ved å aktivere teksting i spill med mye tale.
 
 - **Kommunikasjon og chat**  
-  Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon.
+Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon, som å skrive meldinger når voice chat er vanskelig.
 
-- **Tekststørrelse og grensesnitt**  
-  Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon.
+- **Grensesnitt, tekst og lesbarhet**  
+Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon, som å forstørre tekst og bruke større GUI i spill som Guild Wars.
 
-- **Visuell komfort og epilepsitiltak**  
-  Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt for å redusere ubehag.
+- **Visuell komfort og skjerminnstillinger**  
+Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt for å redusere ubehag, spesielt av spillere som er følsomme for epilepsitriggere.
 
-- **Kamera og bevegelseskontroll**  
-  Reduksjon av skjermristing hjalp spillere med bevegelsessyke.
+- **Kamera, synsfelt og bevegelse**  
+Reduksjon av skjermristing hjalp spillere med bevegelsessyke, for eksempel ved å aktivere Reduce Screen Shaking.
 
-- **Indikatorer og orienteringshjelp**  
-  Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse.
+- **Indikatorer og navigasjon**  
+Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse, som å bruke lyd på skjerm og visuelle indikatorer for fiender.
 
-- **Fargeblindhetstilpasninger**  
-  Fargeblindmodus ble brukt av spillere som ikke er fargeblinde fordi det ga bedre kontrast og synlighet.
+- **Fargeblindhet og fargetilpasning**  
+Fargeblindmodus ble brukt av spillere som ikke er fargeblinde fordi det ga bedre kontrast og synlighet, for eksempel i puslespill.
 
-- **Kontroller og inputfunksjoner**  
-  Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.
+- **Kontroller og input**  
+Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.
 
-- **Spillflyt og tempo**  
-  Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende.
+- **Tid, tempo og spillflyt**  
+Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende, som Pause zum Spielzug machen i strategispill.
 
 # generell-opplevd-curb-cut_with-impair
 
