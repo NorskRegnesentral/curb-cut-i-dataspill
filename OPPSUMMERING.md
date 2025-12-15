@@ -489,78 +489,78 @@ Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelse
 
 ## Kategorisering (3)
 
-- Teksting og undertekster
+- Tekst og undertekster
     - Tekst på skjermen nå helt vanlig men ble opprinnelig laget for hørselshemmede
     - Teksting
     - Er personlig glad i subtitles feks.
 
-- Tilpasning av vanskelighetsgrad
-    - tilpasset vanskelighetsgrad (delt opp ID-02)
+- Vanskelighetsgrad og spillbalanse
+    - tilpasset vanskelighetsgrad (delt opp Seksjon12-02)
 
-- Fargeblindhetstilpasninger
+- Fargeblindhet og fargetilpasning
     - Fargeblindmodus gir noen ganger fordeler i kompetitivt spill.
     - For fargeblinde og for dårlig syn
     - Feks løsninger for fargeblinde brukes for å gjøre spillet enklere/greiere å spille
     - Fargeblinde farger og den fortnite lydsvarsler.
 
-- Visuell komfort og lys/kontrast
+- Visuell komfort og skjerminnstillinger
     - Kontrast
     - I know light settings would help lots of players
 
-- Tekststørrelse og grensesnitt
-    - Skriftstørrelse (delt opp ID-06)
+- Grensesnitt, tekst og lesbarhet
+    - Skriftstørrelse (delt opp Seksjon12-06)
 
-- Kontroller og motoriske tilpasninger
-    - motoriske innstillinger (delt opp ID-06)
+- Kontroller og input
+    - motoriske innstillinger (delt opp Seksjon12-06)
     - Button mapping
-    - toggles (delt opp ID-13)
-    - button remap (delt opp ID-13)
+    - toggles (delt opp Seksjon12-13)
+    - button remap (delt opp Seksjon12-13)
 
-- Indikatorer og orienteringshjelp
-    - visual indicators (delt opp ID-07)
-    - sound indicators (delt opp ID-07)
+- Indikatorer og navigasjon
+    - visual indicators (delt opp Seksjon12-07)
+    - sound indicators (delt opp Seksjon12-07)
     - lyd på skjerm
     - Visuelle lydindikatorer
     - visuell lyd i fortnite
-    - map options som viser en pil i rollespill (delt opp ID-15)
+    - map options som viser en pil i rollespill (delt opp Seksjon12-15)
 
-- Assistansefunksjoner for presisjon
-    - aim assist (delt opp ID-13)
+- Automatisering og QoL
+    - aim assist (delt opp Seksjon12-13)
 
-- Mods og eksterne tilpasninger
+- Eksterne hjelpemidler og omgivelser
     - Mods
 
-- Generelt eller uklart
-    - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene.
+- Uklart/ikke angitt
+    - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene
 
 ## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)
 
-- **Teksting og undertekster**  
-  Undertekster og skjermtekst, opprinnelig laget for hørselshemmede, brukes nå bredt av spillere for bedre forståelse.
+- **Tekst og undertekster**  
+Undertekster og skjermtekst, opprinnelig laget for hørselshemmede, brukes nå bredt av spillere for bedre forståelse, for eksempel når dialog er utydelig eller språket er fremmed.
 
-- **Tilpasning av vanskelighetsgrad**  
-  Justering av vanskelighetsnivå, laget for tilgjengelighet, brukes av mange for en mer tilpasset spillopplevelse.
+- **Vanskelighetsgrad og spillbalanse**  
+Justering av vanskelighetsnivå, laget for tilgjengelighet, brukes av mange for en mer tilpasset spillopplevelse, som å aktivere tilpasset vanskelighetsgrad i utfordrende spill.
 
-- **Fargeblindhetstilpasninger**  
-  Fargeblindmodus og tilhørende fargejusteringer brukes av spillere for bedre kontrast og til og med fordeler i konkurransespill.
+- **Fargeblindhet og fargetilpasning**  
+Fargeblindmodus og fargejusteringer brukes av spillere for bedre kontrast og synlighet, og noen nevner at dette gir fordeler i konkurransespill.
 
-- **Visuell komfort og lys/kontrast**  
-  Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag.
+- **Visuell komfort og skjerminnstillinger**  
+Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag, for eksempel ved å øke kontrast eller justere lysstyrke.
 
-- **Tekststørrelse og grensesnitt**  
-  Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet.
+- **Grensesnitt, tekst og lesbarhet**  
+Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet, som å endre skriftstørrelse i menyer.
 
-- **Kontroller og motoriske tilpasninger**  
-  Funksjoner som knappere-mapping og toggles, laget for motoriske utfordringer, brukes av andre for komfort og effektivitet.
+- **Kontroller og input**  
+Funksjoner som knappemapping og toggles, laget for motoriske utfordringer, brukes av andre for komfort og effektivitet, for eksempel button remap og toggle sprint.
 
-- **Indikatorer og orienteringshjelp**  
-  Visuelle og lydindikatorer, samt kartmarkører, hjelper spillere med navigasjon og situasjonsforståelse.
+- **Indikatorer og navigasjon**  
+Visuelle og lydindikatorer, samt kartmarkører, hjelper spillere med navigasjon og situasjonsforståelse, som å bruke lyd på skjerm eller visuelle indikatorer for fiender.
 
-- **Assistansefunksjoner for presisjon**  
-  Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting.
+- **Automatisering og QoL**  
+Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting i skytespill.
 
-- **Mods og eksterne tilpasninger**  
-  Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
+- **Eksterne hjelpemidler og omgivelser**  
+Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
   
 # kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
  
