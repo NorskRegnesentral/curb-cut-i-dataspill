@@ -258,168 +258,159 @@ Noen svar er generelle eller uten konkrete funksjoner.
 
 10. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
 
+
 ## Kategorisering (1)
+
+**Antall svar: 53** # stemmer dette?
 
 - Visuell komfort og skjerminnstillinger
     - More light settings in games. They are normally just adjusted for epilepsy, not light sensitive.
     - Light adjustment
     - Tilrettelagt for epilepsi fra produsent. Tenker da på blink og andre kjente faktorer med tanke på epilepsi.
     - Økt kontrast.
-    - At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger (delt opp ID-53)
+    - At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger (delt opp Seksjon10-53)
 
-- Kamera og bevegelseskontroll
-    - 3.person view litt på avstand (delt opp ID-01)
-    - mindre bevegelse på kamera i bevegelse (delt opp ID-01)
-    - 3d person muligheter (delt opp ID-07)
-    - unngå first person for de med motion sickness (delt opp ID-53)
+- Kamera, synsfelt og bevegelse
+    - 3.person view litt på avstand (delt opp Seksjon10-01)
+    - mindre bevegelse på kamera i bevegelse (delt opp Seksjon10-01)
+    - 3d person muligheter (delt opp Seksjon10-07)
+    - unngå first person for de med motion sickness (delt opp Seksjon10-53)
 
 - Tekst og undertekster
     - God teksting
     - Teksting
-    - Undertekst når karakterer (NPC) og andre ekte spillere sier noe hvis jeg ikke klarer å lytte/får vondt av lyd (delt opp ID-39)
-    - Tale til tekst i chat (delt opp ID-07)
-    - Lyd til tekst, slik vi kan oppfatte de som bruker mikrofon (delt opp ID-41)
+    - Undertekst når karakterer (NPC) og andre ekte spillere sier noe hvis jeg ikke klarer å lytte/får vondt av lyd (delt opp Seksjon10-39)
+    - Tale til tekst i chat (delt opp Seksjon10-07)
+    - Lyd til tekst, slik vi kan oppfatte de som bruker mikrofon (delt opp Seksjon10-41)
 
-- Skjermleser og tale
-    - Audiobeskrivelse (delt opp ID-05)
+- Skjermleser, opplesning og audiobeskrivelse
+    - Audiobeskrivelse (delt opp Seksjon10-05)
     - not accessible enough for the screenreader
 
-- Lyd- og vibrasjonskontroll
-    - Skru av stressende elementer som gir økning av puls (delt opp ID-04)
-    - noen ganger må «musikk» skrus ned (delt opp ID-39)
-    - noen ganger må «bakgrunnssambience» skrus ned (delt opp ID-39)
+- Lyd og vibrasjon
+    - Skru av stressende elementer som gir økning av puls (delt opp Seksjon10-04)
+    - noen ganger må «musikk» skrus ned (delt opp Seksjon10-39)
+    - noen ganger må «bakgrunnssambience» skrus ned (delt opp Seksjon10-39)
     - FFX – jeg ønsker å kunne slå av musikk eller ulike lyder
     - Bueno… a veces la voz se pierde en los juegos; la voz no se mantiene muy bien.
 
-- Vanskelighetsgrad
+- Vanskelighetsgrad og spillbalanse
     - Noen spill kan man ikke justere vanskelighetsgrad.
-    - Schwierigkeitsgrad (delt opp ID-52)
-    - weniger Gegner (delt opp ID-52)
+    - Schwierigkeitsgrad (delt opp Seksjon10-52)
+    - weniger Gegner (delt opp Seksjon10-52)
 
-- Tid og spillflyt
-    - Skru av tidsbegrensning (delt opp ID-04)
-    - Repeat hints uten å restarte mission (delt opp ID-07)
-    - Utvidet tid på tidsbegrensninger (delt opp ID-32)
+- Tid, tempo og spillflyt
+    - Skru av tidsbegrensning (delt opp Seksjon10-04)
+    - Repeat hints uten å restarte mission (delt opp Seksjon10-07)
+    - Utvidet tid på tidsbegrensninger (delt opp Seksjon10-32)
     - At spillhastigheten kunne blitt stilt inn slik at det ble mere i mitt tempo da jeg har senere reaksjonsevne
-    - Quicktime-Events aus (delt opp ID-52)
+    - Quicktime-Events aus (delt opp Seksjon10-52)
 
-- Kontroller og styringsfunksjoner
+- Kontroller og input
     - Mulighet til å spille med både mus og kontroller samtidig (joystick + mus)
     - more things that you could do with mouse clicking
     - Bedre støtte for kontroller
-    - “Hold” for rask klikking (delt opp ID-32)
-    - Click-to-move (delt opp ID-52)
-    - Mausbeschleunigung aus (delt opp ID-52)
-    - Meir ergonomiske kontroller (delt opp ID-44)
+    - “Hold” for rask klikking (delt opp Seksjon10-32)
+    - Click-to-move (delt opp Seksjon10-52)
+    - Mausbeschleunigung aus (delt opp Seksjon10-52)
+    - Meir ergonomiske kontroller (delt opp Seksjon10-44)
 
-- Indikatorer og assistansefunksjoner
+- Indikatorer og navigasjon
     - aim assist er en fin ting for meg
     - Autoaiming
-    - Fler autolock (delt opp ID-07)
-    - Dodge/parry indikator (delt opp ID-32)
-    - visual indicators if available (delt opp ID-22)
-    - sound indicators (delt opp ID-22)
+    - Fler autolock (delt opp Seksjon10-07)
+    - Dodge/parry indikator (delt opp Seksjon10-32)
+    - visual indicators if available (delt opp Seksjon10-22)
+    - sound indicators (delt opp Seksjon10-22)
     - it would be nice to have audio cues so I can navigate myself instead of the computer doing it
-    - Lydssignaler som viser hvor fotspor, kister og slikt kommer fra (delt opp ID-41)
+    - Lydssignaler som viser hvor fotspor, kister og slikt kommer fra (delt opp Seksjon10-41)
     - visuell lyd
 
-- Grensesnitt, skrift og grafikkinnstillinger
-    - Skriftstørrelse (delt opp ID-18)
-    - Basically… I miss larger font sizes the most (delt opp ID-19)
-    - White/very bright menu backgrounds should also offer dark option (delt opp ID-19)
-    - It is easier to navigate if a player can select keyboard, mouse or gamepad control in menus (delt opp ID-19)
-    - Especially if mouse cursors are very small, mouse-only menus are often hard to navigate (delt opp ID-19)
+- Grensesnitt, tekst og lesbarhet
+    - Skriftstørrelse (delt opp Seksjon10-18)
+    - Basically… I miss larger font sizes the most (delt opp Seksjon10-19)
+    - White/very bright menu backgrounds should also offer dark option (delt opp Seksjon10-19)
+    - It is easier to navigate if a player can select keyboard, mouse or gamepad control in menus (delt opp Seksjon10-19)
+       - Especially if mouse cursors are very small, mouse-only menus are often hard to navigate (delt opp Seksjon10-19)
     - mulighet for større skrift i spillene, samt endre på hvor store ting er på skjermen
     - Like muligheter til å justere kvaliteten på grafikken når en spiller på konsoll, slik PC-spillere ofte har
-    - grafiske innstillinger som motion blur (delt opp ID-18)
+    - grafiske innstillinger som motion blur (delt opp Seksjon10-18)
 
-- Hukommelsesstøtte og spilloversikt
-    - kart over hvor du har gått (delt opp ID-04)
-    - automatisk oppdatert logg (à la Outer Wilds) (delt opp ID-04)
-    - innebygd notatbok (delt opp ID-04)
-    - Dialoghistorie/logg (delt opp ID-32)
+- Kognitiv støtte og oversikt
+    - kart over hvor du har gått (delt opp Seksjon10-04)
+    - automatisk oppdatert logg (à la Outer Wilds) (delt opp Seksjon10-04)
+    - innebygd notatbok (delt opp Seksjon10-04)
+    - Dialoghistorie/logg (delt opp Seksjon10-32)
 
-- Kognitiv støtte og enkel navigasjon
-    - Noen spill kan være overveldende å sette seg inn i mentalt, når man har begrenset kognitiv kapasitet
-    - Litt enkle instrukser
+- Sansefilter og dempede inntrykk
+    - Overstimuleringsfilter (redusert repeterende lyder, alarmer etc.) (delt opp Seksjon10-32)
+    - Mulighet å velge «dempet sanseintrykk» for dårlige dager – lyd, lys og annet dempes/minskes (delt opp Seksjon10-44)
 
-- Sansefilter og demping
-    - Overstimuleringsfilter (redusert repeterende lyder, alarmer etc.) (delt opp ID-32)
-    - Mulighet å velge «dempet sanseintrykk» for dårlige dager – lyd, lys og annet dempes/minskes (delt opp ID-44)
-
-- Oppdateringskontroll
+- Oppdaterings- og versjonskontroll
     - Takke nei til oppdateringer ettersom de endrer spillet veldig mye ofte
 
-- Programvare og eksterne verktøy
-    - Se punkt 11 og 8. Grafikkinnstillinger og lyd er like viktige for meg. (delt opp ID-39)
+- Eksterne hjelpemidler og omgivelser
+    - Se punkt 11 og 8. Grafikkinnstillinger og lyd er like viktige for meg. (delt opp Seksjon10-39)
 
-- Uklart eller ingen funksjoner
+- Uklart/ikke angitt
     - vet ikke
     - Alt
     - I'm not really sure how to answer this one… all the ones I just mentioned.
     - none
-    - -
     - Ingen
     - Ingen for min del
-    - ingen
     - Kommer ikke på noe
-    - Vet ikke
-    - none
-    - Vet ikke
-    - Forstår ikke
 
 ## Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
-- **Visuell komfort og skjerminnstillinger**  
-  Spillere savner flere lysinnstillinger, epilepsisikre alternativer, bedre kontrast og enklere måter å unngå first-person for å redusere ubehag.
 
-- **Kamera og bevegelseskontroll**  
-  Mange ønsker mulighet for 3. person-visning og mindre kamerabevegelse for å redusere bevegelsessyke.
+- **Visuell komfort og skjerminnstillinger**  
+Spillere savner flere lysinnstillinger og epilepsisikre alternativer, bedre kontrast og mulighet til å unngå first-person for å redusere ubehag, for eksempel ved å kunne justere lysstyrke mer presist, aktivere epilepsitiltak og bruke motion sickness-modus.
+
+- **Kamera, synsfelt og bevegelse**  
+Mange ønsker mulighet for 3. person-visning og mindre kamerabevegelse, som å kunne velge 3D-perspektiv, redusere kameraristing og deaktivere first-person-modus.
 
 - **Tekst og undertekster**  
-  Spillere etterlyser bedre teksting, tale-til-tekst i chat og undertekster for dialog og stemmebruk.
+Spillere etterlyser bedre teksting og tale-til-tekst i chat, samt undertekster for dialog og stemmebruk, for eksempel undertekst når NPC snakker og lyd-til-tekst for mikrofonbruk.
 
-- **Skjermleser og tale**  
-  Det er behov for bedre støtte for skjermlesere og audiobeskrivelse i spill.
+- **Skjermleser, opplesning og audiobeskrivelse**  
+Det er behov for bedre støtte for skjermlesere og audiobeskrivelse, slik at synshemmede kan få tilgang til menyer og spillinformasjon.
 
-- **Lyd- og vibrasjonskontroll**  
-  Spillere ønsker mulighet til å dempe stressende lyder, justere musikk og stemmebalanse, og slå av uønskede lyder.
+- **Lyd og vibrasjon**  
+Spillere ønsker mulighet til å dempe stressende lyder, justere musikk og stemmebalanse, og slå av uønskede lyder, som å skru av pulsøkende effekter og redusere bakgrunnsambience.
 
-- **Vanskelighetsgrad**  
-  Flere savner fleksible innstillinger for vanskelighetsgrad og færre fiender i enkelte spill.
+- **Vanskelighetsgrad og spillbalanse**  
+Flere savner fleksible innstillinger for vanskelighetsgrad og færre fiender i enkelte spill, for eksempel Schwierigkeitsgrad og mulighet til å redusere antall motstandere.
 
-- **Tid og spillflyt**  
-  Funksjoner som fjerning av tidsbegrensninger, justering av spillhastighet og enklere hintsystemer etterlyses.
+- **Tid, tempo og spillflyt**  
+Funksjoner som fjerning av tidsbegrensninger, justering av spillhastighet og enklere hintsystemer etterlyses, som å skru av tidsfrister, gjenta hint uten restart og deaktivere Quicktime-events.
 
-- **Kontroller og styringsfunksjoner**  
-  Spillere ønsker bedre støtte for ergonomiske kontroller, kombinasjon av mus og kontroller, og funksjoner som «hold» i stedet for rask klikking.
+- **Kontroller og input**  
+Spillere ønsker bedre støtte for ergonomiske kontroller, kombinasjon av mus og kontroller og funksjoner som «hold» i stedet for rask klikking, samt click-to-move og mulighet til å slå av museakselerasjon.
 
-- **Indikatorer og assistansefunksjoner**  
-  Det er behov for flere visuelle og lydindikatorer, auto-aim, autolock og navigasjonshjelp for bedre orientering.
+-- **Indikatorer og navigasjon**  
+Det er behov for flere visuelle og lydindikatorer, auto-aim, autolock og navigasjonshjelp, som dodge/parry-indikatorer, lydsignaler for fotspor og visuelle indikatorer for fiender.
 
-- **Grensesnitt, skrift og grafikkinnstillinger**  
-  Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll.
+- **Grensesnitt, tekst og lesbarhet**  
+Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll, for eksempel mulighet til å endre fontstørrelse og aktivere mørke temaer.
 
-- **Hukommelsesstøtte og spilloversikt**  
-  Spillere ønsker kart over hvor de har vært, automatisk logg og innebygd notatbok for bedre oversikt.
+- **Kognitiv støtte og oversikt**  
+Spillere ønsker kart over hvor de har vært, automatisk logg og innebygd notatbok for bedre oversikt.
 
-- **Kognitiv støtte og enkel navigasjon**  
-  Det er behov for enklere instrukser og mindre komplekse spillopplevelser for spillere med begrenset kognitiv kapasitet.
+- **Sansefilter og dempede inntrykk**  
+Mulighet for «dempet sanseintrykk» og filter mot overstimulering etterlyses, slik at lyd og lys kan reduseres på dårlige dager.
 
-- **Sansefilter og demping**  
-  Spillere etterlyser mulighet for «dempet sanseintrykk» og filter mot overstimulering.
+- **Oppdaterings- og versjonskontroll**  
+Flere ønsker å kunne takke nei til oppdateringer som endrer spillet drastisk.
 
-- **Oppdateringskontroll**  
-  Flere ønsker å kunne takke nei til oppdateringer som endrer spillet drastisk.
-
-- **Programvare og eksterne verktøy**  
-  Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
+- **Eksterne hjelpemidler og omgivelser**  
+Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
 
 # personlig-opplevd-curb-cut_with-impair
 
 ## Kategorisering (2)
 
-11 Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
+11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
 
 - Teksting og undertekster
     - Teksting
