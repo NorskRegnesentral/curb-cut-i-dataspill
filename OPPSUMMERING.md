@@ -60,9 +60,9 @@
     - Språkstil avklares med brukeren: vitenskapelig, populærvitenskapelig eller nøytral rapportstil.  
     - Sammendraget kan inkludere enkle eksempler hvis nødvendig, men skal være kort og presist.
 
-# bruk-av-tilgjengelighetsfunksjoner_with-impair
+# 11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
 
-9. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller? (Alle land)
+bruk-av-tilgjengelighetsfunksjoner_with-impair
 
 ## Kategorisering
 
@@ -208,7 +208,6 @@
     - Forstår ikke
     - Ingen (delt opp Seksjon9-06)
 
-
 ## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere
 
 - **Visuell komfort og skjerminnstillinger**  
@@ -253,11 +252,9 @@ Eksterne verktøy og fysisk tilpasning gir bedre komfort, for eksempel Night lig
 - **Uklart/ikke angitt**  
 Noen svar er generelle eller uten konkrete funksjoner.
 
+# 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
 
-# savnete-tilgjengelighetsfunksjoner
-
-10. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
-
+savnete-tilgjengelighetsfunksjoner
 
 ## Kategorisering (1)
 
@@ -363,7 +360,6 @@ Noen svar er generelle eller uten konkrete funksjoner.
 
 ## Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
-
 - **Visuell komfort og skjerminnstillinger**  
 Spillere savner flere lysinnstillinger og epilepsisikre alternativer, bedre kontrast og mulighet til å unngå first-person for å redusere ubehag, for eksempel ved å kunne justere lysstyrke mer presist, aktivere epilepsitiltak og bruke motion sickness-modus.
 
@@ -406,9 +402,9 @@ Flere ønsker å kunne takke nei til oppdateringer som endrer spillet drastisk.
 - **Eksterne hjelpemidler og omgivelser**  
 Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
 
-# personlig-opplevd-curb-cut_with-impair
+# 13. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
 
-11. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
+personlig-opplevd-curb-cut_with-impair
 
 ## Kategorisering (2)
 
@@ -483,9 +479,9 @@ Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere me
 - **Tid, tempo og spillflyt**  
 Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende, som Pause zum Spielzug machen i strategispill.
 
-# generell-opplevd-curb-cut_with-impair
+# 16. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
 
-12. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
+generell-opplevd-curb-cut-tekst_with-impair
 
 ## Kategorisering (3)
 
@@ -563,104 +559,106 @@ Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting 
 Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
   
 # kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
- 
+
+18. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
+
 ## Kategorisering
-  
+
 - Visuell komfort og skjerminnstillinger
-    - contrast, transparency (delt opp ID-02)
-    - Brightness (delt opp ID-05)
-    - Kontrast/lys (delt opp ID-14)
+    - contrast, transparency (delt opp Seksjon19-02)
+    - Brightness (delt opp Seksjon19-05)
+    - Kontrast/lys (delt opp Seksjon19-14)
     - Higher contrast
 
 - Fargeblindhet og fargetilpasning
     - En los de daltonismo, por curiosidad
-    - Colors adapted to colorblindness (delt opp ID-07)
-    - Colorblind settings (delt opp ID-08)
-    - hjelp til fargeblinde (delt opp ID-10)
-    - Colorblind modes (delt opp ID-13)
-    - fargeblind (delt opp ID-14)
-    - Fargeblind moduser (delt opp ID-20)
-    - fargeblindhet (delt opp ID-23)
-    - innstillinger for de som er fargeblinde, slik at man kan endre fargenyansene (delt opp ID-24)
-    - Farge/kontrast-korrigering (delt opp ID-18)
-    - fargejustering (delt opp ID-22)
-    - Fargesettinger (delt opp ID-25)
+    - Colors adapted to colorblindness (delt opp Seksjon19-07)
+    - Colorblind settings (delt opp Seksjon19-08)
+    - hjelp til fargeblinde (delt opp Seksjon19-10)
+    - Colorblind modes (delt opp Seksjon19-13)
+    - fargeblind (delt opp Seksjon19-14)
+    - Fargeblind moduser (delt opp Seksjon19-20)
+    - fargeblindhet (delt opp Seksjon19-23)
+    - innstillinger for de som er fargeblinde, slik at man kan endre fargenyansene (delt opp Seksjon19-24)
+    - Farge/kontrast-korrigering (delt opp Seksjon19-18)
+    - fargejustering (delt opp Seksjon19-22)
+    - Fargesettinger (delt opp Seksjon19-25)
 
 - Tekst og undertekster
-    - Tekst (delt opp ID-09)
+    - Tekst (delt opp Seksjon19-09)
     - Teksting
-    - subtitles (delt opp ID-07)
-    - subtitles (delt opp ID-08)
-    - general subtitles (delt opp ID-13)
-    - Teksting (delt opp ID-18)
-    - Teksting og fargejustering (delt opp ID-22)
+    - subtitles (delt opp Seksjon19-07)
+    - subtitles (delt opp Seksjon19-08)
+    - general subtitles (delt opp Seksjon19-13)
+    - Teksting (delt opp Seksjon19-18)
+    - Teksting og fargejustering (delt opp Seksjon19-22)
 
-- Skalerbarhet og lesbarhet (tekst og UI)
-    - bokstavstørrelse (delt opp ID-14)
-    - større tekst (delt opp ID-10)
-    - større font (delt opp ID-25)
-    - Interface size adjustable (delt opp ID-16)
-    - endring av UI størrelse (delt opp ID-20)
-    - Justering av UI (delt opp ID-21)
+- Grensesnitt, tekst og lesbarhet
+    - bokstavstørrelse (delt opp Seksjon19-14)
+    - større tekst (delt opp Seksjon19-10)
+    - større font (delt opp Seksjon19-25)
+    - Interface size adjustable (delt opp Seksjon19-16)
+    - endring av UI størrelse (delt opp Seksjon19-20)
+    - Justering av UI (delt opp Seksjon19-21)
 
-- Lyd og tale
-    - text-to-speech features (delt opp ID-04)
-    - Tale for tekst (delt opp ID-11)
-    - Opplesning (delt opp ID-23)
-    - Tekst eller lydstøtte spill (delt opp ID-15)
+- Lyd og vibrasjon
+    - text-to-speech features (delt opp Seksjon19-04)
+    - Tale for tekst (delt opp Seksjon19-11)
+    - Opplesning (delt opp Seksjon19-23)
+    - Tekst eller lydstøtte spill (delt opp Seksjon19-15)
 
-- Kontroller og knappetilpasning
+- Kontroller og input
     - En la rapidez de respuesta o la sensibilidad del joystick
-    - bytte knappfunksjoner (delt opp ID-17)
-    - knappekonfigurering (delt opp ID-18)
+    - bytte knappfunksjoner (delt opp Seksjon19-17)
+    - knappekonfigurering (delt opp Seksjon19-18)
 
-- Tempo og tidsstyring
-    - evnen til å pause eller sakke tiden (delt opp ID-09)
-    - tilpasning av enkeltmekanismer (f.eks. Slow-mo i Celeste) (delt opp ID-18)
+- Tid, tempo og spillflyt
+    - evnen til å pause eller sakke tiden (delt opp Seksjon19-09)
+    - tilpasning av enkeltmekanismer (f.eks. Slow-mo i Celeste) (delt opp Seksjon19-18)
 
-- Assistansefunksjoner
-    - aim assist som hjelp for de med dårlige reflekser eller håndfunksjoner (delt opp ID-24)
-    - automasjonsfunksjoner (delt opp ID-25)
+- Indikatorer og navigasjon
+    - aim assist som hjelp for de med dårlige reflekser eller håndfunksjoner (delt opp Seksjon19-24)
+    - automasjonsfunksjoner (delt opp Seksjon19-25)
 
 - Vanskelighetsgrad og spillbalanse
-    - vanskelighetsgrad (delt opp ID-18)
-    - Justering av individuelle innstillinger som påvirker spillbarhet, fiende aggresjon, helse, skade man gjør o.l. (delt opp ID-21)
+    - vanskelighetsgrad (delt opp Seksjon19-18)
+    - Justering av individuelle innstillinger som påvirker spillbarhet, fiende aggresjon, helse, skade man gjør o.l. (delt opp Seksjon19-21)
 
-- Epilepsi og blinkende lys
-    - skru av blinkende lys (delt opp ID-23)
+- Visuell komfort og epilepsitiltak
+    - skru av blinkende lys (delt opp Seksjon19-23)
     - Opplyser angående epilepsi
 
 ## Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til
 
 - **Visuell komfort og skjerminnstillinger**  
-Flere respondenter nevnte muligheten til å justere kontrast, lysstyrke og skjerminnstillinger for bedre visuell komfort.
+Flere respondenter nevnte muligheten til å justere kontrast, lysstyrke og skjerminnstillinger for bedre visuell komfort, som å aktivere høy kontrast eller endre brightness.
 
 - **Fargeblindhet og fargetilpasning**  
-Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farger og kontrast for å gjøre spill mer tilgjengelige.
+Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farger og kontrast, for eksempel Colorblind settings og fargejustering for bedre synlighet.
 
 - **Tekst og undertekster**  
-Mange la merke til teksting og undertekster som en sentral tilgjengelighetsfunksjon i spill.
+Mange la merke til teksting og undertekster som en sentral tilgjengelighetsfunksjon i spill, inkludert mulighet for subtitles og teksting med fargejustering.
 
-- **Skalerbarhet og lesbarhet (tekst og UI)**  
-Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet.
+- **Grensesnitt, tekst og lesbarhet**  
+Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet, som større tekst og justering av UI-størrelse.
 
-- **Lyd og tale**  
-Flere nevnte funksjoner som tekst-til-tale, opplesning og lydstøtte som viktige for tilgjengelighet.
+- **Lyd og vibrasjon**  
+Flere nevnte funksjoner som tekst-til-tale, opplesning og lydstøtte som viktige for tilgjengelighet, for eksempel text-to-speech og tale for tekst.
 
-- **Kontroller og knappetilpasning**  
-Tilpasning av knapper og kontrollinnstillinger ble trukket frem som en nyttig funksjon for ulike behov.
+- **Kontroller og input**  
+Tilpasning av knapper og kontrollinnstillinger ble trukket frem som nyttige funksjoner, som bytte knappfunksjoner og justering av joystick-sensitivitet.
 
-- **Tempo og tidsstyring**  
+- **Tid, tempo og spillflyt**  
 Noen respondenter la merke til muligheten til å pause, sakke ned eller bruke slow motion for å tilpasse spilltempo.
 
-- **Assistansefunksjoner**  
+- **Indikatorer og navigasjon**  
 Funksjoner som aim assist og automatisering ble nevnt som hjelpemidler for spillere med redusert reaksjonsevne.
 
 - **Vanskelighetsgrad og spillbalanse**  
 Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade ble fremhevet som tilgjengelighetsfunksjoner.
 
-- **Epilepsi og blinkende lys**  
-Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og varsler om epilepsirisiko.
+- **Visuell komfort og epilepsitiltak**  
+Enkelte respondenter nevnte innstillinger for å skru av blinkende
  
 # bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 
