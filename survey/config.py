@@ -229,7 +229,7 @@ tasks_no = {
       },
    
    18: {
-         "var": ["kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair"],
+         "var": ["kjennskap-til-tilgjengelighetsfunksjoner_without-impair"],
          "sets":  ["all"], 
          "title": "Har du lagt merke til tilgjengelighetsinnstillinger\neller -funskjoner i spill du har spilt?",
          "kind":  "pie",
@@ -238,7 +238,7 @@ tasks_no = {
       },
    
    19: { 
-         "var":   ["kjennskap-til-tilgjengelighetsfunksjoner-tekst"],
+         "var":   ["kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair"],
          "sets":  ["all"],
          "title": "Hvilke funksjoner har du lagt merke til?",
          "kind":  "text"
