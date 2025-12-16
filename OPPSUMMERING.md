@@ -658,7 +658,7 @@ Funksjoner som aim assist og automatisering ble nevnt som hjelpemidler for spill
 Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade ble fremhevet som tilgjengelighetsfunksjoner.
 
 - **Visuell komfort og epilepsitiltak**  
-Enkelte respondenter nevnte innstillinger for å skru av blinkende
+Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.
  
 # bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 
