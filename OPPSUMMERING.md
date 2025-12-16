@@ -753,87 +753,82 @@ Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunk
 ## Kategorisering
 
 - Visuell komfort og skjerminnstillinger
-  - avoid eye strain, avoid having to buy complex game setup to be able to play the game
-  - Hard to see, tiring
-  - It felt more natural and easier to play
-  - Få bort gjennomsiktighet som gjør at jeg sliter med å lese
-  - Lys ømfintlig (delt opp ID-50)
-  - For å se bedre med litt mørk lys (delt opp ID-93)
-  - ser penere ut (delt opp ID-95)
-  - visuals) (delt opp ID-17)
+    - avoid eye strain, avoid having to buy complex game setup to be able to play the game
+    - Hard to see, tiring
+    - It felt more natural and easier to play
+    - Få bort gjennomsiktighet som gjør at jeg sliter med å lese
+    - Lys ømfintlig (delt opp Seksjon21-50)
+    - For å se bedre med litt mørk lys (delt opp Seksjon21-93)
+    - ser penere ut (delt opp Seksjon21-95)
+    - visuals) (delt opp Seksjon21-17)
 
 - Fargeblindhet og fargetilpasning
-  - Subtítulos por el idioma, los de daltonismo por curiosidad
+    - Subtítulos por el idioma, los de daltonismo por curiosidad
 
 - Tekst og undertekster
-  - To help understanding languages that are not my mother tongue
-  - To have dialogues in original version and subtitles in my language
-  - My reading comprehension is better than my reading comprehension
-  - Dysleksi og apd
-  - ser litt dårlig (liten tekst) (delt opp ID-50)
-  - Teksting (delt opp ID-51)
-  - quicker to read subtitles than to wait for a character to finish speaking
-  - Liten tekst
-  - Bruker den for å få med dialoger og viktig informasjon i spill der karakterene ofte har stemmer. Til tross for at jeg er hørende kan man ikke alltid få med seg det som blir sagt
-  - litt større tekst (delt opp ID-93)
+    - To help understanding languages that are not my mother tongue
+    - To have dialogues in original version and subtitles in my language
+    - My reading comprehension is better than my reading comprehension
+    - Dysleksi og apd
+    - ser litt dårlig (liten tekst) (delt opp Seksjon21-50)
+    - Teksting (delt opp Seksjon21-51)
+    - quicker to read subtitles than to wait for a character to finish speaking
+    - Bruker den for å få med dialoger og viktig informasjon i spill der karakterene ofte har stemmer.
+    - litt større tekst (delt opp Seksjon21-93)
 
-- Skalerbarhet og lesbarhet (tekst og UI)
-  - ser litt dårlig (liten tekst) (delt opp ID-50)
-  - Liten tekst
-  - litt større tekst (delt opp ID-93)
+- Grensesnitt, tekst og lesbarhet
+    - ser litt dårlig (liten tekst) (delt opp Seksjon21-50)
+    - Liten tekst
+    - litt større tekst (delt opp Seksjon21-93)
 
-- Lyd og tale
-  - ease of play (sound (delt opp ID-17)
-  - ofte utilstrekkelig lydmiks til å skille ut dialog (delt opp ID-51)
-  - Sometimes the text is too small to read or the music swamps the dialogue
-  - Tilpasset mitt hørselstap
-  - Gjøre skriving lettere
+- Lyd og vibrasjon
+    - ease of play (sound) (delt opp Seksjon21-17)
+    - ofte utilstrekkelig lydmiks til å skille ut dialog (delt opp Seksjon21-51)
+    - Sometimes the text is too small to read or the music swamps the dialogue
+    - Tilpasset mitt hørselstap
+    - Gjøre skriving lettere
 
-- Kontroller og knappetilpasning
-  - No estoy acostumbrada a jugar, y prefiero que vaya más lento para poder controlarlo mejor (delt opp ID-10)
-  - Buscas más cómodidad al jugar
-  - Curiosity (control customisation) (delt opp ID-17)
-  - Knappejustering pga preferanser og (delt opp ID-51)
-  - eller forbigående smerte i enkelte ledd (delt opp ID-51)
+- Kontroller og input
+    - No estoy acostumbrada a jugar, y prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon21-10)
+    - Buscas más cómodidad al jugar
+    - Curiosity (control customisation) (delt opp Seksjon21-17)
+    - Knappejustering pga preferanser og (delt opp Seksjon21-51)
+    - eller forbigående smerte i enkelte ledd (delt opp Seksjon21-51)
 
-- Tempo og tidsstyring
-  - prefiero que vaya más lento para poder controlarlo mejor (delt opp ID-10)
+- Tid, tempo og spillflyt
+    - prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon21-10)
 
-- Assistansefunksjoner
-  - Hjelp for å lokalisere fiender. Da jeg ikke klarer å høre hvor de er
-  - Det er enklere å få med seg hva som blir sagt
-  - Lettere for meg å henge på
-  - Fordi det er et verktøy som gjør spillet morsommerer når det er vanskelig spill, ellers bruker jeg de ikke. Det skal være utofrdrenede, men å få tips til hvor man skal gå eller slippe gjøre kombinasjoner som er ekstremt vanskelig om man ikke spiller mer enn 1–2 timer om dagen gjør det til et nyttig hjelpemiddel
-  - Gjør livet enklere (delt opp ID-95)
+- Indikatorer og navigasjon
+    - Hjelp for å lokalisere fiender. Da jeg ikke klarer å høre hvor de er
+    - Det er enklere å få med seg hva som blir    - Det er enklere å få med seg hva som blir sagt
+    - Lettere for meg å henge på
+    - Fordi det er et verktøy som gjør spillet morsommere når det er vanskelig spill, ellers bruker jeg de ikke.
 
 ## Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
 
-- **Visuell komfort og skjerminnstillinger**  
-Flere brukere justerte lysstyrke, kontrast og andre skjerminnstillinger (inkludert «high contrast», dempet lys og fjerning av gjennomsiktighet) for å redusere øyebelastning og gjøre spillet mer behagelig.
+- **Visuell komfort og skjerminnstillinger**
+Brukere oppgir at de tilpasser lys og kontrast for å redusere øyebelastning og gjøre spillet mer behagelig, som å fjerne gjennomsiktighet, dempe lys, justere brightness og aktivere high contrast-modus. Flere nevner også at det «ser penere ut» og gir en mer naturlig spillopplevelse.
 
-- **Fargeblindhet og fargetilpasning**  
-Noen brukte fargeblindinnstillinger og fargejustering for bedre synlighet og kontrast.
+- **Fargeblindhet og fargetilpasning**
+Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, og enkelte nevner at det hjelper med å skille elementer i komplekse spill.
 
-- **Tekst og undertekster**  
-Undertekster og teksting ble hyppig brukt for å forstå dialoger, særlig når lyd var utydelig eller på et fremmed språk.
+- **Tekst og undertekster**
+Undertekster brukes for å forstå dialoger, særlig når språket er fremmed eller lydkvaliteten dårlig. Flere nevner at det er raskere å lese tekst enn å vente på tale, og at teksting hjelper ved dysleksi eller auditiv prosesseringsvansker. Eksempler inkluderer «Teksting», «quicker to read subtitles» og «undertekster for original dialog».
 
-- **Skalerbarhet og lesbarhet (tekst og UI)**  
-Justering av tekststørrelse, UI-størrelse og zoom ble brukt for å øke lesbarheten.
+- **Grensesnitt, tekst og lesbarhet**
+Justering av tekststørrelse og UI ble brukt for å kompensere for liten tekst og gjøre grensesnittet mer lesbart, som å skru opp skriftstørrelsen eller aktivere større font.
 
-- **Lyd og tale**  
-Brukere rapporterte å justere musikkvolum og benytte funksjoner som stemmeskriving eller lydindikatorer for å kompensere for hørselstap.
+- **Lyd og vibrasjon**
+Brukere tilpasser lyd for å unngå overstimulering eller kompensere for hørselstap, som å justere lydmiks, slå av forstyrrende lyder og tilpasse volum for bedre balanse.
 
-- **Kontroller og knappetilpasning**  
-Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper for komfort eller redusert belastning.
+- **Kontroller og input**
+Tilpasning av kontroller brukes for komfort og ergonomi, som button remap, toggle sprint og funksjoner som «hold» i stedet for rask trykking. Flere nevner at dette reduserer smerte i ledd eller gjør spillet enklere å håndtere.
 
-- **Tempo og tidsstyring**  
-Noen anvendte muligheten til å pause eller senke tempoet i spillet for bedre kontroll.
+- **Tid, tempo og spillflyt**
+Muligheten til å senke tempoet eller bruke pausefunksjoner gjør spillet mer håndterbart, for eksempel ved å aktivere slow motion eller redusere hastighet i krevende sekvenser.
 
-- **Assistansefunksjoner**  
-Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for retning eller hendelser ble tatt i bruk for å lette spillingen.
-
-- **Generell bruk**  
-Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
+- **Indikatorer og navigasjon**
+Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde oversikt, og flere nevner at slike funksjoner gjør spillet morsommere og enklere, som «hjelp for å lokalisere fiender» og «signalfunksjoner for retning».
 
 # personlig-opplevd-curb-cut-tekst_without-impair
 
