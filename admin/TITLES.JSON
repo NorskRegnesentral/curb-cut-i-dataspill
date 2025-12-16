@@ -1,1 +1,21 @@
-{}
+{
+   "01-alder": "01 alder",
+   "02-kjonn": "02 kjonn",
+   "03-land": "03 land",
+   "04-spillevaner": "04 spillevaner",
+   "05-plattformpreferanser-kort": "05 plattformpreferanser kort",
+   "06-sjangerpreferanser-kort": "06 sjangerpreferanser kort",
+   "07-funksjonsnedsettelse": "07 funksjonsnedsettelse",
+   "08-funksjonsnedsettelse-type-kode": "08 funksjonsnedsettelse type kode",
+   "09-opplevde-utfordringer": "09 opplevde utfordringer",
+   "10-sjangeronsker-kort": "10 sjangeronsker kort",
+   "13-personlig-opplevd-curb-cut_with-impair": "13 personlig opplevd curb cut With impair",
+   "15-generell-opplevd-curb-cut_with-impair": "15 generell opplevd curb cut With impair",
+   "17-holdning-til-tilgjengelighet": "17 holdning til tilgjengelighet",
+   "18-kjennskap-til-tilgjengelighetsfunksjoner_without-impair": "18 kjennskap til tilgjengelighetsfunksjoner Without impair",
+   "20-interesse-for-tilgjengelighetsfunksjoner": "20 interesse for tilgjengelighetsfunksjoner",
+   "21-bruk-av-tilgjengelighetsfunksjoner_without-impair": "21 bruk av tilgjengelighetsfunksjoner Without impair",
+   "24-personlig-opplevd-curb-cut_without-impair": "24 personlig opplevd curb cut Without impair",
+   "400-01-spillevaner-with-v-withou-impair-pct": "400 01 spillevaner with v withou impair pct",
+   "400-02-spillevaner-all-abilities": "400 02 spillevaner all abilities"
+}
