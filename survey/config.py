@@ -14,6 +14,14 @@ pie_color_dark = sns.diverging_palette(350, 225, s=75, l=65, center="dark",as_cm
 bar_color = sns.diverging_palette(350, 225, s=75, l=65, as_cmap=True)#"cool"#"Paired"
 
 tasks_no = {
+   
+   "A": {
+        "var": None,
+        "sets": ["all"],
+        "title": "Generell informasjon",
+        "kind": "header",
+        "niveau": 1
+      },
       
    # 0. country as pie chart
    3: { 
@@ -126,6 +134,14 @@ tasks_no = {
          #"is-percentage":  True
       },
    
+   "B": {
+        "var": None,
+        "sets": ["all"],
+        "title": "Svar fra gamere med funksjonsnedsettelser",
+        "kind": "header",
+        "niveau": 1
+      },
+   
     # 7. genre wishesas pie chart separated by impairment (with, without, combined)
    10: {
          "var": ["sjangeronsker-kort"],
@@ -193,6 +209,14 @@ tasks_no = {
          "sets":  ["all"],
          "title": "Hvilke funksjoner har du lagt merke til?",
          "kind":  "text"
+      },
+   
+   "C": {
+        "var": None,
+        "sets": ["all"],
+        "title": "Svar fra gamere uten funksjonsnedsettelser",
+        "kind": "header",
+        "niveau": 1
       },
    
    17: {

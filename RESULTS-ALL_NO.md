@@ -1,5 +1,7 @@
 # Results from the survey
 
+# A. Generell informasjon
+
 ## 3. Hvor bor du? (%)
 
 ![Hvor bor du? (%)](results/no/03-land.png)
@@ -123,6 +125,8 @@ Sportsspill                                         6
 Strategispill                                      47
 Survival                                            4
 ```
+
+# B. Svar fra gamere med funksjonsnedsettelser
 
 ## 10. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)
 
@@ -336,6 +340,8 @@ Antall svar: 19
 * Fargeblinde farger og den fortnite lydsvarsler.
 * visuell lyd i fortnite
 * Er personlig glad i subtitles feks.
+
+# C. Svar fra gamere uten funksjonsnedsettelser
 
 ## 17. Tenker du på tilgjengelighet som noe som angår deg?
 

@@ -109,19 +109,21 @@ def process_data():
       """
       Checking if necessary parameters are present.
       """
-      if not "var" in values or not values["var"]:
-         print("No variable has been chosen.")
-         continue
-      var  = values["var"][0] # Why [0]?
-      
-      if not "sets" in values or not values["sets"]:
-         print("No set(s) has(have) been chosen.")
-         continue
-      
       if not "kind" in values or not values["kind"]:
          print("No plot type has been chosen.")
          continue
       kind = values["kind"]
+      
+      if not kind == "header":
+         
+         if not "var" in values or not values["var"]:
+            print("No variable has been chosen.")
+            continue
+         var  = values["var"][0] # Why [0]?
+      
+      if not "sets" in values or not values["sets"]:
+         print("No set(s) has(have) been chosen.")
+         continue
       
       """
       Checking if optional parameters are present.
@@ -133,7 +135,7 @@ def process_data():
          
       niveau = 2 # Defines the niveau of the title, 2 by default, i.e. "##"
       if "niveau" in values:
-         niveau = values
+         niveau = values["niveau"]
             
       """
       Processing data for each set.
@@ -153,7 +155,10 @@ def process_data():
          
          # TODO: This fix is quick and dirty. Should be improved and made more robust.
          curr_title = title.replace("\n"," ")
-         res_dict[set]["str"] = res_dict[set]["str"] + "\n\n{} {}. {}".format(niveau*"#",key,curr_title)       
+         res_dict[set]["str"] = res_dict[set]["str"] + "\n\n{} {}. {}".format(niveau*"#",key,curr_title)
+         
+         if kind == "header":
+            continue # For headers, just move to next key.
             
          if  not "subsets" in values or not values["subsets"]:   
             values, res_dict = processing_simple_set(lan,key,values,set,curr_data_set,res_dict,var,kind,lookup)
