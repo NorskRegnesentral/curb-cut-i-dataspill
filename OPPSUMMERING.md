@@ -64,7 +64,7 @@
 
 bruk-av-tilgjengelighetsfunksjoner_with-impair
 
-## Kategorisering
+## Kategorisering (0)
 
 **Antall svar: 53**
 
@@ -562,7 +562,7 @@ Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke be
 
 kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
 
-## Kategorisering
+## Kategorisering (4)
 
 - Visuell komfort og skjerminnstillinger
     - contrast, transparency (delt opp Seksjon19-02)
@@ -664,7 +664,7 @@ Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilep
 
 bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 
-## Kategorisering
+## Kategorisering (5)
 
 - Visuell komfort og skjerminnstillinger
     - brightness/color adjustments (delt opp Seksjon21-06)
@@ -749,7 +749,7 @@ Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunk
 
 motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
 
-## Kategorisering
+## Kategorisering (6)
 
 - Visuell komfort og skjerminnstillinger
     - avoid eye strain, avoid having to buy complex game setup to be able to play the game
@@ -833,7 +833,7 @@ Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde o
 
 personlig-opplevd-curb-cut-tekst_without-impair
 
-## Kategorisering
+## Kategorisering (7)
 
 - Visuell komfort og skjerminnstillinger
     - Adjusting brightness or colour palettes to make things easier to see, more enjoyable experience

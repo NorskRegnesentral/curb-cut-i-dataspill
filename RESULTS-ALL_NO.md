@@ -2,13 +2,40 @@
 
 ## Oversikt
 
-# A. Generell informasjon
+* [3. Hvor bor du? (%)](#3-hvor-bor-du-%)
+* [1. Hvor gammel er du?](#1-hvor-gammel-er-du)
+* [2. Hva er ditt kjønn?](#2-hva-er-ditt-kjønn)
+* [7. Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?](#7-har-du-en-funksjonsnedsettelse-eller-tilstand-som-påvirker-hvordan-du-gamerspiller)
+* [8. Beskriv funskjonsnedsettelsen din:](#8-beskriv-funskjonsnedsettelsen-din:)
+* [4. Hvor ofte spiller du dataspill?](#4-hvor-ofte-spiller-du-dataspill)
+* [400. Hvor ofte spiller du dataspill?](#400-hvor-ofte-spiller-du-dataspill)
+    * [Subset Med vs. Uten funksjonsnedsettelse (%)](#subset-med-vs-uten-funksjonsnedsettelse-%)
+    * [Subset Uansett funksjonsevne (%)](#subset-uansett-funksjonsevne-%)
+* [5. Hvilke spillplattformer bruker du mest? (Total #)](#5-hvilke-spillplattformer-bruker-du-mest-total-#)
+* [6. Hvilke spillsjangere foretrekker du? (Total #)](#6-hvilke-spillsjangere-foretrekker-du-total-#)
+* [10. Hvilke spillsjangere skulle du ønske du kunne spille mer, hvis de var bedre tilgjengelige for deg? (Total #)](#10-hvilke-spillsjangere-skulle-du-ønske-du-kunne-spille-mer-hvis-de-var-bedre-tilgjengelige-for-deg-total-#)
+* [9. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)](#9-hvor-ofte-opplever-du-at-det-er-vanskelig-å-spille-med-dine-behov-%)
+* [11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?](#11-hvilke-tilgjengelighetsfunksjoner-bruker-du-når-du-gamerspiller)
+* [12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller?](#12-hvilke-tilgjengelighetsfunksjoner-savner-du-i-spillene-du-spiller)
+* [13. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg?](#13-har-du-brukt-tilgjengelighetsfunksjoner-som-ikke-var-laget-for-dine-behov-men-som-likevel-hjalp-deg)
+* [14. Hvilke funksjoner gjaldt det?](#14-hvilke-funksjoner-gjaldt-det)
+* [15. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?](#15-har-du-lagt-merke-til-at-funksjoner-laget-for-én-gruppe-brukes-av-andre-spillere)
+* [16. Hvilke funksjoner har du lagt merke til?](#16-hvilke-funksjoner-har-du-lagt-merke-til)
+* [17. Tenker du på tilgjengelighet som noe som angår deg?](#17-tenker-du-på-tilgjengelighet-som-noe-som-angår-deg)
+* [18. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?](#18-har-du-lagt-merke-til-tilgjengelighetsinnstillinger-eller--funskjoner-i-spill-du-har-spilt)
+* [19. Hvilke funksjoner har du lagt merke til?](#19-hvilke-funksjoner-har-du-lagt-merke-til)
+* [20. Er du nysgjerrig på tilgjengelighetsfunksjoner når du ser dem i spill eller på plattformen du bruker?](#20-er-du-nysgjerrig-på-tilgjengelighetsfunksjoner-når-du-ser-dem-i-spill-eller-på-plattformen-du-bruker)
+* [21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser?](#21-har-du-noen-gang-brukt-slike-funksjoner-selv-–-for-eksempel-teksting-fargejustering-zoom-kontrolltilpasning-eller-assistansemoduser)
+* [22. Hvilke tilgjengelighetsfunksjoner har du brukt?](#22-hvilke-tilgjengelighetsfunksjoner-har-du-brukt)
+* [23. Hva fikk deg til å bruke disse funksjonene?](#23-hva-fikk-deg-til-å-bruke-disse-funksjonene)
+* [24. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse?](#24-har-du-opplevd-at-funksjoner-laget-for-tilgjengelighet-har-forbedret-din-egen-spillopplevelse)
+* [25. Har du eksempler på funksjoner der dette har vært tydelig?](#25-har-du-eksempler-på-funksjoner-der-dette-har-vært-tydelig)
+
+[This overview has been generated automatically.]
 
 ## 3. Hvor bor du? (%)
 
 ![Hvor bor du? (%)](results/no/03-land.png)
-
-
 
 ## 1. Hvor gammel er du?
 
@@ -86,7 +113,6 @@ spillevaner
 
 ![Hvor ofte spiller du dataspill?, Uansett funksjonsevne (%)](results/no/400-02-spillevaner-all-abilities.png)
 
-
 ## 5. Hvilke spillplattformer bruker du mest? (Total #)
 
 ![Hvilke spillplattformer bruker du mest? (Total #)](results/no/05-plattformpreferanser-kort.png)
@@ -156,8 +182,6 @@ Survival                                       2
 ## 9. Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)
 
 ![Hvor ofte opplever du at det er vanskelig å spille med dine behov? (%)](results/no/09-opplevde-utfordringer.png)
-
-
 
 ## 11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
 
