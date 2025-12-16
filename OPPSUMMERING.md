@@ -419,9 +419,6 @@ personlig-opplevd-curb-cut_with-impair
     - Teksting
     - Undertekst (delt opp Seksjon13-15)
 
-- Kommunikasjon og chat
-    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon13-15)
-
 - Grensesnitt, tekst og lesbarhet
     - Muligheter for å forstørre teksten (delt opp Seksjon13-02)
     - Größere GUI (Guildwars)
@@ -456,16 +453,10 @@ personlig-opplevd-curb-cut_with-impair
     - Masse forskjellig, vanskelig å spesifisere
     - Alle tidligere nevnt. Teknisk ikke sett laget for meg, men hjalp.
 
+- Lyd og vibrasjon
+    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon13-15)
+
 ## Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
-
-- **Tekst og undertekster**  
-Undertekster brukes for å følge dialog og handling, selv om funksjonen ikke var laget for dem, for eksempel ved å aktivere teksting i spill med mye tale.
-
-- **Kommunikasjon og chat**  
-Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon, som å skrive meldinger når stemmechat (voice chat) er vanskelig.
-
-- **Grensesnitt, tekst og lesbarhet**  
-Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon, som å forstørre tekst og bruke større GUI i spill som Guild Wars.
 
 - **Visuell komfort og skjerminnstillinger**  
 Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt for å redusere ubehag, spesielt av spillere som er følsomme for epilepsitriggere.
@@ -473,17 +464,26 @@ Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt fo
 - **Kamera, synsfelt og bevegelse**  
 Reduksjon av skjermristing hjalp spillere med bevegelsessyke, for eksempel ved å aktivere Reduce Screen Shaking.
 
+- **Tekst og undertekster**  
+Undertekster brukes for å følge dialog og handling, selv om funksjonen ikke var laget for dem, for eksempel ved å aktivere teksting i spill med mye tale.
+
+- **Tid, tempo og spillflyt**  
+Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende, som Pause zum Spielzug machen i strategispill.
+
+- **Kontroller og input**  
+Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.
+
 - **Indikatorer og navigasjon**  
 Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse, som å bruke lyd på skjerm og visuelle indikatorer for fiender.
 
 - **Fargeblindhet og fargetilpasning**  
 Fargeblindmodus ble brukt av spillere som ikke er fargeblinde fordi det ga bedre kontrast og synlighet, for eksempel i puslespill.
 
-- **Kontroller og input**  
-Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.
+- **Grensesnitt, tekst og lesbarhet**  
+Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon, som å forstørre tekst og bruke større GUI i spill som Guild Wars.
 
-- **Tid, tempo og spillflyt**  
-Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende, som Pause zum Spielzug machen i strategispill.
+- **Kommunikasjon og chat**  
+Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon, som å skrive meldinger når stemmechat (voice chat) er vanskelig.
 
 # 16. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
 
@@ -537,26 +537,26 @@ generell-opplevd-curb-cut-tekst_with-impair
 
 ## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)
 
+- **Visuell komfort og skjerminnstillinger**  
+Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag, for eksempel ved å øke kontrast eller justere lysstyrke.
+
 - **Tekst og undertekster**  
 Undertekster og skjermtekst, opprinnelig laget for hørselshemmede, brukes nå bredt av spillere for bedre forståelse, for eksempel når dialog er utydelig eller språket er fremmed.
 
 - **Vanskelighetsgrad og spillbalanse**  
 Justering av vanskelighetsnivå, laget for tilgjengelighet, brukes av mange for en mer tilpasset spillopplevelse, som å aktivere tilpasset vanskelighetsgrad i utfordrende spill.
 
-- **Fargeblindhet og fargetilpasning**  
-Fargeblindmodus og fargejusteringer brukes av spillere for bedre kontrast og synlighet, og noen nevner at dette gir fordeler i konkurransespill.
-
-- **Visuell komfort og skjerminnstillinger**  
-Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag, for eksempel ved å øke kontrast eller justere lysstyrke.
-
-- **Grensesnitt, tekst og lesbarhet**  
-Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet, som å endre skriftstørrelse i menyer.
-
 - **Kontroller og input**  
 Funksjoner som knappemapping og toggles, laget for motoriske utfordringer, brukes av andre for komfort og effektivitet, for eksempel button remap og vekslefunksjon (toggle) sprint.
 
 - **Indikatorer og navigasjon**  
 Visuelle og lydindikatorer, samt kartmarkører, hjelper spillere med navigasjon og situasjonsforståelse, som å bruke lyd på skjerm eller visuelle indikatorer for fiender.
+
+- **Fargeblindhet og fargetilpasning**  
+Fargeblindmodus og fargejusteringer brukes av spillere for bedre kontrast og synlighet, og noen nevner at dette gir fordeler i konkurransespill.
+
+- **Grensesnitt, tekst og lesbarhet**  
+Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet, som å endre skriftstørrelse i menyer.
 
 - **Automatisering og QoL**  
 Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting i skytespill.
@@ -575,6 +575,8 @@ kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
     - Brightness (delt opp Seksjon19-05)
     - Kontrast/lys (delt opp Seksjon19-14)
     - Higher contrast
+    - skru av blinkende lys (delt opp Seksjon19-23)
+    - Opplyser angående epilepsi
 
 - Fargeblindhet og fargetilpasning
     - En los de daltonismo, por curiosidad
@@ -630,38 +632,34 @@ kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
     - vanskelighetsgrad (delt opp Seksjon19-18)
     - Justering av individuelle innstillinger som påvirker spillbarhet, fiende aggresjon, helse, skade man gjør o.l. (delt opp Seksjon19-21)
 
-- Visuell komfort og epilepsitiltak
-    - skru av blinkende lys (delt opp Seksjon19-23)
-    - Opplyser angående epilepsi
-
 ## Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til
 
 - **Visuell komfort og skjerminnstillinger**  
 Flere respondenter nevnte muligheten til å justere kontrast, lysstyrke og skjerminnstillinger for bedre visuell komfort, som å aktivere høy kontrast eller endre lysstyrke.
 
-- **Fargeblindhet og fargetilpasning**  
-Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farger og kontrast, for eksempel innstillinger for fargeblindhet og fargejustering for bedre synlighet.
-
 - **Tekst og undertekster**  
 Mange la merke til teksting og undertekster som en sentral tilgjengelighetsfunksjon i spill, inkludert mulighet for undertekster og teksting med fargejustering.
-
-- **Grensesnitt, tekst og lesbarhet**  
-Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet, som større tekst og justering av UI-størrelse.
 
 - **Lyd og vibrasjon**  
 Flere nevnte funksjoner som tekst-til-tale, opplesning og lydstøtte som viktige for tilgjengelighet, for eksempel text-to-speech og tale for tekst.
 
-- **Kontroller og input**  
-Tilpasning av knapper og kontrollinnstillinger ble trukket frem som nyttige funksjoner, som bytte knappfunksjoner og justering av joystick-sensitivitet.
+- **Vanskelighetsgrad og spillbalanse**  
+Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade ble fremhevet som tilgjengelighetsfunksjoner.
 
 - **Tid, tempo og spillflyt**  
 Noen respondenter la merke til muligheten til å pause, sakke ned eller bruke slow motion for å tilpasse spilltempo.
 
+- **Kontroller og input**  
+Tilpasning av knapper og kontrollinnstillinger ble trukket frem som nyttige funksjoner, som bytte knappfunksjoner og justering av joystick-sensitivitet.
+
 - **Indikatorer og navigasjon**  
 Funksjoner som aim assist og automatisering ble nevnt som hjelpemidler for spillere med redusert reaksjonsevne.
 
-- **Vanskelighetsgrad og spillbalanse**  
-Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade ble fremhevet som tilgjengelighetsfunksjoner.
+- **Fargeblindhet og fargetilpasning**  
+Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farger og kontrast, for eksempel innstillinger for fargeblindhet og fargejustering for bedre synlighet.
+
+- **Grensesnitt, tekst og lesbarhet**  
+Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet, som større tekst og justering av UI-størrelse.
 
 - **Visuell komfort og epilepsitiltak**  
 Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.
@@ -727,26 +725,26 @@ bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 - **Visuell komfort og skjerminnstillinger**  
 Flere brukere justerte lysstyrke, kontrast og farger for en mer behagelig spillopplevelse, som å aktivere høy kontrast, dempe lys eller bruke alfa-effekter.
 
-- **Fargeblindhet og fargetilpasning**  
-Noen brukte fargeblindinnstillinger og fargekoding av tekst for å lettere skille mellom elementer, for eksempel ajuste de daltonismo og fargekode tekst.
-
 - **Tekst og undertekster**  
 Undertekster ble hyppig brukt for å forstå dialoger, særlig når lyd ikke var tilgjengelig eller ønsket, som Subtítulos og undertekster med fargejustering.
-
-- **Grensesnitt, tekst og lesbarhet**  
-Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten, for eksempel skru opp skriftstørrelse og aktivere Zoom.
 
 - **Lyd og vibrasjon**  
 Brukere rapporterte å justere musikkvolum og benytte stemmeskriving der dette var støttet.
 
-- **Kontroller og input**  
-Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper, som Reducir la sensibilidad del control og Control customisation.
-
 - **Tid, tempo og spillflyt**  
 Noen anvendte muligheten til å pause eller senke tempoet i spillet for bedre kontroll.
 
+- **Kontroller og input**  
+Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper, som Reducir la sensibilidad del control og Control customisation.
+
 - **Indikatorer og navigasjon**  
 Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for hendelser eller retning ble tatt i bruk, som item-pickup i Last of Us 2 og signalfunksjon i Fortnite.
+
+- **Fargeblindhet og fargetilpasning**  
+Noen brukte fargeblindinnstillinger og fargekoding av tekst for å lettere skille mellom elementer, for eksempel ajuste de daltonismo og fargekode tekst.
+
+- **Grensesnitt, tekst og lesbarhet**  
+Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten, for eksempel skru opp skriftstørrelse og aktivere Zoom.
 
 - **Uklart/ikke angitt**  
 Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
@@ -814,26 +812,26 @@ motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
 - **Visuell komfort og skjerminnstillinger**
 Brukere oppgir at de tilpasser lys og kontrast for å redusere øyebelastning og gjøre spillet mer behagelig, som å fjerne gjennomsiktighet, dempe lys, justere lysstyrke og aktivere høy kontrast-modus. Flere nevner også at det «ser penere ut» og gir en mer naturlig spillopplevelse.
 
-- **Fargeblindhet og fargetilpasning**
-Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, og enkelte nevner at det hjelper med å skille elementer i komplekse spill.
-
 - **Tekst og undertekster**
 Undertekster brukes for å forstå dialoger, særlig når språket er fremmed eller lydkvaliteten dårlig. Flere nevner at det er raskere å lese tekst enn å vente på tale, og at teksting hjelper ved dysleksi eller auditiv prosesseringsvansker. Eksempler inkluderer «Teksting», «quicker to read undertekster» og «undertekster for original dialog».
-
-- **Grensesnitt, tekst og lesbarhet**
-Justering av tekststørrelse og UI ble brukt for å kompensere for liten tekst og gjøre grensesnittet mer lesbart, som å skru opp skriftstørrelsen eller aktivere større font.
 
 - **Lyd og vibrasjon**
 Brukere tilpasser lyd for å unngå overstimulering eller kompensere for hørselstap, som å justere lydmiks, slå av forstyrrende lyder og tilpasse volum for bedre balanse.
 
-- **Kontroller og input**
-Tilpasning av kontroller brukes for komfort og ergonomi, som button remap, vekslefunksjon (toggle) sprint og funksjoner som «hold» i stedet for rask trykking. Flere nevner at dette reduserer smerte i ledd eller gjør spillet enklere å håndtere.
-
 - **Tid, tempo og spillflyt**
 Muligheten til å senke tempoet eller bruke pausefunksjoner gjør spillet mer håndterbart, for eksempel ved å aktivere slow motion eller redusere hastighet i krevende sekvenser.
 
+- **Kontroller og input**
+Tilpasning av kontroller brukes for komfort og ergonomi, som button remap, vekslefunksjon (toggle) sprint og funksjoner som «hold» i stedet for rask trykking. Flere nevner at dette reduserer smerte i ledd eller gjør spillet enklere å håndtere.
+
 - **Indikatorer og navigasjon**
 Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde oversikt, og flere nevner at slike funksjoner gjør spillet morsommere og enklere, som «hjelp for å lokalisere fiender» og «signalfunksjoner for retning».
+
+- **Fargeblindhet og fargetilpasning**
+Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, og enkelte nevner at det hjelper med å skille elementer i komplekse spill.
+
+- **Grensesnitt, tekst og lesbarhet**
+Justering av tekststørrelse og UI ble brukt for å kompensere for liten tekst og gjøre grensesnittet mer lesbart, som å skru opp skriftstørrelsen eller aktivere større font.
 
 # 25. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
 
@@ -887,26 +885,26 @@ personlig-opplevd-curb-cut-tekst_without-impair
 - **Visuell komfort og skjerminnstillinger**  
 Flere brukere justerte lysstyrke og fargepaletter for å gjøre elementer mer synlige og spillopplevelsen mer behagelig, for eksempel ved å aktivere lysstyrke-justering eller bruke alfa-effekter for skarpere animasjoner.
 
-- **Fargeblindhet og fargetilpasning**  
-Noen brukte fargekoding av tekst og fargeblindmodus for å lettere skille mellom elementer, selv om de ikke er fargeblinde, fordi det gir bedre kontrast i puslespill og komplekse scener.
-
 - **Tekst og undertekster**  
 Undertekster ble hyppig brukt for å forstå dialoger og handling, særlig når lydkvaliteten var dårlig eller når det var raskere å lese enn å lytte, som «quicker to read undertekster» og «mulighet til å ha teksting på dialoger».
-
-- **Grensesnitt, tekst og lesbarhet**  
-Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig, for eksempel ved å endre fontstørrelse og fjerne gjennomsiktige bakgrunner.
 
 - **Lyd og vibrasjon**  
 Brukere nevnte utfordringer med lav lyd eller utydelig tale, og verdsatte funksjoner som kompenserer for dette, som tekstalternativer og lydindikatorer.
 
-- **Kontroller og input**  
-Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere kontroller etter egne preferanser, som button remap og vekslefunksjon (toggle) sprint.
-
 - **Tid, tempo og spillflyt**  
 Muligheten til å pause eller sakke ned tempoet i spillet ble nevnt som nyttig i krevende situasjoner, for eksempel ved å aktivere slow motion i vanskelige sekvenser.
 
+- **Kontroller og input**  
+Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere kontroller etter egne preferanser, som button remap og vekslefunksjon (toggle) sprint.
+
 - **Indikatorer og navigasjon**  
 Automatisk gjenstandsoppsamling og visuelle/audiovisuelle indikatorer for retning og hendelser ble tatt i bruk for å lette spillingen, som tegn på skjermen for fiender og lydsirkel som viser hvor skudd kommer fra.
+
+- **Fargeblindhet og fargetilpasning**  
+Noen brukte fargekoding av tekst og fargeblindmodus for å lettere skille mellom elementer, selv om de ikke er fargeblinde, fordi det gir bedre kontrast i puslespill og komplekse scener.
+
+- **Grensesnitt, tekst og lesbarhet**  
+Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig, for eksempel ved å endre fontstørrelse og fjerne gjennomsiktige bakgrunner.
 
 - **Vanskelighetsgrad og tilpasning**  
 Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips eller redusere behovet for komplekse kombinassjoner.
