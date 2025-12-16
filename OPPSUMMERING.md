@@ -664,93 +664,86 @@ Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilep
 
 19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
 
+
 ## Kategorisering
 
 - Visuell komfort og skjerminnstillinger
-    - brightness/color adjustments (delt opp ID-06)
-    - Color adjustment (delt opp ID-08)
+    - brightness/color adjustments (delt opp Seksjon19-06)
+    - Color adjustment (delt opp Seksjon19-08)
     - Kontrast
-    - high contrast (delt opp ID-04)
-    - contrast (delt opp ID-07)
-    - fargejustering i League of Legends (delt opp ID-25)
-    - dempe lys om det går an (delt opp ID-15)
-    - litt mørkere lys (delt opp ID-23)
-    - alpha (delt opp ID-08)
+    - high contrast (delt opp Seksjon19-04)
+    - contrast (delt opp Seksjon19-07)
+    - fargejustering i League of Legends (delt opp Seksjon19-25)
+    - dempe lys om det går an (delt opp Seksjon19-15)
+    - litt mørkere lys (delt opp Seksjon19-23)
+    - alpha (delt opp Seksjon19-08)
 
 - Fargeblindhet og fargetilpasning
-    - ajuste de daltonismo (delt opp ID-03)
-    - farge code tekst (delt opp ID-11)
+    - ajuste de daltonismo (delt opp Seksjon19-03)
+    - farge code tekst (delt opp Seksjon19-11)
 
 - Tekst og undertekster
-    - Subtítulos (delt opp ID-03)
-    - subtitles (delt opp ID-04)
+    - Subtítulos (delt opp Seksjon19-03)
+    - subtitles (delt opp Seksjon19-04)
     - Subtitles
-    - Subtitles
-    - subtitles (delt opp ID-18)
-    - Tekst (delt opp ID-11)
-    - Teksting
-    - Teksting (for vokale dialoger i spill, hvis dette telles) (delt opp ID-22)
-    - Tekst (delt opp ID-23)
-    - subtitles color (delt opp ID-07)
+    - Teksting (for vokale dialoger i spill, hvis dette telles) (delt opp Seksjon19-22)
+    - subtitles color (delt opp Seksjon19-07)
 
-- Skalerbarhet og lesbarhet (tekst og UI)
-    - subtitles size (delt opp ID-07)
-    - skru litt opp skriftstørrelse (delt opp ID-15)
-    - Justering av UI for å gjøre det mer lesbart (delt opp ID-19)
-    - Zoom (delt opp ID-18)
+- Grensesnitt, tekst og lesbarhet
+    - subtitles size (delt opp Seksjon19-07)
+    - skru litt opp skriftstørrelse (delt opp Seksjon19-15)
+    - Justering av UI for å gjøre det mer lesbart (delt opp Seksjon19-19)
+    - Zoom (delt opp Seksjon19-18)
 
-- Lyd og tale
-    - volumen de la música (delt opp ID-01)
+- Lyd og vibrasjon
+    - volumen de la música (delt opp Seksjon19-01)
     - Stemme skriving
 
-- Kontroller og knappetilpasning
-    - Reducir la sensibilidad del control (delt opp ID-01)
-    - controles (delt opp ID-01)
+- Kontroller og input
+    - Reducir la sensibilidad del control (delt opp Seksjon19-01)
     - Personalización de controles
-    - control (delt opp ID-04)
-    - Control customisation (delt opp ID-06)
-    - knappejusteringer (delt opp ID-17)
+    - Control customisation (delt opp Seksjon19-06)
+    - knappejusteringer (delt opp Seksjon19-17)
 
-- Tempo og tidsstyring
-    - evnen til å pause eller sakke tiden (delt opp ID-11)
+- Tid, tempo og spillflyt
+    - evnen til å pause eller sakke tiden (delt opp Seksjon19-11)
 
-- Assistansefunksjoner
-    - Automatisk "item-pickup" i Last of Us 2 (delt opp ID-25)
+- Indikatorer og navigasjon
+    - Automatisk "item-pickup" i Last of Us 2 (delt opp Seksjon19-25)
     - Bruker for hørsel så jeg får opp tegn på skjermen hvor skyting og gåing skjer
-    - signalfunksjon (Fortine) (delt opp ID-15)
-    - elementer som viser at noen er nær osv som i Fortnite (delt opp ID-22)
+    - signalfunksjon (Fortnite) (delt opp Seksjon19-15)
+    - elementer som viser at noen er nær osv som i Fortnite (delt opp    - elementer som viser at noen er nær osv som i Fortnite (delt opp Seksjon19-22)
 
-- Generell bruk
+- Uklart/ikke angitt
     - Alle
-    - Alt nødvendig
 
 ## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
 
 - **Visuell komfort og skjerminnstillinger**  
-Flere brukere justerte lysstyrke, kontrast og lignende skjerminnstillinger (inkludert «high contrast» og dempet lys) for en mer behagelig spillopplevelse.
+Flere brukere justerte lysstyrke, kontrast og farger for en mer behagelig spillopplevelse, som å aktivere high contrast, dempe lys eller bruke alpha-effekter.
 
 - **Fargeblindhet og fargetilpasning**  
-Noen brukte fargeblindinnstillinger og fargekoding av tekst for å lettere skille mellom elementer.
+Noen brukte fargeblindinnstillinger og fargekoding av tekst for å lettere skille mellom elementer, for eksempel ajuste de daltonismo og fargekode tekst.
 
 - **Tekst og undertekster**  
-Undertekster/teksting ble hyppig brukt, særlig når lyd ikke var tilgjengelig eller ønsket.
+Undertekster ble hyppig brukt for å forstå dialoger, særlig når lyd ikke var tilgjengelig eller ønsket, som Subtítulos og subtitles med fargejustering.
 
-- **Skalerbarhet og lesbarhet (tekst og UI)**  
-Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten.
+- **Grensesnitt, tekst og lesbarhet**  
+Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten, for eksempel skru opp skriftstørrelse og aktivere Zoom.
 
-- **Lyd og tale**  
+- **Lyd og vibrasjon**  
 Brukere rapporterte å justere musikkvolum og benytte stemmeskriving der dette var støttet.
 
-- **Kontroller og knappetilpasning**  
-Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe/konfigurere knapper.
+- **Kontroller og input**  
+Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper, som Reducir la sensibilidad del control og Control customisation.
 
-- **Tempo og tidsstyring**  
-Noen anvendte muligheten til å pause eller senke tempoet i spillet.
+- **Tid, tempo og spillflyt**  
+Noen anvendte muligheten til å pause eller senke tempoet i spillet for bedre kontroll.
 
-- **Assistansefunksjoner**  
-Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for hendelser eller retning ble tatt i bruk for å lette spillingen.
+- **Indikatorer og navigasjon**  
+Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for hendelser eller retning ble tatt i bruk, som item-pickup i Last of Us 2 og signalfunksjon i Fortnite.
 
-- **Generell bruk**  
+- **Uklart/ikke angitt**  
 Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
 
 # motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
