@@ -3,16 +3,22 @@
 ## Oversikt
 
 * [Instrukser for gruppering og strukturering av svar](#instrukser-for-gruppering-og-strukturering-av-svar)
-* [Kategorisering](#kategorisering)
+* [Kategorisering (0)](#kategorisering-0)
 * [Sammendrag av tilgjengelighetsfunksjoner brukt av spillere](#sammendrag-av-tilgjengelighetsfunksjoner-brukt-av-spillere)
 * [Kategorisering (1)](#kategorisering-1)
 * [Sammendrag av tilgjengelighetsfunksjoner spillere savner](#sammendrag-av-tilgjengelighetsfunksjoner-spillere-savner)
 * [Kategorisering (2)](#kategorisering-2)
 * [Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)](#sammendrag-av-tilgjengelighetsfunksjoner-som-hjalp-spillere-med-funksjonsnedsettelser-uten-å-være-laget-for-deres-behov)
 * [Kategorisering (3)](#kategorisering-3)
-* [Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere](#sammendrag-av-funksjoner-laget-for-én-gruppe-men-brukt-av-andre-spillere)
+* [Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)](#sammendrag-av-funksjoner-laget-for-én-gruppe-men-brukt-av-andre-spillere-svar-fra-brukere-med-funksjonsnedsettelse)
+* [Kategorisering (4)](#kategorisering-4)
 * [Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til](#sammendrag-av-tilgjengelighetsfunksjoner-som-spillere-har-lagt-merke-til)
+* [Kategorisering (5)](#kategorisering-5)
 * [Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse](#sammendrag-av-tilgjengelighetsfunksjoner-brukt-av-spillere-uten-funksjonsnedsettelse)
+* [Kategorisering (6)](#kategorisering-6)
+* [Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse](#sammendrag-av-motivasjon-for-tilgjengelighetsfunksjoner-brukt-av-spillere-uten-funksjonsnedsettelse)
+* [Kategorisering (7)](#kategorisering-7)
+* [Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere uten funksjonsnedsettelse)](#sammendrag-av-funksjoner-laget-for-én-gruppe-men-brukt-av-andre-spillere-svar-fra-brukere-uten-funksjonsnedsettelse)
 
 [This overview has been generated automatically.]
 
@@ -557,7 +563,7 @@ Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting 
 
 - **Eksterne hjelpemidler og omgivelser**  
 Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
-  
+
 # 19. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
 
 kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
@@ -659,7 +665,7 @@ Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade b
 
 - **Visuell komfort og epilepsitiltak**  
 Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.
- 
+
 # 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
 
 bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
