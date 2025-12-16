@@ -836,13 +836,12 @@ Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde o
 
 ## Kategorisering
 
-
 - Visuell komfort og skjerminnstillinger
     - Adjusting brightness or colour palettes to make things easier to see, more enjoyable experience
     - Alpha - some enemies were more visible, the animation was "sharper"
 
 - Fargeblindhet og fargetilpasning
-    - farge code tekst (delt opp ID-10)
+    - farge code tekst (delt opp Seksjon22-10)
 
 - Tekst og undertekster
     - Subtitles
@@ -851,61 +850,58 @@ Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde o
     - Mulighet til å ha teksting på dialoger da dette bidrar til å få med alle detaljene som dårlig lyd kunne ødelagt
     - quicker to read subtitles than to wait for a character to finish speaking
     - Better comprehension of dialogs
-    - Tekst (delt opp ID-10)
+    - Tekst (delt opp Seksjon22-10)
 
-- Skalerbarhet og lesbarhet (tekst og UI)
+- Grensesnitt, tekst og lesbarhet
     - change font size and color
-    - Skru opp og ned størrelse på tekst (delt opp ID-13)
-    - When text is too small or when the soundtrack is too muffled (delt opp ID-15)
+    - Skru opp og ned størrelse på tekst (delt opp Seksjon22-13)
+    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon22-15)
     - Samme som nevnt over. Få bort gjennomsiktighet
 
-- Lyd og tale
-    - When text is too small or when the soundtrack is too muffled (delt opp ID-15)
+- Lyd og vibrasjon
+    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon22-15)
 
-- Kontroller og knappetilpasning
+- Kontroller og input
     - Poder cambiar los controles
-    - Bytte knapper så abyx og trekant sirkel osv er på riktig plass i forhold til hva jeg er vant med (delt opp ID-13)
+    - Bytte knapper så abyx og trekant sirkel osv er på riktig plass i forhold til hva jeg er vant med (delt opp Seksjon22-13)
 
-- Tempo og tidsstyring
-    - evnen til å pause eller sakke tiden (delt opp ID-10)
+- Tid, tempo og spillflyt
+    - evnen til å pause eller sakke tiden (delt opp Seksjon22-10)
 
-- Assistansefunksjoner
+- Indikatorer og navigasjon
     - Automatisk "item-pickup" var veldig hjelpsomt slik at man slipper å trykke A fire hundre ganger i minuttet mens man spiller
     - Tegn på skjermen hvis folk går eller løper. Og skytetrening fra hvilken retning
     - Et slags sirkel som viser hvor i retning det skyter eller hvor nær fiender er nær deg osv som på Fortnite
     - Audio visuell for eksempel sirkel som viser symboler lyden kommer fra
 
-- Vanskelighetsgrad og tilpasning
+- Vanskelighetsgrad og spillbalanse
     - Fordi det er et verktøy som gjør spillet morsommerer når det er vanskelig spill, ellers bruker jeg de ikke. Det skal være utofrdrenede, men å få tips til hvor man skal gå eller slippe gjøre kombinasjoner som er ekstremt vanskelig om man ikke spiller mer enn 1-2 timer om dagen gjør det til et nyttig hjelpemiddel
-
 
 ## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere uten funksjonsnedsettelse)
 
 - **Visuell komfort og skjerminnstillinger**  
-Flere brukere justerte lysstyrke og fargepaletter, og enkelte nevnte effekter som «alpha» for å gjøre elementer mer synlige og spillopplevelsen mer behagelig.
+Flere brukere justerte lysstyrke og fargepaletter for å gjøre elementer mer synlige og spillopplevelsen mer behagelig, for eksempel ved å aktivere brightness-justering eller bruke alpha-effekter for skarpere animasjoner.
 
 - **Fargeblindhet og fargetilpasning**  
-Noen brukte fargekoding av tekst for å lettere skille mellom elementer.
+Noen brukte fargekoding av tekst og fargeblindmodus for å lettere skille mellom elementer, selv om de ikke er fargeblinde, fordi det gir bedre kontrast i puslespill og komplekse scener.
 
 - **Tekst og undertekster**  
-Undertekster ble hyppig brukt for å forstå dialoger og handling, særlig når lydkvaliteten var dårlig eller når det var raskere å lese enn å lytte.
+Undertekster ble hyppig brukt for å forstå dialoger og handling, særlig når lydkvaliteten var dårlig eller når det var raskere å lese enn å lytte, som «quicker to read subtitles» og «mulighet til å ha teksting på dialoger».
 
-- **Skalerbarhet og lesbarhet (tekst og UI)**  
-Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig.
+- **Grensesnitt, tekst og lesbarhet**  
+Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig, for eksempel ved å endre fontstørrelse og fjerne gjennomsiktige bakgrunner.
 
-- **Lyd og tale**  
-Brukere nevnte utfordringer med lav lyd eller utydelig tale, og verdsatte funksjoner som kompenserer for dette, for eksempel tekstalternativer.
+- **Lyd og vibrasjon**  
+Brukere nevnte utfordringer med lav lyd eller utydelig tale, og verdsatte funksjoner som kompenserer for dette, som tekstalternativer og lydindikatorer.
 
-- **Kontroller og knappetilpasning**  
-Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere kontroller etter egne preferanser.
+- **Kontroller og input**  
+Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere kontroller etter egne preferanser, som button remap og toggle sprint.
 
-- **Tempo og tidsstyring**  
-Muligheten til å pause eller sakke ned tempoet i spillet ble nevnt som nyttig i krevende situasjoner.
+- **Tid, tempo og spillflyt**  
+Muligheten til å pause eller sakke ned tempoet i spillet ble nevnt som nyttig i krevende situasjoner, for eksempel ved å aktivere slow motion i vanskelige sekvenser.
 
-- **Assistansefunksjoner**  
-Automatisk gjenstandsoppsamling og visuelle/audiovisuelle indikatorer for retning og hendelser ble tatt i bruk for å lette spillingen.
+- **Indikatorer og navigasjon**  
+Automatisk gjenstandsoppsamling og visuelle/audiovisuelle indikatorer for retning og hendelser ble tatt i bruk for å lette spillingen, som tegn på skjermen for fiender og lydsirkel som viser hvor skudd kommer fra.
 
 - **Vanskelighetsgrad og tilpasning**  
-Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips eller redusere behovet for komplekse kombinasjoner.
-
-
+Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips eller redusere behovet for komplekse kombinassjoner.
