@@ -1,5 +1,7 @@
 # Results from the survey
 
+## Oversikt
+
 # A. Generell informasjon
 
 ## 3. Hvor bor du? (%)
@@ -356,13 +358,13 @@ Nei                                                     33
 
 ## 18. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
 
-![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?](results/no/18-kjennskap-til-tilgjengelighetsfunksjoner.png)
+![Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?](results/no/18-kjennskap-til-tilgjengelighetsfunksjoner_without-impair.png)
 
 ```
-                                          kjennskap-til-tilgjengelighetsfunksjoner
-kjennskap-til-tilgjengelighetsfunksjoner                                          
-Ja                                                                              29
-Nei                                                                             23
+                                                    kjennskap-til-tilgjengelighetsfunksjoner_without-impair
+kjennskap-til-tilgjengelighetsfunksjoner_withou...                                                         
+Ja                                                                                                 29      
+Nei                                                                                                23      
 ```
 
 ## 19. Hvilke funksjoner har du lagt merke til?

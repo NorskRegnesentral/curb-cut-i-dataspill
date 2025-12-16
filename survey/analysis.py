@@ -100,7 +100,7 @@ def process_data():
    4. Conducting the analysis
    """
    res_file = "" # Will be initiated later
-   res_str = "# Results from the survey" # All results will be stored in a text file, next to th graphs.
+   res_str = "# Results from the survey\n\n## Oversikt" # All results will be stored in a text file, next to th graphs.
    
    res_dict = {} # Make one individual result file for each set
    
