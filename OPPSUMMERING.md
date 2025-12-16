@@ -69,129 +69,129 @@ bruk-av-tilgjengelighetsfunksjoner_with-impair
 **Antall svar: 53**
 
 - Visuell komfort og skjerminnstillinger
-    - Skru av blinkende lys (delt opp Seksjon9-02)
-    - skru av jump-scares (delt opp Seksjon9-02)
-    - redusere bevegelse på skjermen (delt opp Seksjon9-02)
+    - Skru av blinkende lys (delt opp Seksjon11-02)
+    - skru av jump-scares (delt opp Seksjon11-02)
+    - redusere bevegelse på skjermen (delt opp Seksjon11-02)
     - Skrur av blinking og reduserer bevegelse på skjermen
     - Endrer ofte på grafikk for å unngå kvalme/svimmelhet
-    - Lysgrad (delt opp Seksjon9-05)
-    - Nedsatt lysstyrke (delt opp Seksjon9-16)
-    - Sku ned lysstyrken (delt opp Seksjon9-17)
-    - Lav lysstyrke (delt opp Seksjon9-18)
-    - Invertering av fargene for å få det mørkere (delt opp Seksjon9-18)
-    - Økt kontrast (delt opp Seksjon9-18)
-    - motion blur (delt opp Seksjon9-09)
-    - motion blur (delt opp Seksjon9-20)
-    - Anti screensickness (delt opp Seksjon9-03)
-    - kanskje noe farge/lysjustering (delt opp Seksjon9-12)
+    - Lysgrad (delt opp Seksjon11-05)
+    - Nedsatt lysstyrke (delt opp Seksjon11-16)
+    - Sku ned lysstyrken (delt opp Seksjon11-17)
+    - Lav lysstyrke (delt opp Seksjon11-18)
+    - Invertering av fargene for å få det mørkere (delt opp Seksjon11-18)
+    - Økt kontrast (delt opp Seksjon11-18)
+    - motion blur (delt opp Seksjon11-09)
+    - motion blur (delt opp Seksjon11-20)
+    - Anti screensickness (delt opp Seksjon11-03)
+    - kanskje noe farge/lysjustering (delt opp Seksjon11-12)
     - epilepsitiltak (fra svar om blinkende lys og flicker-free)
 
 - Kamera, synsfelt og bevegelse
-    - tilpasset fov (delt opp Seksjon9-04)
-    - Field of View (delt opp Seksjon9-14)
-    - Kamerafølging av (delt opp Seksjon9-14)
-    - Kameraristing av (delt opp Seksjon9-14)
-    - Justerer FOV (delt opp Seksjon9-20)
+    - tilpasset fov (delt opp Seksjon11-04)
+    - Field of View (delt opp Seksjon11-14)
+    - Kamerafølging av (delt opp Seksjon11-14)
+    - Kameraristing av (delt opp Seksjon11-14)
+    - Justerer FOV (delt opp Seksjon11-20)
     - Reduce Screen Shaking
-    - kamera sensitivitet (delt opp Seksjon9-09)
+    - kamera sensitivitet (delt opp Seksjon11-09)
 
 - Tekst og undertekster
-    - Teksting (delt opp Seksjon9-04)
-    - Teksting (delt opp Seksjon9-05)
+    - Teksting (delt opp Seksjon11-04)
+    - Teksting (delt opp Seksjon11-05)
     - Teksting
-    - Teksting (delt opp Seksjon9-12)
-    - Teksting (delt opp Seksjon9-14)
-    - subtitles med stor tekst (delt opp Seksjon9-03)
+    - Teksting (delt opp Seksjon11-12)
+    - Teksting (delt opp Seksjon11-14)
+    - subtitles med stor tekst (delt opp Seksjon11-03)
 
 - Skjermleser, opplesning og audiobeskrivelse
     - Tekst til tale
     - Lectores de pantalla
     - I use a screenreader on my PC.
-    - I either use my screen reader or the built in TTS if the game is self-voicing. (delt opp Seksjon9-07)
-    - I use a screen reader (delt opp Seksjon9-08)
+    - I either use my screen reader or the built in TTS if the game is self-voicing. (delt opp Seksjon11-07)
+    - I use a screen reader (delt opp Seksjon11-08)
 
 - Lyd og vibrasjon
-    - skru av vibrering i håndkontroller (delt opp Seksjon9-02)
-    - skru av høye eller forstyrrende lyder (delt opp Seksjon9-02)
-    - Justere lyduttrykket i spill (gjøre bakgrunns og forgrunnslyder høyere/lavere). (delt opp Seksjon9-15)
-    - Demping av lyd. (delt opp Seksjon9-16)
-    - bakgrunnsmusikk (delt opp Seksjon9-17)
-    - Lyden av. (delt opp Seksjon9-18)
-    - Ønsker å kunne justere alle ulike deler av lyd (delt opp Seksjon9-19)
-    - Mute raskt repeterende lyder som klikke-lyder for dialog. (delt opp Seksjon9-14)
+    - skru av vibrering i håndkontroller (delt opp Seksjon11-02)
+    - skru av høye eller forstyrrende lyder (delt opp Seksjon11-02)
+    - Justere lyduttrykket i spill (gjøre bakgrunns og forgrunnslyder høyere/lavere). (delt opp Seksjon11-15)
+    - Demping av lyd. (delt opp Seksjon11-16)
+    - bakgrunnsmusikk (delt opp Seksjon11-17)
+    - Lyden av. (delt opp Seksjon11-18)
+    - Ønsker å kunne justere alle ulike deler av lyd (delt opp Seksjon11-19)
+    - Mute raskt repeterende lyder som klikke-lyder for dialog. (delt opp Seksjon11-14)
 
 - Vanskelighetsgrad og spillbalanse
-    - tilpasset vanskelighetsgrads (delt opp Seksjon9-04)
-    - Vanskelighetsgrad (delt opp Seksjon9-05)
+    - tilpasset vanskelighetsgrads (delt opp Seksjon11-04)
+    - Vanskelighetsgrad (delt opp Seksjon11-05)
     - At det er satt på easy
-    - Vanskelighetsgrad i mangel på annen tilrettelegging. (delt opp Seksjon9-14)
+    - Vanskelighetsgrad i mangel på annen tilrettelegging. (delt opp Seksjon11-14)
 
 - Tid, tempo og spillflyt
-    - Lengre tid (delt opp Seksjon9-01)
-    - pause spillet når man leser/åpner inventaret (delt opp Seksjon9-02)
-    - Utvidet tid på tidsbegrensninger. (delt opp Seksjon9-14)
+    - Lengre tid (delt opp Seksjon11-01)
+    - pause spillet når man leser/åpner inventaret (delt opp Seksjon11-02)
+    - Utvidet tid på tidsbegrensninger. (delt opp Seksjon11-14)
     - Begrensninger av tid
-    - Dialoghistorie/logg. (delt opp Seksjon9-14)
-    - ønsker innstillinger som kan la meg spille i "peaceful mode" så det ikke blir stressende (delt opp Seksjon9-19)
+    - Dialoghistorie/logg. (delt opp Seksjon11-14)
+    - ønsker innstillinger som kan la meg spille i "peaceful mode" så det ikke blir stressende (delt opp Seksjon11-19)
 
 - Kontroller og input
     - Kontroller
     - Kontroller med spesielle funksjoner, f.eks turbo
-    - Button remap. (delt opp Seksjon9-14)
-    - Toggle sprint. (delt opp Seksjon9-14)
-    - “Hold” alternativ til rask trykking. (delt opp Seksjon9-14)
-    - Kontrollersupport. (delt opp Seksjon9-14)
-    - autohold isteden for rask trykking (delt opp Seksjon9-03)
+    - Button remap. (delt opp Seksjon11-14)
+    - Toggle sprint. (delt opp Seksjon11-14)
+    - “Hold” alternativ til rask trykking. (delt opp Seksjon11-14)
+    - Kontrollersupport. (delt opp Seksjon11-14)
+    - autohold isteden for rask trykking (delt opp Seksjon11-03)
     - Ikke noe særlig, men evt macro i min tastaturs driver slik jeg kan få skrevet strategisetninger mye raskere til e-sportslaget mitt.
 
 - Indikatorer og navigasjon
-    - visual indicators if available (delt opp Seksjon9-11)
-    - sound indicators (delt opp Seksjon9-11)
-    - In games with lots of sounds I'll use audio cues to navigate. (delt opp Seksjon9-07)
-    - In games where that's not an option and if it's availible I'll use pathfinding, which if you're not familiar is where the game will either walk you to locations given in a list or sometimes just tell you which way to go to get somewhere. (delt opp Seksjon9-07)
-    - audio assistive cues (delt opp Seksjon9-08)
-    - Navigation assist (delt opp Seksjon9-08)
-    - auto aim/lock on (delt opp Seksjon9-08)
-    - For NHL 99–2002, I use puck shadow. (delt opp Seksjon9-10)
-    - For shooters, I use a larger sight symbol. (delt opp Seksjon9-10)
-    - Dodge/parry indikator. (delt opp Seksjon9-14)
-    - autofokus target (delt opp Seksjon9-03)
+    - visual indicators if available (delt opp Seksjon11-11)
+    - sound indicators (delt opp Seksjon11-11)
+    - In games with lots of sounds I'll use audio cues to navigate. (delt opp Seksjon11-07)
+    - In games where that's not an option and if it's availible I'll use pathfinding, which if you're not familiar is where the game will either walk you to locations given in a list or sometimes just tell you which way to go to get somewhere. (delt opp Seksjon11-07)
+    - audio assistive cues (delt opp Seksjon11-08)
+    - Navigation assist (delt opp Seksjon11-08)
+    - auto aim/lock on (delt opp Seksjon11-08)
+    - For NHL 99–2002, I use puck shadow. (delt opp Seksjon11-10)
+    - For shooters, I use a larger sight symbol. (delt opp Seksjon11-10)
+    - Dodge/parry indikator. (delt opp Seksjon11-14)
+    - autofokus target (delt opp Seksjon11-03)
     - Visuelle lydindikatorer
-    - Aim assist (slow-mo, gyro aim, eller auto aim.) (delt opp Seksjon9-14)
+    - Aim assist (slow-mo, gyro aim, eller auto aim.) (delt opp Seksjon11-14)
 
 - Fargeblindhet og fargetilpasning
-    - Fargeblindmodus. (delt opp Seksjon9-05)
+    - Fargeblindmodus. (delt opp Seksjon11-05)
     - fargeblindmodus
     - Fargeblindhet-filter
 
 - Grensesnitt, tekst og lesbarhet
     - Större text stort sett en eneste som er tilgjengelig
-    - fontstørrelse (delt opp Seksjon9-05)
-    - Skriftstørrelse (delt opp Seksjon9-09)
+    - fontstørrelse (delt opp Seksjon11-05)
+    - Skriftstørrelse (delt opp Seksjon11-09)
     - større skrift der mulig
-    - Zoom (delt opp Seksjon9-15)
-    - If I play FIFA 99, 2000 or 2002, I select 640x480 resolution for in-game and let nGlide to scale it to Full HD, leaving GUI and player indicators in lower resolution. (delt opp Seksjon9-10)
-    - I use larger mouse cursor (delt opp Seksjon9-10)
-    - dark menu themes (delt opp Seksjon9-10)
+    - Zoom (delt opp Seksjon11-15)
+    - If I play FIFA 99, 2000 or 2002, I select 640x480 resolution for in-game and let nGlide to scale it to Full HD, leaving GUI and player indicators in lower resolution. (delt opp Seksjon11-10)
+    - I use larger mouse cursor (delt opp Seksjon11-10)
+    - dark menu themes (delt opp Seksjon11-10)
     - große GUI,
 
 - Automatisering og QoL
-    - mods som gjør spillet enklere/automatisert (delt opp Seksjon9-01)
-    - Auto-pickup loot. (delt opp Seksjon9-14)
-    - Auto heal. (delt opp Seksjon9-14)
+    - mods som gjør spillet enklere/automatisert (delt opp Seksjon11-01)
+    - Auto-pickup loot. (delt opp Seksjon11-14)
+    - Auto heal. (delt opp Seksjon11-14)
 
 - Eksterne hjelpemidler og omgivelser
     - none, I use external softwares
-    - For very dark games, I use a program called SetGamma and have auto-scripted it before and after the game executes. (delt opp Seksjon9-10)
+    - For very dark games, I use a program called SetGamma and have auto-scripted it before and after the game executes. (delt opp Seksjon11-10)
     - Night light embedded in Windows
     - mods
-    - evt mod som endrer first person til third person (delt opp Seksjon9-20)
-    - let nGlide to scale it to Full HD (delt opp Seksjon9-10)
-    - bruker headset som passer over høreapparat. (delt opp Seksjon9-06)
-    - Card box for my legs (haha) (delt opp Seksjon9-13)
-    - Hue lights from philips (delt opp Seksjon9-13)
-    - Fysiske: Laptop istedenfor stasjonær. (delt opp Seksjon9-15)
-    - Justerer så jeg heller bruker steam på tv eller spiller konsoll (avstand hjelper) (delt opp Seksjon9-20)
+    - evt mod som endrer first person til third person (delt opp Seksjon11-20)
+    - let nGlide to scale it to Full HD (delt opp Seksjon11-10)
+    - bruker headset som passer over høreapparat. (delt opp Seksjon11-06)
+    - Card box for my legs (haha) (delt opp Seksjon11-13)
+    - Hue lights from philips (delt opp Seksjon11-13)
+    - Fysiske: Laptop istedenfor stasjonær. (delt opp Seksjon11-15)
+    - Justerer så jeg heller bruker steam på tv eller spiller konsoll (avstand hjelper) (delt opp Seksjon11-20)
 
 - Uklart/ikke angitt
     - Prøver å ikke bruke men bruker nok noe vet ikke hva
@@ -206,7 +206,7 @@ bruk-av-tilgjengelighetsfunksjoner_with-impair
     - ci
     - Ingen, klarer ikke å finne de
     - Forstår ikke
-    - Ingen (delt opp Seksjon9-06)
+    - Ingen (delt opp Seksjon11-06)
 
 ## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere
 
@@ -265,89 +265,89 @@ savnete-tilgjengelighetsfunksjoner
     - Light adjustment
     - Tilrettelagt for epilepsi fra produsent. Tenker da på blink og andre kjente faktorer med tanke på epilepsi.
     - Økt kontrast.
-    - At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger (delt opp Seksjon10-53)
+    - At det ikke er lettere å unngå first person eller justere det for de med motion sickness uten å spesifikt søke etter optimale innstillinger (delt opp Seksjon12-53)
 
 - Kamera, synsfelt og bevegelse
-    - 3.person view litt på avstand (delt opp Seksjon10-01)
-    - mindre bevegelse på kamera i bevegelse (delt opp Seksjon10-01)
-    - 3d person muligheter (delt opp Seksjon10-07)
-    - unngå first person for de med motion sickness (delt opp Seksjon10-53)
+    - 3.person view litt på avstand (delt opp Seksjon12-01)
+    - mindre bevegelse på kamera i bevegelse (delt opp Seksjon12-01)
+    - 3d person muligheter (delt opp Seksjon12-07)
+    - unngå first person for de med motion sickness (delt opp Seksjon12-53)
 
 - Tekst og undertekster
     - God teksting
     - Teksting
-    - Undertekst når karakterer (NPC) og andre ekte spillere sier noe hvis jeg ikke klarer å lytte/får vondt av lyd (delt opp Seksjon10-39)
-    - Tale til tekst i chat (delt opp Seksjon10-07)
-    - Lyd til tekst, slik vi kan oppfatte de som bruker mikrofon (delt opp Seksjon10-41)
+    - Undertekst når karakterer (NPC) og andre ekte spillere sier noe hvis jeg ikke klarer å lytte/får vondt av lyd (delt opp Seksjon12-39)
+    - Tale til tekst i chat (delt opp Seksjon12-07)
+    - Lyd til tekst, slik vi kan oppfatte de som bruker mikrofon (delt opp Seksjon12-41)
 
 - Skjermleser, opplesning og audiobeskrivelse
-    - Audiobeskrivelse (delt opp Seksjon10-05)
+    - Audiobeskrivelse (delt opp Seksjon12-05)
     - not accessible enough for the screenreader
 
 - Lyd og vibrasjon
-    - Skru av stressende elementer som gir økning av puls (delt opp Seksjon10-04)
-    - noen ganger må «musikk» skrus ned (delt opp Seksjon10-39)
-    - noen ganger må «bakgrunnssambience» skrus ned (delt opp Seksjon10-39)
+    - Skru av stressende elementer som gir økning av puls (delt opp Seksjon12-04)
+    - noen ganger må «musikk» skrus ned (delt opp Seksjon12-39)
+    - noen ganger må «bakgrunnssambience» skrus ned (delt opp Seksjon12-39)
     - FFX – jeg ønsker å kunne slå av musikk eller ulike lyder
     - Bueno… a veces la voz se pierde en los juegos; la voz no se mantiene muy bien.
 
 - Vanskelighetsgrad og spillbalanse
     - Noen spill kan man ikke justere vanskelighetsgrad.
-    - Schwierigkeitsgrad (delt opp Seksjon10-52)
-    - weniger Gegner (delt opp Seksjon10-52)
+    - Schwierigkeitsgrad (delt opp Seksjon12-52)
+    - weniger Gegner (delt opp Seksjon12-52)
 
 - Tid, tempo og spillflyt
-    - Skru av tidsbegrensning (delt opp Seksjon10-04)
-    - Repeat hints uten å restarte mission (delt opp Seksjon10-07)
-    - Utvidet tid på tidsbegrensninger (delt opp Seksjon10-32)
+    - Skru av tidsbegrensning (delt opp Seksjon12-04)
+    - Repeat hints uten å restarte mission (delt opp Seksjon12-07)
+    - Utvidet tid på tidsbegrensninger (delt opp Seksjon12-32)
     - At spillhastigheten kunne blitt stilt inn slik at det ble mere i mitt tempo da jeg har senere reaksjonsevne
-    - Quicktime-Events aus (delt opp Seksjon10-52)
+    - Quicktime-Events aus (delt opp Seksjon12-52)
 
 - Kontroller og input
     - Mulighet til å spille med både mus og kontroller samtidig (joystick + mus)
     - more things that you could do with mouse clicking
     - Bedre støtte for kontroller
-    - “Hold” for rask klikking (delt opp Seksjon10-32)
-    - Click-to-move (delt opp Seksjon10-52)
-    - Mausbeschleunigung aus (delt opp Seksjon10-52)
-    - Meir ergonomiske kontroller (delt opp Seksjon10-44)
+    - “Hold” for rask klikking (delt opp Seksjon12-32)
+    - Click-to-move (delt opp Seksjon12-52)
+    - Mausbeschleunigung aus (delt opp Seksjon12-52)
+    - Meir ergonomiske kontroller (delt opp Seksjon12-44)
 
 - Indikatorer og navigasjon
     - aim assist er en fin ting for meg
     - Autoaiming
-    - Fler autolock (delt opp Seksjon10-07)
-    - Dodge/parry indikator (delt opp Seksjon10-32)
-    - visual indicators if available (delt opp Seksjon10-22)
-    - sound indicators (delt opp Seksjon10-22)
+    - Fler autolock (delt opp Seksjon12-07)
+    - Dodge/parry indikator (delt opp Seksjon12-32)
+    - visual indicators if available (delt opp Seksjon12-22)
+    - sound indicators (delt opp Seksjon12-22)
     - it would be nice to have audio cues so I can navigate myself instead of the computer doing it
-    - Lydssignaler som viser hvor fotspor, kister og slikt kommer fra (delt opp Seksjon10-41)
+    - Lydssignaler som viser hvor fotspor, kister og slikt kommer fra (delt opp Seksjon12-41)
     - visuell lyd
 
 - Grensesnitt, tekst og lesbarhet
-    - Skriftstørrelse (delt opp Seksjon10-18)
-    - Basically… I miss larger font sizes the most (delt opp Seksjon10-19)
-    - White/very bright menu backgrounds should also offer dark option (delt opp Seksjon10-19)
-    - It is easier to navigate if a player can select keyboard, mouse or gamepad control in menus (delt opp Seksjon10-19)
-       - Especially if mouse cursors are very small, mouse-only menus are often hard to navigate (delt opp Seksjon10-19)
+    - Skriftstørrelse (delt opp Seksjon12-18)
+    - Basically… I miss larger font sizes the most (delt opp Seksjon12-19)
+    - White/very bright menu backgrounds should also offer dark option (delt opp Seksjon12-19)
+    - It is easier to navigate if a player can select keyboard, mouse or gamepad control in menus (delt opp Seksjon12-19)
+       - Especially if mouse cursors are very small, mouse-only menus are often hard to navigate (delt opp Seksjon12-19)
     - mulighet for større skrift i spillene, samt endre på hvor store ting er på skjermen
     - Like muligheter til å justere kvaliteten på grafikken når en spiller på konsoll, slik PC-spillere ofte har
-    - grafiske innstillinger som motion blur (delt opp Seksjon10-18)
+    - grafiske innstillinger som motion blur (delt opp Seksjon12-18)
 
 - Kognitiv støtte og oversikt
-    - kart over hvor du har gått (delt opp Seksjon10-04)
-    - automatisk oppdatert logg (à la Outer Wilds) (delt opp Seksjon10-04)
-    - innebygd notatbok (delt opp Seksjon10-04)
-    - Dialoghistorie/logg (delt opp Seksjon10-32)
+    - kart over hvor du har gått (delt opp Seksjon12-04)
+    - automatisk oppdatert logg (à la Outer Wilds) (delt opp Seksjon12-04)
+    - innebygd notatbok (delt opp Seksjon12-04)
+    - Dialoghistorie/logg (delt opp Seksjon12-32)
 
 - Sansefilter og dempede inntrykk
-    - Overstimuleringsfilter (redusert repeterende lyder, alarmer etc.) (delt opp Seksjon10-32)
-    - Mulighet å velge «dempet sanseintrykk» for dårlige dager – lyd, lys og annet dempes/minskes (delt opp Seksjon10-44)
+    - Overstimuleringsfilter (redusert repeterende lyder, alarmer etc.) (delt opp Seksjon12-32)
+    - Mulighet å velge «dempet sanseintrykk» for dårlige dager – lyd, lys og annet dempes/minskes (delt opp Seksjon12-44)
 
 - Oppdaterings- og versjonskontroll
     - Takke nei til oppdateringer ettersom de endrer spillet veldig mye ofte
 
 - Eksterne hjelpemidler og omgivelser
-    - Se punkt 11 og 8. Grafikkinnstillinger og lyd er like viktige for meg. (delt opp Seksjon10-39)
+    - Se punkt 11 og 8. Grafikkinnstillinger og lyd er like viktige for meg. (delt opp Seksjon12-39)
 
 - Uklart/ikke angitt
     - vet ikke
@@ -411,33 +411,33 @@ personlig-opplevd-curb-cut_with-impair
 - Tekst og undertekster
     - Teksting
     - Teksting
-    - Undertekst (delt opp Seksjon11-15)
+    - Undertekst (delt opp Seksjon13-15)
 
 - Kommunikasjon og chat
-    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon11-15)
+    - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon13-15)
 
 - Grensesnitt, tekst og lesbarhet
-    - Muligheter for å forstørre teksten (delt opp Seksjon11-02)
+    - Muligheter for å forstørre teksten (delt opp Seksjon13-02)
     - Größere GUI (Guildwars)
 
 - Visuell komfort og skjerminnstillinger
-    - Epilepsi: flicker-free options or effects filters (delt opp Seksjon11-15)
-    - deaktivere lysblinking (delt opp Seksjon11-13)
+    - Epilepsi: flicker-free options or effects filters (delt opp Seksjon13-15)
+    - deaktivere lysblinking (delt opp Seksjon13-13)
 
 - Kamera, synsfelt og bevegelse
     - Reduce Screen Shaking
 
 - Indikatorer og navigasjon
-    - visual indicators (delt opp Seksjon11-09)
-    - sound indicators (delt opp Seksjon11-09)
-    - retnings-/oppmerksomhetsindikator (hvilken retning lyder eller angrep kommer fra) (delt opp Seksjon11-13)
+    - visual indicators (delt opp Seksjon13-09)
+    - sound indicators (delt opp Seksjon13-09)
+    - retnings-/oppmerksomhetsindikator (hvilken retning lyder eller angrep kommer fra) (delt opp Seksjon13-13)
     - Bruker en funksjon som viser lydene visuelt på skytespill
     - Visuelle lydindikatorer
     - lyd på skjerm
 
 - Fargeblindhet og fargetilpasning
     - Fargeblindmodus hjelper ved puslespill selv om ikke er fargeblind
-    - fargeblind modus fordi ting ser bedre ut selv om jeg ikke er fargeblind (delt opp Seksjon11-16)
+    - fargeblind modus fordi ting ser bedre ut selv om jeg ikke er fargeblind (delt opp Seksjon13-16)
 
 - Kontroller og input
     - Motoriske som å endre button mashing til single tap eller hold
@@ -491,7 +491,7 @@ generell-opplevd-curb-cut-tekst_with-impair
     - Er personlig glad i subtitles feks.
 
 - Vanskelighetsgrad og spillbalanse
-    - tilpasset vanskelighetsgrad (delt opp Seksjon12-02)
+    - tilpasset vanskelighetsgrad (delt opp Seksjon16-02)
 
 - Fargeblindhet og fargetilpasning
     - Fargeblindmodus gir noen ganger fordeler i kompetitivt spill.
@@ -504,24 +504,24 @@ generell-opplevd-curb-cut-tekst_with-impair
     - I know light settings would help lots of players
 
 - Grensesnitt, tekst og lesbarhet
-    - Skriftstørrelse (delt opp Seksjon12-06)
+    - Skriftstørrelse (delt opp Seksjon16-06)
 
 - Kontroller og input
-    - motoriske innstillinger (delt opp Seksjon12-06)
+    - motoriske innstillinger (delt opp Seksjon16-06)
     - Button mapping
-    - toggles (delt opp Seksjon12-13)
-    - button remap (delt opp Seksjon12-13)
+    - toggles (delt opp Seksjon16-13)
+    - button remap (delt opp Seksjon16-13)
 
 - Indikatorer og navigasjon
-    - visual indicators (delt opp Seksjon12-07)
-    - sound indicators (delt opp Seksjon12-07)
+    - visual indicators (delt opp Seksjon16-07)
+    - sound indicators (delt opp Seksjon16-07)
     - lyd på skjerm
     - Visuelle lydindikatorer
     - visuell lyd i fortnite
-    - map options som viser en pil i rollespill (delt opp Seksjon12-15)
+    - map options som viser en pil i rollespill (delt opp Seksjon16-15)
 
 - Automatisering og QoL
-    - aim assist (delt opp Seksjon12-13)
+    - aim assist (delt opp Seksjon16-13)
 
 - Eksterne hjelpemidler og omgivelser
     - Mods
@@ -667,51 +667,51 @@ bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 ## Kategorisering
 
 - Visuell komfort og skjerminnstillinger
-    - brightness/color adjustments (delt opp Seksjon19-06)
-    - Color adjustment (delt opp Seksjon19-08)
+    - brightness/color adjustments (delt opp Seksjon21-06)
+    - Color adjustment (delt opp Seksjon21-08)
     - Kontrast
-    - high contrast (delt opp Seksjon19-04)
-    - contrast (delt opp Seksjon19-07)
-    - fargejustering i League of Legends (delt opp Seksjon19-25)
-    - dempe lys om det går an (delt opp Seksjon19-15)
-    - litt mørkere lys (delt opp Seksjon19-23)
-    - alpha (delt opp Seksjon19-08)
+    - high contrast (delt opp Seksjon21-04)
+    - contrast (delt opp Seksjon21-07)
+    - fargejustering i League of Legends (delt opp Seksjon21-25)
+    - dempe lys om det går an (delt opp Seksjon21-15)
+    - litt mørkere lys (delt opp Seksjon21-23)
+    - alpha (delt opp Seksjon21-08)
 
 - Fargeblindhet og fargetilpasning
-    - ajuste de daltonismo (delt opp Seksjon19-03)
-    - farge code tekst (delt opp Seksjon19-11)
+    - ajuste de daltonismo (delt opp Seksjon21-03)
+    - farge code tekst (delt opp Seksjon21-11)
 
 - Tekst og undertekster
-    - Subtítulos (delt opp Seksjon19-03)
-    - subtitles (delt opp Seksjon19-04)
+    - Subtítulos (delt opp Seksjon21-03)
+    - subtitles (delt opp Seksjon21-04)
     - Subtitles
-    - Teksting (for vokale dialoger i spill, hvis dette telles) (delt opp Seksjon19-22)
-    - subtitles color (delt opp Seksjon19-07)
+    - Teksting (for vokale dialoger i spill, hvis dette telles) (delt opp Seksjon21-22)
+    - subtitles color (delt opp Seksjon21-07)
 
 - Grensesnitt, tekst og lesbarhet
-    - subtitles size (delt opp Seksjon19-07)
-    - skru litt opp skriftstørrelse (delt opp Seksjon19-15)
-    - Justering av UI for å gjøre det mer lesbart (delt opp Seksjon19-19)
-    - Zoom (delt opp Seksjon19-18)
+    - subtitles size (delt opp Seksjon21-07)
+    - skru litt opp skriftstørrelse (delt opp Seksjon21-15)
+    - Justering av UI for å gjøre det mer lesbart (delt opp Seksjon21-19)
+    - Zoom (delt opp Seksjon21-18)
 
 - Lyd og vibrasjon
-    - volumen de la música (delt opp Seksjon19-01)
+    - volumen de la música (delt opp Seksjon21-01)
     - Stemme skriving
 
 - Kontroller og input
-    - Reducir la sensibilidad del control (delt opp Seksjon19-01)
+    - Reducir la sensibilidad del control (delt opp Seksjon21-01)
     - Personalización de controles
-    - Control customisation (delt opp Seksjon19-06)
-    - knappejusteringer (delt opp Seksjon19-17)
+    - Control customisation (delt opp Seksjon21-06)
+    - knappejusteringer (delt opp Seksjon21-17)
 
 - Tid, tempo og spillflyt
-    - evnen til å pause eller sakke tiden (delt opp Seksjon19-11)
+    - evnen til å pause eller sakke tiden (delt opp Seksjon21-11)
 
 - Indikatorer og navigasjon
-    - Automatisk "item-pickup" i Last of Us 2 (delt opp Seksjon19-25)
+    - Automatisk "item-pickup" i Last of Us 2 (delt opp Seksjon21-25)
     - Bruker for hørsel så jeg får opp tegn på skjermen hvor skyting og gåing skjer
-    - signalfunksjon (Fortnite) (delt opp Seksjon19-15)
-    - elementer som viser at noen er nær osv som i Fortnite (delt opp    - elementer som viser at noen er nær osv som i Fortnite (delt opp Seksjon19-22)
+    - signalfunksjon (Fortnite) (delt opp Seksjon21-15)
+    - elementer som viser at noen er nær osv som i Fortnite (delt opp    - elementer som viser at noen er nær osv som i Fortnite (delt opp Seksjon21-22)
 
 - Uklart/ikke angitt
     - Alle
@@ -756,10 +756,10 @@ motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
     - Hard to see, tiring
     - It felt more natural and easier to play
     - Få bort gjennomsiktighet som gjør at jeg sliter med å lese
-    - Lys ømfintlig (delt opp Seksjon21-50)
-    - For å se bedre med litt mørk lys (delt opp Seksjon21-93)
-    - ser penere ut (delt opp Seksjon21-95)
-    - visuals) (delt opp Seksjon21-17)
+    - Lys ømfintlig (delt opp Seksjon23-50)
+    - For å se bedre med litt mørk lys (delt opp Seksjon23-93)
+    - ser penere ut (delt opp Seksjon23-95)
+    - visuals) (delt opp Seksjon23-17)
 
 - Fargeblindhet og fargetilpasning
     - Subtítulos por el idioma, los de daltonismo por curiosidad
@@ -769,33 +769,33 @@ motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
     - To have dialogues in original version and subtitles in my language
     - My reading comprehension is better than my reading comprehension
     - Dysleksi og apd
-    - ser litt dårlig (liten tekst) (delt opp Seksjon21-50)
-    - Teksting (delt opp Seksjon21-51)
+    - ser litt dårlig (liten tekst) (delt opp Seksjon23-50)
+    - Teksting (delt opp Seksjon23-51)
     - quicker to read subtitles than to wait for a character to finish speaking
     - Bruker den for å få med dialoger og viktig informasjon i spill der karakterene ofte har stemmer.
-    - litt større tekst (delt opp Seksjon21-93)
+    - litt større tekst (delt opp Seksjon23-93)
 
 - Grensesnitt, tekst og lesbarhet
-    - ser litt dårlig (liten tekst) (delt opp Seksjon21-50)
+    - ser litt dårlig (liten tekst) (delt opp Seksjon23-50)
     - Liten tekst
-    - litt større tekst (delt opp Seksjon21-93)
+    - litt større tekst (delt opp Seksjon23-93)
 
 - Lyd og vibrasjon
-    - ease of play (sound) (delt opp Seksjon21-17)
-    - ofte utilstrekkelig lydmiks til å skille ut dialog (delt opp Seksjon21-51)
+    - ease of play (sound) (delt opp Seksjon23-17)
+    - ofte utilstrekkelig lydmiks til å skille ut dialog (delt opp Seksjon23-51)
     - Sometimes the text is too small to read or the music swamps the dialogue
     - Tilpasset mitt hørselstap
     - Gjøre skriving lettere
 
 - Kontroller og input
-    - No estoy acostumbrada a jugar, y prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon21-10)
+    - No estoy acostumbrada a jugar, y prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon23-10)
     - Buscas más cómodidad al jugar
-    - Curiosity (control customisation) (delt opp Seksjon21-17)
-    - Knappejustering pga preferanser og (delt opp Seksjon21-51)
-    - eller forbigående smerte i enkelte ledd (delt opp Seksjon21-51)
+    - Curiosity (control customisation) (delt opp Seksjon23-17)
+    - Knappejustering pga preferanser og (delt opp Seksjon23-51)
+    - eller forbigående smerte i enkelte ledd (delt opp Seksjon23-51)
 
 - Tid, tempo og spillflyt
-    - prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon21-10)
+    - prefiero que vaya más lento para poder controlarlo mejor (delt opp Seksjon23-10)
 
 - Indikatorer og navigasjon
     - Hjelp for å lokalisere fiender. Da jeg ikke klarer å høre hvor de er
@@ -840,7 +840,7 @@ personlig-opplevd-curb-cut-tekst_without-impair
     - Alpha - some enemies were more visible, the animation was "sharper"
 
 - Fargeblindhet og fargetilpasning
-    - farge code tekst (delt opp Seksjon22-10)
+    - farge code tekst (delt opp Seksjon25-10)
 
 - Tekst og undertekster
     - Subtitles
@@ -849,23 +849,23 @@ personlig-opplevd-curb-cut-tekst_without-impair
     - Mulighet til å ha teksting på dialoger da dette bidrar til å få med alle detaljene som dårlig lyd kunne ødelagt
     - quicker to read subtitles than to wait for a character to finish speaking
     - Better comprehension of dialogs
-    - Tekst (delt opp Seksjon22-10)
+    - Tekst (delt opp Seksjon25-10)
 
 - Grensesnitt, tekst og lesbarhet
     - change font size and color
-    - Skru opp og ned størrelse på tekst (delt opp Seksjon22-13)
-    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon22-15)
+    - Skru opp og ned størrelse på tekst (delt opp Seksjon25-13)
+    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon25-15)
     - Samme som nevnt over. Få bort gjennomsiktighet
 
 - Lyd og vibrasjon
-    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon22-15)
+    - When text is too small or when the soundtrack is too muffled (delt opp Seksjon25-15)
 
 - Kontroller og input
     - Poder cambiar los controles
-    - Bytte knapper så abyx og trekant sirkel osv er på riktig plass i forhold til hva jeg er vant med (delt opp Seksjon22-13)
+    - Bytte knapper så abyx og trekant sirkel osv er på riktig plass i forhold til hva jeg er vant med (delt opp Seksjon25-13)
 
 - Tid, tempo og spillflyt
-    - evnen til å pause eller sakke tiden (delt opp Seksjon22-10)
+    - evnen til å pause eller sakke tiden (delt opp Seksjon25-10)
 
 - Indikatorer og navigasjon
     - Automatisk "item-pickup" var veldig hjelpsomt slik at man slipper å trykke A fire hundre ganger i minuttet mens man spiller
