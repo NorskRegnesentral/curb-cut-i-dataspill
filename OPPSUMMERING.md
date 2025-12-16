@@ -558,9 +558,9 @@ Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting 
 - **Eksterne hjelpemidler og omgivelser**  
 Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
   
-# kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
+# 19. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
 
-18. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
+kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
 
 ## Kategorisering
 
@@ -660,10 +660,9 @@ Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade b
 - **Visuell komfort og epilepsitiltak**  
 Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.
  
-# bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
+# 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
 
-19. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
-
+bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 
 ## Kategorisering
 
@@ -746,9 +745,9 @@ Assistanse som automatisk gjenstandsoppsamling og visuelle indikatorer for hende
 - **Uklart/ikke angitt**  
 Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
 
-# motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
+# 23. Hva fikk deg til å bruke disse funksjonene?
 
-21. Hva fikk deg til å bruke disse funksjonene?
+motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
 
 ## Kategorisering
 
@@ -830,9 +829,9 @@ Muligheten til å senke tempoet eller bruke pausefunksjoner gjør spillet mer h�
 - **Indikatorer og navigasjon**
 Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde oversikt, og flere nevner at slike funksjoner gjør spillet morsommere og enklere, som «hjelp for å lokalisere fiender» og «signalfunksjoner for retning».
 
-# personlig-opplevd-curb-cut-tekst_without-impair
+# 25. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
 
-22. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
+personlig-opplevd-curb-cut-tekst_without-impair
 
 ## Kategorisering
 
