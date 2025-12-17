@@ -231,31 +231,31 @@ Undertekster brukes ofte for å følge dialog og handling, og noen velger størr
 Synshemmede benytter skjermleser og tekst-til-tale-funksjoner for å navigere i spill, noe som gjør menyer og dialog tilgjengelige dersom utviklerne har lagt til rette for dette.  
 
 - **Lyd og vibrasjon**  
-Respondenter demper eller justerer lyd og vibrasjon for å unngå stress, for eksempel ved å slå av vibrering i håndkontroller, mute repeterende lyder og balansere bakgrunns- og forgrunnslyder.  
+Respondenter demper eller justerer lyd og vibrasjon for å unngå stress, for eksempel ved å slå av vibrering i håndkontroller, mute bakgrunnslyder eller repeterende lyder og balansere bakgrunns- og forgrunnslyder.  
 
 - **Vanskelighetsgrad og spillbalanse**  
-Flere tilpasser vanskelighetsnivået for å gjøre spill mer tilgjengelige, som å sette spillet på easy eller redusere fiendeaggresjon.  
+Flere tilpasser vanskelighetsnivået for å gjøre spill mer tilgjengelige, som å sette spillet på easy eller aktivere fredelig modus (peaceful mode) for å redusere fiendeaggresjon.  
 
 - **Tid, tempo og spillflyt**  
-Pausefunksjoner og utvidede tidsfrister gir bedre flyt og mindre stress, for eksempel ved å pause spillet når man leser, utvide tidsbegrensninger og aktivere fredelig modus (peaceful mode).  
+Pausefunksjoner og utvidede tidsfrister gir bedre flyt og mindre stress, for eksempel ved å pause spillet når man leser, utvide tidsbegrensninger. 
 
 - **Kontroller og input**  
 Mange tilpasser kontroller med remapping og ergonomiske løsninger, som knappemapping, vekslefunksjon (toggle) sprint, autohold i stedet for rask trykking og kontrollersupport.  
 
 - **Indikatorer og navigasjon**  
-Visuelle og lydindikatorer, sikteassistanse (auto-aim) og navigasjonshjelp (pathfinding) gjør orientering enklere og hjelper med presisjon. Eksempler er autolås på mål (lock-on), unnamanøver (dodge)/parering (parry)-indikatorer og kartbasert navigasjon.  
+Visuelle og lydindikatorer, sikteassistanse (auto-aim) og navigasjonshjelp (pathfinding) gjør orientering enklere og hjelper med presisjon. Eksempler er autolås på mål (lock-on), unnamanøver (dodge)/parering (parry)-indikatorer og kartbasert navigasjon. Én spiller nevnte også bruk av tastaturmacro for å skrive fortere i chatten.  
 
 - **Fargeblindhet og fargetilpasning**  
 Fargeblindmoduser og filtre brukes for å skille viktige elementer, som fargeblindmodus, invertering av farger og andre fargejusteringer for bedre kontrast.  
 
 - **Grensesnitt, tekst og lesbarhet**  
-UI-skalering, skriftstørrelse og zoom gir bedre lesbarhet, med eksempler som større font, zoom og mørke menyer.  
+UI-skalering, skriftstørrelse og zoom gir bedre lesbarhet, med eksempler som større font, stor muspeker, zoom og mørke menyer.  
 
 - **Automatisering og QoL**  
 Mods og automatiske funksjoner som automatisk gjenstandsoppsamling (auto-pickup) loot og automatisk helbredelse (auto-heal) reduserer repetitivt arbeid og gjør spillet mer tilgjengelig.  
 
 - **Eksterne hjelpemidler og omgivelser**  
-Eksterne verktøy og fysisk tilpasning gir bedre komfort, for eksempel funksjonen Night light i Windows, SetGamma for lysjustering, headset tilpasset høreapparat og Hue-lys for regulering av rombelysning. 
+Eksterne verktøy, mods og fysisk tilpasning gir bedre komfort, for eksempel en eske under beinene, funksjonen «Night light» i Windows, «SetGamma» for lysjustering, «nGlide» for Full HD, headset tilpasset høreapparat og «Hue»-lys fra Phillips for regulering av rombelysning. 
 
 ## 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? 
 
@@ -366,13 +366,13 @@ savnete-tilgjengelighetsfunksjoner
 ### Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
 - **Visuell komfort og skjerminnstillinger**  
-Flere savner mulighet til å justere lysstyrke mer presist, aktivere epilepsitiltak og bruke innstillinger mot bevegelsessyke. Eksempler er bedre lysinnstillinger og tilpasning for lysømfintlighet.  
+Flere savner mulighet til å justere lysstyrke mer presist, øke kontrast, aktivere flere epilepsitiltak og bruke innstillinger mot bevegelsessyke. Eksempler er bedre lysinnstillinger og tilpasning for lysømfintlighet.  
 
 - **Kamera, synsfelt og bevegelse**  
 Respondenter ønsker flere alternativer for kameravisning, som 3. person-visning og mindre kamerabevegelse, samt mulighet til å deaktivere førsteperson-modus for å redusere kvalme.  
 
 - **Tekst og undertekster**  
-Mange etterlyser bedre teksting og tale-til-tekst i chat, samt undertekster for dialog og stemmebruk. Eksempler er undertekst når NPC snakker og lyd-til-tekst for mikrofonbruk.  
+Mange etterlyser bedre teksting og tale-til-tekst i chat, samt undertekster for dialog og stemmebruk, både fra NPC og andre spillere. Eksempler er undertekst når NPC snakker og lyd-til-tekst for mikrofonbruk av andre spillere.  
 
 - **Skjermleser, opplesning og audiobeskrivelse**  
 Det er behov for bedre støtte for skjermlesere og audiobeskrivelse, slik at synshemmede kan få tilgang til menyer og spillinformasjon.  
@@ -390,13 +390,13 @@ Funksjoner som fjerning av tidsbegrensninger, justering av spillhastighet og enk
 Flere ønsker bedre støtte for ergonomiske kontroller, kombinasjon av mus og kontroller og funksjoner som «hold» i stedet for rask klikking, samt click-to-move og mulighet til å slå av museakselerasjon.  
 
 - **Indikatorer og navigasjon**  
-Det er behov for flere visuelle og lydindikatorer, sikteassistanse (sikteassistanse (auto-aim)), autolås på mål (lock-on) og navigasjonshjelp (pathfinding), som unnamanøver (dodge)/parering (parry)-indikatorer og lydsignaler for fotspor og visuelle indikatorer for fiender.  
+Det er behov for flere visuelle og lydindikatorer, sikteassistanse (auto-aim), autolås på mål (lock-on) og navigasjonshjelp (pathfinding), som unnamanøver (dodge)/parering (parry)-indikatorer og lydsignaler for fotspor og visuelle indikatorer for lyder.  
 
 - **Grensesnitt, tekst og lesbarhet**  
-Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll.  
+Spillere savner (muligheten til å for)større skrift, mørke menyer og mørk modus, bedre musestøtte og flere grafikkinnstillinger, også på konsoll.  
 
 - **Kognitiv støtte og oversikt**  
-Flere ønsker kart over hvor de har vært, automatisk logg og innebygd notatbok for bedre oversikt.  
+Flere ønsker kart over hvor de har vært, dialoghistorie, automatisk logg og innebygd notatbok for bedre oversikt.  
 
 - **Sansefilter og dempede inntrykk**  
 Mulighet for «dempet sanseintrykk» og filter mot overstimulering etterlyses, slik at lyd og lys kan reduseres på dårlige dager.  
@@ -464,7 +464,7 @@ Flere brukte epilepsitiltak og mulighet til å deaktivere blinkende effekter for
 Reduksjon av skjermristing og aktivering av modus mot bevegelsessyke (Anti-screensickness-modus) hjalp spillere med kvalme og bevegelsessyke.  
 
 - **Tekst og undertekster**  
-Undertekster ble brukt for å følge dialog og handling, selv om funksjonen ikke var laget for dem, for eksempel ved å aktivere teksting i spill med mye tale..  
+Undertekster ble brukt for å følge dialog og handling, selv om funksjonen ikke var laget for dem, for eksempel ved å aktivere teksting i spill med mye tale. 
 
 - **Tid, tempo og spillflyt**  
 Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelsen mindre stressende.  
@@ -473,7 +473,7 @@ Funksjoner som pauser og passive fiender ble brukt for å gjøre spillopplevelse
 Endring fra rask knappetrykking til «hold» eller enkelttrykk hjalp spillere med motoriske utfordringer.  
 
 - **Indikatorer og navigasjon**  
-Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse. Eksempler er lyd på skjerm og visuelle indikatorer for fiender .  
+Visuelle og lydindikatorer, inkludert retningsmarkører og lydvisualisering, hjalp med orientering og situasjonsforståelse. Eksempler er lyd på skjerm og visuelle indikatorer for fiender.  
 
 - **Fargeblindhet og fargetilpasning**  
 Fargeblindmodus ble brukt av spillere som ikke er fargeblinde fordi det ga bedre kontrast og synlighet, for eksempel i puslespill.  
@@ -552,7 +552,7 @@ Funksjoner som knappemapping og vekslefunksjon (toggle), laget for motoriske utf
 Visuelle og lydindikatorer, samt kartmarkører, hjelper spillere med navigasjon og situasjonsforståelse. Eksempler er lyd på skjerm og visuelle indikatorer for fiender.  
 
 - **Fargeblindhet og fargetilpasning**  
-Fargeblindmodus og fargejusteringer brukes av spillere for bedre kontrast og synlighet, og noen nevner at dette gir fordeler i konkurransespill.  
+Fargeblindmodus og fargejusteringer brukes av spillere for bedre kontrast og synlighet, kan gjør spill enklere og greiere å spille, og noen nevner at dette gir fordeler i konkurransespill.  
 
 - **Grensesnitt, tekst og lesbarhet**  
 Større tekst og GUI-tilpasninger, laget for synsutfordringer, brukes av spillere for bedre lesbarhet, som å endre skriftstørrelse i menyer.  
