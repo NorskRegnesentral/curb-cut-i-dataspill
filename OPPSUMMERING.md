@@ -232,7 +232,7 @@ Synshemmede bruker skjermleser og tekst-til-tale-funksjoner for å navigere i sp
 Volum og vibrasjon justeres eller dempes for å unngå stress, for eksempel ved å skru av vibrering i håndkontroller, mute raskt repeterende lyder og justere lyduttrykket for å balansere bakgrunns- og forgrunnslyder.
 
 - **Vanskelighetsgrad og spillbalanse**  
-Tilpasning av vanskelighetsnivå gjør spill mer tilgjengelige, som å sette spillet på easy eller redusere fiendeaggresjon.
+Tilpasning av vanskelighetsnivå gjør spill mer tilgjengelige, som å sette spillet på lett-modus (easy) eller redusere fiendeaggresjon.
 
 - **Tid, tempo og spillflyt**  
 Pausefunksjoner og utvidede tidsfrister gir bedre flyt og mindre stress, for eksempel ved å pause spillet når man leser, utvide tidsbegrensninger og aktivere fredelig modus (peaceful mode).
@@ -249,14 +249,11 @@ Fargeblindmoduser og filtre brukes for å skille viktige elementer, som fargebli
 - **Grensesnitt, tekst og lesbarhet**  
 UI-skalering, skriftstørrelse og zoom gir bedre lesbarhet, med eksempler som større font, zoom og mørke menyer.
 
-- **Automatisering og QoL**  
+- **Automatisering og Quality of Life**  
 Mods og automatiske funksjoner som automatisk gjenstandsoppsamling (auto-pickup) loot og automatisk helbredelse (auto heal) reduserer repetitivt arbeid og gjør spillet mer tilgjengelig.
 
 - **Eksterne hjelpemidler og omgivelser**  
 Eksterne verktøy og fysisk tilpasning gir bedre komfort, for eksempel Nattlys-funksjonen (Night light) embedded in Windows, SetGamma for lysjustering, headset som passer over høreapparat og Hue lights for tilpasset belysning.
-
-- **Uklart/ikke angitt**  
-Noen svar er generelle eller uten konkrete funksjoner.
 
 # 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
 
@@ -367,10 +364,10 @@ savnete-tilgjengelighetsfunksjoner
 ## Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
 - **Visuell komfort og skjerminnstillinger**  
-Spillere savner flere lysinnstillinger og epilepsisikre alternativer, bedre kontrast og mulighet til å unngå førsteperson for å redusere ubehag, for eksempel ved å kunne justere lysstyrke mer presist, aktivere epilepsitiltak og bruke motion sickness-modus.
+Spillere savner flere lysinnstillinger og epilepsisikre alternativer, for eksempel ved å kunne justere lysstyrke mer presist, aktivere epilepsitiltak og bruke motion sickness-modus.
 
 - **Kamera, synsfelt og bevegelse**  
-Mange ønsker mulighet for 3. person-visning og mindre kamerabevegelse, som å kunne velge 3D-perspektiv, redusere kameraristing og deaktivere førsteperson-modus.
+Mange ønsker mulighet for 3. person-visning og mindre kamerabevegelse, som å kunne velge 3D-perspektiv og redusere kameraristings.
 
 - **Tekst og undertekster**  
 Spillere etterlyser bedre teksting og tale-til-tekst i chat, samt undertekster for dialog og stemmebruk, for eksempel undertekst når NPC snakker og lyd-til-tekst for mikrofonbruk.
@@ -379,28 +376,28 @@ Spillere etterlyser bedre teksting og tale-til-tekst i chat, samt undertekster f
 Det er behov for bedre støtte for skjermlesere og audiobeskrivelse, slik at synshemmede kan få tilgang til menyer og spillinformasjon.
 
 - **Lyd og vibrasjon**  
-Spillere ønsker mulighet til å dempe stressende lyder, justere musikk og stemmebalanse, og slå av uønskede lyder, som å skru av pulsøkende effekter og redusere bakgrunnsambience.
+Spillere ønsker mulighet til å dempe stressende lyder, justere musikk og stemmebalanse, som å skru av pulsøkende effekter og redusere bakgrunnsambience.
 
 - **Vanskelighetsgrad og spillbalanse**  
-Flere savner fleksible innstillinger for vanskelighetsgrad og færre fiender i enkelte spill, for eksempel Schwierigkeitsgrad og mulighet til å redusere antall motstandere.
+Flere savner fleksible innstillinger for vanskelighetsgrad og færre fiender i enkelte spill.
 
 - **Tid, tempo og spillflyt**  
-Funksjoner som fjerning av tidsbegrensninger, justering av spillhastighet og enklere hintsystemer etterlyses, som å skru av tidsfrister, gjenta hint uten restart og deaktivere Quicktime-events.
+Funksjoner som fjerning av tidsbegrensninger, justering av spillhastighet og enklere hintsystemer etterlyses, som å gjenta hint uten restart og deaktivere Quicktime-events.
 
 - **Kontroller og input**  
 Spillere ønsker bedre støtte for ergonomiske kontroller, kombinasjon av mus og kontroller og funksjoner som «hold» i stedet for rask klikking, samt click-to-move og mulighet til å slå av museakselerasjon.
 
 -- **Indikatorer og navigasjon**  
-Det er behov for flere visuelle og lydindikatorer, sikteassistanse (auto-aim), autolock og navigasjonshjelp, som unnamanøver (dodge)/parering (parry)-indikatorer, lydsignaler for fotspor og visuelle indikatorer for fiender.
+Det er behov for flere visuelle og lydindikatorer som unnamanøver (dodge)/parering (parry)-indikatorer eller lydsignaler for fotspor, sikteassistanse (auto-aim), autolock og navigasjonshjelp, og visuelle indikatorer for fiender.
 
 - **Grensesnitt, tekst og lesbarhet**  
-Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll, for eksempel mulighet til å endre fontstørrelse og aktivere mørke temaer.
+Spillere savner større skrift, mørke menyer, bedre musestøtte og flere grafikkinnstillinger, også på konsoll.
 
 - **Kognitiv støtte og oversikt**  
 Spillere ønsker kart over hvor de har vært, automatisk logg og innebygd notatbok for bedre oversikt.
 
 - **Sansefilter og dempede inntrykk**  
-Mulighet for «dempet sanseintrykk» og filter mot overstimulering etterlyses, slik at lyd og lys kan reduseres på dårlige dager.
+Mulighet for å dempe sanseintrykk og filtrere mot overstimulering etterlyses.
 
 - **Oppdaterings- og versjonskontroll**  
 Flere ønsker å kunne takke nei til oppdateringer som endrer spillet drastisk.
