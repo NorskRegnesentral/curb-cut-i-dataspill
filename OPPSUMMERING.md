@@ -651,7 +651,7 @@ Justering av vanskelighetsgrad og spillparametere som fiendeaggresjon og skade b
 Noen respondenter la merke til muligheten til å pause, sakke ned eller bruke slow motion for å tilpasse spilltempo.  
 
 - **Kontroller og input**  
-Tilpasning av knapper og kontrollinnstillinger ble trukket frem som nyttige funksjoner, som knappemapping og justering av joystick-sensitivitet.  
+Tilpasning av knapper og kontrollinnstillinger ble trukket frem som kjente funksjoner, som knappemapping og justering av joystick-sensitivitet.  
 
 - **Indikatorer og navigasjon**  
 Funksjoner som sikteassistanse (auto-aim) og automatisering ble nevnt som hjelpemidler for spillere med redusert reaksjonsevne.  
@@ -661,9 +661,6 @@ Det var bred kjennskap til funksjoner som fargeblindmoduser og justering av farg
 
 - **Grensesnitt, tekst og lesbarhet**  
 Respondentene fremhevet muligheten til å endre fontstørrelse og skalere brukergrensesnittet for bedre lesbarhet, som større tekst og justering av UI-størrelse.  
-
-- **Visuell komfort og epilepsitiltak**  
-Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.  
 
 ## 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
 
@@ -736,7 +733,7 @@ Brukere rapporterte å justere musikkvolum og benytte stemmeskriving der dette v
 Noen anvendte muligheten til å pause eller senke tempoet i spillet for bedre kontroll.  
 
 - **Kontroller og input**  
-Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper, som knappemapping og tilpasning av joystick-sensitivitet.  
+Det var utbredt å tilpasse kontroller ved å endre sensitivitet og remappe knapper, som knappemapping og tilpasning av joystick-sensitivitet, vekslefunksjon (toggle) sprint og funksjoner som «hold» i stedet for rask trykking.
 
 - **Indikatorer og navigasjon**  
 Assistanse som automatisk gjenstandsoppsamling (auto-pickup) loot og visuelle indikatorer for hendelser eller retning ble tatt i bruk, som signalfunksjoner i skytespill.  
@@ -808,25 +805,25 @@ motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
 ### Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
 
 - **Visuell komfort og skjerminnstillinger**  
-Mange oppgir at de tilpasser lys og kontrast for å redusere øyebelastning og gjøre spillet mer behagelig. Eksempler er å fjerne gjennomsiktighet, aktivere høy kontrast-modus, dempe lys og justere lysstyrke. Flere nevner også at det «ser penere ut» og gir en mer naturlig spillopplevelse.  
+Mange oppgir at de tilpasser lys og kontrast for å redusere øyebelastning og gjøre spillet mer behagelig, for eksempel pga lysømfintlighet. Eksempler er å fjerne gjennomsiktighet, aktivere høy kontrast-modus, dempe lys og justere lysstyrke. Flere nevner også at det «ser penere ut» og gir en mer naturlig spillopplevelse.  
 
 - **Tekst og undertekster**  
-Undertekster brukes for å forstå dialoger, særlig når språket er fremmed eller lydkvaliteten dårlig. Flere nevner at det er raskere å lese tekst enn å vente på tale, og at teksting hjelper ved dysleksi eller auditiv prosesseringsvansker.  
+Undertekster brukes for å forstå dialoger, særlig når språket ikke er morsmålet eller lydkvaliteten dårlig. Flere nevner at det er raskere å lese tekst enn å vente på tale, og at teksting hjelper ved dysleksi eller auditiv prosesseringsvansker.  
 
 - **Lyd og vibrasjon**  
-Brukere tilpasser lyd for å unngå overstimulering eller kompensere for hørselstap, som å justere lydmiks, slå av forstyrrende lyder og tilpasse volum for bedre balanse.  
+Brukere tilpasser lyd for å gjøre spillopplevelsen enklere eller kompensere for hørselstap, som å justere lydmiks, slå av forstyrrende lyder og tilpasse volum for bedre balanse.  
 
 - **Tid, tempo og spillflyt**  
-Muligheten til å senke tempoet eller bruke pausefunksjoner gjør spillet mer håndterbart, for eksempel ved å aktivere slow motion eller redusere hastighet i krevende sekvenser.  
+Muligheten til å senke tempoet eller bruke pausefunksjoner gjør spillet mer håndterbart og øker presisjon, for eksempel ved å aktivere slow motion eller redusere hastighet i krevende sekvenser.  
 
 - **Kontroller og input**  
-Tilpasning av kontroller brukes for komfort og ergonomi, som knappemapping, vekslefunksjon (toggle) sprint og funksjoner som «hold» i stedet for rask trykking. Flere nevner at dette reduserer smerte i ledd eller gjør spillet enklere å håndtere.  
+Tilpasning av kontroller brukes for komfort og ergonomi, og pga preferanser. Flere nevner at dette reduserer smerte i ledd eller gjør spillet enklere å håndtere.
 
 - **Indikatorer og navigasjon**  
 Visuelle og lydindikatorer hjelper spillere med å lokalisere fiender og holde oversikt, og flere nevner at slike funksjoner gjør spillet morsommere og enklere.  
 
 - **Fargeblindhet og fargetilpasning**  
-Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, og enkelte nevner at det hjelper med å skille elementer i komplekse spill.  
+Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, og enkelte nevner at det hjelper med å gjøre spill enklere og greiere å spille.  
 
 - **Grensesnitt, tekst og lesbarhet**  
 Justering av tekststørrelse og UI ble brukt for å kompensere for liten tekst og gjøre grensesnittet mer lesbart, som å skru opp skriftstørrelsen eller aktivere større font.  
@@ -899,10 +896,10 @@ Det var utbredt å tilpasse kontroller ved å endre knappoppsett og konfigurere 
 Automatisk gjenstandsoppsamling (auto-pickup) loot og visuelle/audiovisuelle indikatorer for retning og hendelser ble tatt i bruk for å lette spillingen, som tegn på skjermen for fiender og lydsirkel som viser hvor skudd kommer fra.  
 
 - **Fargeblindhet og fargetilpasning**  
-Noen brukte fargekoding av tekst og fargeblindmodus for å lettere skille mellom elementer, selv om de ikke er fargeblinde, fordi det gir bedre kontrast i puslespill og komplekse scener.  
+Noen brukte fargekoding av tekst og fargeblindmodus for å lettere skille mellom elementer, selv om de ikke er fargeblinde.  
 
 - **Grensesnitt, tekst og lesbarhet**  
 Justering av skriftstørrelse, farger og reduksjon av gjennomsiktighet ble brukt for å øke lesbarheten og gjøre grensesnittet mer tilgjengelig, for eksempel ved å endre fontstørrelse og fjerne gjennomsiktige bakgrunner.  
 
 - **Vanskelighetsgrad og tilpasning**  
-Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips eller redusere behovet for komplekse knappekombinasjoner.  
+Enkelte brukere fremhevet at tilgjengelighetsfunksjoner kan gjøre vanskelige spill mer håndterbare, for eksempel ved å gi tips.  
