@@ -66,11 +66,13 @@
     - Språkstil avklares med brukeren: vitenskapelig, populærvitenskapelig eller nøytral rapportstil.  
     - Sammendraget kan inkludere enkle eksempler hvis nødvendig, men skal være kort og presist.
 
-# 11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
+# Spillere med funskjonsnedsettelse
+
+##  11. Hvilke tilgjengelighetsfunksjoner bruker du når du gamer/spiller?
 
 bruk-av-tilgjengelighetsfunksjoner_with-impair
 
-## Kategorisering (0)
+### Kategorisering (0)
 
 **Antall svar: 53**
 
@@ -214,7 +216,7 @@ bruk-av-tilgjengelighetsfunksjoner_with-impair
     - Forstår ikke
     - Ingen (delt opp Seksjon11-06)
 
-## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere
+### Sammendrag av tilgjengelighetsfunksjoner brukt av spillere med funksjonsnedsettelser
 
 - **Visuell komfort og skjerminnstillinger**  
 Spillere justerer lysstyrke, kontrast og farger, slår av blinkende effekter og bevegelsesuskarphet (motion blur), og bruker epilepsitiltak for å redusere ubehag og bevegelsessyke, for eksempel ved å skru av blinkende lys, redusere bevegelse på skjermen, invertere farger og aktivere Anti screensickness-modus.
@@ -258,11 +260,11 @@ Eksterne verktøy og fysisk tilpasning gir bedre komfort, for eksempel Nattlys-f
 - **Uklart/ikke angitt**  
 Noen svar er generelle eller uten konkrete funksjoner.
 
-# 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? (Alle land)
+## 12. Hvilke tilgjengelighetsfunksjoner savner du i spillene du spiller? 
 
 savnete-tilgjengelighetsfunksjoner
 
-## Kategorisering (1)
+### Kategorisering (1)
 
 **Antall svar: 53** # stemmer dette?
 
@@ -364,7 +366,7 @@ savnete-tilgjengelighetsfunksjoner
     - Ingen for min del
     - Kommer ikke på noe
 
-## Sammendrag av tilgjengelighetsfunksjoner spillere savner
+### Sammendrag av tilgjengelighetsfunksjoner spillere savner
 
 - **Visuell komfort og skjerminnstillinger**  
 Spillere savner flere lysinnstillinger og epilepsisikre alternativer, bedre kontrast og mulighet til å unngå førsteperson for å redusere ubehag, for eksempel ved å kunne justere lysstyrke mer presist, aktivere epilepsitiltak og bruke motion sickness-modus.
@@ -408,11 +410,11 @@ Flere ønsker å kunne takke nei til oppdateringer som endrer spillet drastisk.
 - **Eksterne hjelpemidler og omgivelser**  
 Noen nevner behov for bedre grafikk- og lydtilpasning via eksterne løsninger.
 
-# 13. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
+## 13. Har du brukt tilgjengelighetsfunksjoner som ikke var laget for dine behov, men som likevel hjalp deg? Hvilke funksjoner gjaldt det?
 
 personlig-opplevd-curb-cut_with-impair
 
-## Kategorisering (2)
+### Kategorisering (2)
 
 - Tekst og undertekster
     - Teksting
@@ -456,7 +458,7 @@ personlig-opplevd-curb-cut_with-impair
 - Lyd og vibrasjon
     - Chatte-muligheter i spill når "alle andre" virker til å være i voice chat (delt opp Seksjon13-15)
 
-## Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
+### Sammendrag av tilgjengelighetsfunksjoner som hjalp spillere med funksjonsnedsettelser (uten å være laget for deres behov)
 
 - **Visuell komfort og skjerminnstillinger**  
 Flicker-free alternativer og mulighet til å deaktivere lysblinking ble brukt for å redusere ubehag, spesielt av spillere som er følsomme for epilepsitriggere.
@@ -485,11 +487,11 @@ Funksjoner for større tekst og GUI hjalp spillere med lesbarhet og navigasjon, 
 - **Kommunikasjon og chat**  
 Tekstbasert chat ble brukt som alternativ til stemmechat for bedre kommunikasjon, som å skrive meldinger når stemmechat (voice chat) er vanskelig.
 
-# 16. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
+## 16. Har du lagt merke til at funksjoner laget for én gruppe brukes av andre spillere?  Hvilke funksjoner har du lagt merke til?
 
 generell-opplevd-curb-cut-tekst_with-impair
 
-## Kategorisering (3)
+### Kategorisering (3)
 
 - Tekst og undertekster
     - Tekst på skjermen nå helt vanlig men ble opprinnelig laget for hørselshemmede
@@ -535,7 +537,7 @@ generell-opplevd-curb-cut-tekst_with-impair
 - Uklart/ikke angitt
     - He notado, por lo menos en los juegos que ustedes tienen, muchas mejoras de accesibilidad que ningún otro juego tiene
 
-## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)
+### Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere med funksjonsnedsettelse)
 
 - **Visuell komfort og skjerminnstillinger**  
 Lys- og kontrastinnstillinger, opprinnelig laget for synshemmede, hjelper mange med å redusere ubehag, for eksempel ved å øke kontrast eller justere lysstyrke.
@@ -564,11 +566,13 @@ Aim assist, laget for å støtte presisjon, brukes av mange for enklere sikting 
 - **Eksterne hjelpemidler og omgivelser**  
 Mods gir fleksibilitet og tilpasning, selv om de ikke er laget for spesifikke behov.
 
-# 19. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
+# Spillere uten funksjonsnedsettelse
+
+## 19. Har du lagt merke til tilgjengelighetsinnstillinger eller -funskjoner i spill du har spilt?
 
 kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
 
-## Kategorisering (4)
+### Kategorisering (4)
 
 - Visuell komfort og skjerminnstillinger
     - contrast, transparency (delt opp Seksjon19-02)
@@ -632,7 +636,7 @@ kjennskap-til-tilgjengelighetsfunksjoner-tekst_without-impair
     - vanskelighetsgrad (delt opp Seksjon19-18)
     - Justering av individuelle innstillinger som påvirker spillbarhet, fiende aggresjon, helse, skade man gjør o.l. (delt opp Seksjon19-21)
 
-## Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til
+### Sammendrag av tilgjengelighetsfunksjoner som spillere har lagt merke til
 
 - **Visuell komfort og skjerminnstillinger**  
 Flere respondenter nevnte muligheten til å justere kontrast, lysstyrke og skjerminnstillinger for bedre visuell komfort, som å aktivere høy kontrast eller endre lysstyrke.
@@ -664,11 +668,11 @@ Respondentene fremhevet muligheten til å endre fontstørrelse og skalere bruker
 - **Visuell komfort og epilepsitiltak**  
 Enkelte respondenter nevnte innstillinger for å skru av blinkende lys og epilepsitiltak for å redusere risiko.
 
-# 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
+## 21. Har du noen gang brukt slike funksjoner selv – for eksempel teksting, fargejustering, zoom, kontrolltilpasning eller assistansemoduser? Hvilke tilgjengelighetsfunksjoner har du brukt?
 
 bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 
-## Kategorisering (5)
+### Kategorisering (5)
 
 - Visuell komfort og skjerminnstillinger
     - brightness/color adjustments (delt opp Seksjon21-06)
@@ -720,7 +724,7 @@ bruk-av-tilgjengelighetsfunksjoner-tekst_without-impair
 - Uklart/ikke angitt
     - Alle
 
-## Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
+### Sammendrag av tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
 
 - **Visuell komfort og skjerminnstillinger**  
 Flere brukere justerte lysstyrke, kontrast og farger for en mer behagelig spillopplevelse, som å aktivere høy kontrast, dempe lys eller bruke alfa-effekter.
@@ -749,11 +753,11 @@ Justering av tekst- og UI-størrelse samt zoom ble brukt for å øke lesbarheten
 - **Uklart/ikke angitt**  
 Enkelte oppga å bruke «alle» eller «alt nødvendig» av tilgjengelighetsfunksjoner, uten å spesifisere nærmere.
 
-# 23. Hva fikk deg til å bruke disse funksjonene?
+## 23. Hva fikk deg til å bruke disse funksjonene?
 
 motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
 
-## Kategorisering (6)
+### Kategorisering (6)
 
 - Visuell komfort og skjerminnstillinger
     - avoid eye strain, avoid having to buy complex game setup to be able to play the game
@@ -807,7 +811,7 @@ motivasjon-for-bruk-av-tilgjengelighetsfunksjoner
     - Lettere for meg å henge på
     - Fordi det er et verktøy som gjør spillet morsommere når det er vanskelig spill, ellers bruker jeg de ikke.
 
-## Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
+### Sammendrag av motivasjon for tilgjengelighetsfunksjoner brukt av spillere uten funksjonsnedsettelse
 
 - **Visuell komfort og skjerminnstillinger**
 Brukere oppgir at de tilpasser lys og kontrast for å redusere øyebelastning og gjøre spillet mer behagelig, som å fjerne gjennomsiktighet, dempe lys, justere lysstyrke og aktivere høy kontrast-modus. Flere nevner også at det «ser penere ut» og gir en mer naturlig spillopplevelse.
@@ -833,11 +837,11 @@ Noen brukte fargeblindinnstillinger av nysgjerrighet eller for bedre synlighet, 
 - **Grensesnitt, tekst og lesbarhet**
 Justering av tekststørrelse og UI ble brukt for å kompensere for liten tekst og gjøre grensesnittet mer lesbart, som å skru opp skriftstørrelsen eller aktivere større font.
 
-# 25. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
+## 25. Har du opplevd at funksjoner laget for tilgjengelighet har forbedret din egen spillopplevelse? Har du eksempler på funksjoner der dette har vært tydelig?
 
 personlig-opplevd-curb-cut-tekst_without-impair
 
-## Kategorisering (7)
+### Kategorisering (7)
 
 - Visuell komfort og skjerminnstillinger
     - Adjusting brightness or colour palettes to make things easier to see, more enjoyable experience
@@ -880,7 +884,7 @@ personlig-opplevd-curb-cut-tekst_without-impair
 - Vanskelighetsgrad og spillbalanse
     - Fordi det er et verktøy som gjør spillet morsommerer når det er vanskelig spill, ellers bruker jeg de ikke. Det skal være utofrdrenede, men å få tips til hvor man skal gå eller slippe gjøre kombinasjoner som er ekstremt vanskelig om man ikke spiller mer enn 1-2 timer om dagen gjør det til et nyttig hjelpemiddel
 
-## Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere uten funksjonsnedsettelse)
+### Sammendrag av funksjoner laget for én gruppe, men brukt av andre spillere (svar fra brukere uten funksjonsnedsettelse)
 
 - **Visuell komfort og skjerminnstillinger**  
 Flere brukere justerte lysstyrke og fargepaletter for å gjøre elementer mer synlige og spillopplevelsen mer behagelig, for eksempel ved å aktivere lysstyrke-justering eller bruke alfa-effekter for skarpere animasjoner.
