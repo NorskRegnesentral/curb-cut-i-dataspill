@@ -57,7 +57,7 @@ tasks_no = {
    7: {
          "var": ["funksjonsnedsettelse"],
          "sets":  ["all"], 
-         "title": "Har du en funksjonsnedsettelse eller tilstand som påvirker hvordan du gamer/spiller?",
+         "title": "Har du en funksjonsnedsettelse eller tilstand\nsom påvirker hvordan du gamer/spiller?",
          "kind":  "pie",
          "cmap":  pie_color_dark,
          "text_bckgrd": True
